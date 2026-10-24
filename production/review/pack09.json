@@ -125,5 +125,10 @@
  "pack09_100_airship_freight_seal_made_of_blue_wax": {
   "decision": "problem",
   "note": "drawn as an airship instead of a wax seal; near-duplicate of 024"
+ },
+ "pack09_102_leather_aviator_goggles_with_side_shields": {
+  "decision": "renamed",
+  "note": "goggles drawn on a cap",
+  "drawn_as": "Leather aviator cap with goggles"
  }
 }
