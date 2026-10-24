@@ -1,0 +1,57 @@
+{
+ "pack08_001_cracked_pocket_watch_stopped_at_mismatched_hands": {
+  "decision": "accepted",
+  "note": "v1 pilot added wings",
+  "fix_note": "free fix: unrequested wings erased, case rim redrawn"
+ },
+ "pack08_014_sealed_evidence_jar_holding_gray_ash": {
+  "decision": "accepted",
+  "note": "label had pseudo-text",
+  "fix_note": "free fix: pseudo-letters on label replaced by a plain line"
+ },
+ "pack08_015_snapped_violin_string_coiled_on_cloth": {
+  "decision": "renamed",
+  "note": "whole violin drawn instead of a coiled string",
+  "drawn_as": "Violin with a snapped string on cloth"
+ },
+ "pack08_019_pressed_black_feather_inside_a_glass_slide": {
+  "decision": "renamed",
+  "note": "glass slide missing",
+  "drawn_as": "Pressed black feather"
+ },
+ "pack08_022_accordion_bellows_evidence_camera_miniature": {
+  "decision": "renamed",
+  "note": "accordion-bellows camera drawn as an accordion",
+  "drawn_as": "Small evidence accordion"
+ },
+ "pack08_025_mechanical_lock_inspection_loupe": {
+  "decision": "renamed",
+  "note": "loupe drawn as padlock",
+  "drawn_as": "Mechanical brass padlock with inspection ring"
+ },
+ "pack08_030_collapsible_footprint_casting_frame": {
+  "decision": "renamed",
+  "note": "odd but readable",
+  "drawn_as": "Footprint casting frame"
+ },
+ "pack08_046_oval_walnut_tea_trolley_miniature": {
+  "decision": "renamed",
+  "note": "trolley drawn as round lidded vessel",
+  "drawn_as": "Round walnut tea caddy"
+ },
+ "pack08_050_tall_umbrella_stand_shaped_like_twisted_vines": {
+  "decision": "renamed",
+  "note": "umbrella rather than stand",
+  "drawn_as": "Twisted vine umbrella"
+ },
+ "pack08_052_narrow_coat_stand_with_raven_hooks": {
+  "decision": "renamed",
+  "note": "reads as cloaked figure",
+  "drawn_as": "Hooded cloak on a narrow coat stand"
+ },
+ "pack08_121_porcelain_doll_with_stitched_cloth_torso": {
+  "decision": "accepted",
+  "note": "v1 pilot added crystal horns",
+  "fix_note": "free fix: crystal horns recoloured as burgundy hair bows"
+ }
+}

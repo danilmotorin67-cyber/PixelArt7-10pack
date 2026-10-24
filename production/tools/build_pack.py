@@ -195,8 +195,10 @@ def main(pack_no):
                       "charged_generations": a_row[4], "tool": "PixelLab create_image_pixen",
                       "params": {k: v for k, v in used["args"].items() if k != "description"}})
         manifest.append({"stable_id": aid, "pack_id": pack["slug"], "category_id": e["category_id"],
-                         "name_en": e["name_en"], "category_ru": e["category_ru"], "tags": e["tags"],
-                         "status": "accepted", "native_size": [64, 64],
+                         "name_en": rv.get("drawn_as", e["name_en"]), "planned_name_en": e["name_en"],
+                         "category_ru": e["category_ru"], "tags": e["tags"],
+                         "status": "accepted_renamed" if rv.get("drawn_as") else "accepted",
+                         "native_size": [64, 64],
                          "paths": {"64": "png_64/" + e["filename"], "128": "png_128/" + e["filename"],
                                    "256": "png_256/" + e["filename"]},
                          "visible_bbox": m["bbox"], "colors": m["colors"], "visible_sha256": m["visible_sha256"],
