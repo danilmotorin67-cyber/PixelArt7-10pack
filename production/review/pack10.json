@@ -39,5 +39,22 @@
  "pack10_080_cloth_lined_crown_jewel_record_casket": {
   "decision": "problem",
   "note": "drawn as a crown; near-duplicate of 020"
+ },
+ "pack10_085_geared_mechanical_orrery_miniature": {
+  "decision": "problem",
+  "note": "armillary-like sphere; near-duplicate of 081"
+ },
+ "pack10_087_golden_sand_flow_study_timer": {
+  "decision": "renamed",
+  "note": "cube cabinet, sand not visible",
+  "drawn_as": "Gilded study timer cabinet"
+ },
+ "pack10_095_ivory_perspective_drawing_frame": {
+  "decision": "problem",
+  "note": "ornate gold-navy cube; near-duplicate of 087"
+ },
+ "pack10_099_library_light_intensity_lens_meter": {
+  "decision": "problem",
+  "note": "brass cylinder device; near-duplicate of 096"
  }
 }

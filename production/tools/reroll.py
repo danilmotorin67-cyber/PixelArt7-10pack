@@ -41,6 +41,9 @@ REROLLS = {
     "pack10_053_pearl_inlaid_music_score_codex_without_text": "Tall narrow music score codex standing upright, pearl inlay on the spine, ribbon bookmarks hanging",
     "pack10_068_locking_metal_deed_storage_box": "Flat rectangular metal deed box with a hinged lid and a padlock hasp",
     "pack10_080_cloth_lined_crown_jewel_record_casket": "Low open casket lined with navy cloth, a velvet tray inside",
+    "pack10_085_geared_mechanical_orrery_miniature": "Mechanical orrery with small planet balls on curved brass arms around a central sun ball",
+    "pack10_095_ivory_perspective_drawing_frame": "Ivory perspective drawing frame: an open rectangular frame with a thread grid on a small easel",
+    "pack10_099_library_light_intensity_lens_meter": "Handheld light meter with a pistol grip and a round glass dial",
 }
 
 
