@@ -61,7 +61,7 @@
  },
  "pack08_094_ceramic_funeral_urn_with_ivy_relief": {
   "decision": "renamed",
-  "note": "square casket rather than urn",
+  "note": "square casket rather than urn; one ivy leaf touches the right edge (not cropped)",
   "drawn_as": "Ivy-wrapped ceramic funeral casket"
  },
  "pack08_105_brass_clock_escapement_assembly": {
@@ -98,5 +98,29 @@
   "decision": "renamed",
   "note": "chest without a visible mirror shutter",
   "drawn_as": "Velvet-lidded spirit observation chest"
+ },
+ "pack08_184_portrait_backing_panel_hiding_a_tiny_key": {
+  "decision": "renamed",
+  "note": "portrait of a woman on the panel",
+  "drawn_as": "Framed portrait panel hiding a tiny key"
+ },
+ "pack08_185_missing_clock_hand_with_moon_shaped_tip": {
+  "decision": "renamed",
+  "note": "whole clock instead of a lone hand",
+  "drawn_as": "Small clock with a moon-tipped hand"
+ },
+ "pack08_193_black_pearl_button_from_an_absent_coat": {
+  "decision": "renamed",
+  "note": "whole coat drawn",
+  "drawn_as": "Burgundy coat with a black pearl button"
+ },
+ "pack08_196_sealed_bottle_containing_a_whisper_cloud": {
+  "decision": "renamed",
+  "note": "no visible whisper cloud; potion-like",
+  "drawn_as": "Sealed bottle of dark red tincture"
+ },
+ "pack08_200_last_guest_token_shaped_as_a_raven_feather": {
+  "decision": "accepted",
+  "note": "near-duplicate silhouette risk: feather like 019 and 095 (different colour/material)"
  }
 }

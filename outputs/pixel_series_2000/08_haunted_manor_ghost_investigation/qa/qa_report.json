@@ -1,0 +1,1985 @@
+{
+ "accepted": 200,
+ "planned": 200,
+ "missing": [],
+ "exact_duplicates": [],
+ "exports_pixel_exact": true,
+ "atlas_regions_exact": true,
+ "per_asset": [
+  {
+   "stable_id": "pack08_001_cracked_pocket_watch_stopped_at_mismatched_hands",
+   "raw_flags": [
+    "margin<4",
+    "colors>48"
+   ],
+   "final_flags": [
+    "margin<4",
+    "colors>48"
+   ],
+   "fixes": [
+    "free fix: unrequested wings erased, case rim redrawn"
+   ],
+   "review": "accepted",
+   "review_note": "v1 pilot added wings"
+  },
+  {
+   "stable_id": "pack08_002_torn_lace_glove_with_dark_thread_snag",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_003_broken_ivory_comb_holding_a_silver_hair",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_004_half_burned_blank_invitation_envelope",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_005_small_wax_footprint_cast_in_wooden_tray",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_006_chipped_porcelain_teacup_with_lip_stain",
+   "raw_flags": [
+    "margin<4"
+   ],
+   "final_flags": [
+    "margin<4"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_007_locked_diary_with_a_torn_leather_strap",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_008_broken_brass_spectacles_with_one_lens",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_009_faded_ribbon_tied_around_an_iron_key",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_010_fingerprint_dusted_glass_perfume_stopper",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_011_charred_photograph_frame_without_visible_portrait",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_012_split_cufflink_with_tiny_moon_engraving",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_013_empty_locket_containing_a_folded_fabric_scrap",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_014_sealed_evidence_jar_holding_gray_ash",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [
+    "free fix: pseudo-letters on label replaced by a plain line"
+   ],
+   "review": "accepted",
+   "review_note": "label had pseudo-text"
+  },
+  {
+   "stable_id": "pack08_015_snapped_violin_string_coiled_on_cloth",
+   "raw_flags": [
+    "margin<4",
+    "colors>48"
+   ],
+   "final_flags": [
+    "margin<4",
+    "colors>48"
+   ],
+   "fixes": [
+    "object shifted by (0,1) to balance margins"
+   ],
+   "review": "renamed",
+   "review_note": "whole violin drawn instead of a coiled string"
+  },
+  {
+   "stable_id": "pack08_016_silver_thimble_with_dried_black_ink",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_017_cracked_cameo_brooch_in_paper_wrap",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_018_loose_floorboard_nail_wrapped_in_thread",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_019_pressed_black_feather_inside_a_glass_slide",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "renamed",
+   "review_note": "glass slide missing"
+  },
+  {
+   "stable_id": "pack08_020_damaged_chess_knight_with_hollow_base",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_021_brass_handled_detective_magnifying_lens",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_022_accordion_bellows_evidence_camera_miniature",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "renamed",
+   "review_note": "accordion-bellows camera drawn as an accordion"
+  },
+  {
+   "stable_id": "pack08_023_portable_fingerprint_powder_brush_with_tin",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_024_folded_black_canvas_evidence_satchel",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_025_mechanical_lock_inspection_loupe",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "renamed",
+   "review_note": "loupe drawn as padlock"
+  },
+  {
+   "stable_id": "pack08_026_long_thin_evidence_collecting_tweezers",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_027_handheld_spectral_light_examination_lamp",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_028_leather_forensic_sample_wallet_opened",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_029_measuring_tape_in_gothic_metal_case",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_030_collapsible_footprint_casting_frame",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "renamed",
+   "review_note": "odd but readable"
+  },
+  {
+   "stable_id": "pack08_031_portable_mechanical_sound_recording_cylinder",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_032_coiled_investigator_listening_tube",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_033_compact_pinhole_inspection_scope",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_034_glass_evidence_vial_in_padded_sleeve",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_035_hinged_brass_secret_writing_reveal_lens",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_036_wax_impression_taking_putty_in_tin",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_037_small_chalk_evidence_marker_shaped_as_triangle",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_038_foldable_room_measurement_sight_tool",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_039_clip_on_window_vibration_recorder",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_040_evidence_sealing_ribbon_dispenser",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_041_high_backed_velvet_mourning_chair",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_042_carved_claw_foot_side_table",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_043_faded_brocade_fainting_couch_miniature",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_044_narrow_gothic_writing_bureau_closed",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_045_split_seat_rocking_chair_with_woven_back",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_046_oval_walnut_tea_trolley_miniature",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "renamed",
+   "review_note": "trolley drawn as round lidded vessel"
+  },
+  {
+   "stable_id": "pack08_047_heavy_carved_mahogany_bedside_cabinet",
+   "raw_flags": [
+    "margin<4"
+   ],
+   "final_flags": [
+    "margin<4"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_048_tufted_ottoman_with_hidden_drawer",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_049_folding_embroidered_fireplace_screen",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_050_tall_umbrella_stand_shaped_like_twisted_vines",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "renamed",
+   "review_note": "umbrella rather than stand"
+  },
+  {
+   "stable_id": "pack08_051_antique_dressing_stool_with_ivory_legs",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_052_narrow_coat_stand_with_raven_hooks",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "renamed",
+   "review_note": "reads as cloaked figure"
+  },
+  {
+   "stable_id": "pack08_053_low_hexagonal_spirit_table",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_054_miniature_canopy_bed_with_draped_curtains",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_055_dusty_carved_wooden_doll_high_chair",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_056_marble_topped_hall_console_miniature",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_057_gothic_prayer_style_reading_kneeler",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_058_three_panel_dark_tapestry_room_divider",
+   "raw_flags": [
+    "margin<4",
+    "colors>48"
+   ],
+   "final_flags": [
+    "margin<4",
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_059_curved_piano_stool_with_brass_adjustment_wheel",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_060_small_locked_hall_key_cabinet",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_061_crooked_silver_three_arm_candelabrum",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_062_glass_chimney_oil_lamp_with_black_shade",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_063_raven_shaped_brass_candle_holder",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "renamed",
+   "review_note": "candle cup missing"
+  },
+  {
+   "stable_id": "pack08_064_cracked_stained_glass_bedside_lamp",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_065_antique_wall_sconce_with_ivory_candle",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_066_hooded_investigator_lantern_with_sliding_screen",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_067_iron_floor_torch_stand_miniature",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_068_porcelain_night_light_with_moon_cutouts",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_069_hanging_mourning_lantern_with_torn_tassels",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_070_black_crystal_chandelier_miniature",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_071_mirror_backed_single_candle_reflector",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_072_blue_spirit_flame_trapped_in_gas_lamp",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_073_twisted_root_shaped_pewter_candlestick",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_074_ceramic_haunted_house_night_lamp_miniature",
+   "raw_flags": [
+    "margin<4"
+   ],
+   "final_flags": [],
+   "fixes": [
+    "object shifted by (0,3) to balance margins"
+   ],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_075_handheld_candle_chamberstick_with_snuffer",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_076_folded_black_lace_lampshade_on_wire_frame",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_077_brass_oil_wick_trimming_scissors",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_078_glass_hurricane_candle_dome_with_handle",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_079_clockwork_lamp_with_winding_key",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_080_frosted_spectral_glow_bulb_in_cage",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_081_glass_dome_enclosing_a_dead_rose",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_082_taxidermy_style_mechanical_raven_ornament",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_083_cracked_porcelain_ballerina_figurine",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_084_silver_calling_card_tray_with_claw_feet",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_085_antique_music_cylinder_in_velvet_cradle",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_086_black_lace_mourning_hand_fan",
+   "raw_flags": [
+    "margin<4",
+    "colors>48"
+   ],
+   "final_flags": [
+    "margin<4",
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_087_ivory_domino_box_with_one_tile_exposed",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_088_carved_skull_shaped_walking_cane_head",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_089_dusty_miniature_rocking_horse_on_plinth",
+   "raw_flags": [
+    "margin<4",
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [
+    "object shifted by (0,-2) to balance margins"
+   ],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_090_porcelain_hand_ring_display_ornament",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "renamed",
+   "review_note": "hand display missing"
+  },
+  {
+   "stable_id": "pack08_091_brass_insect_automaton_in_glass_case",
+   "raw_flags": [
+    "margin<4",
+    "colors>48"
+   ],
+   "final_flags": [
+    "margin<4",
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_092_faded_velvet_opera_mask_with_tear_mark",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_093_tiny_ship_in_a_cloudy_glass_bottle",
+   "raw_flags": [
+    "margin<4",
+    "colors>48"
+   ],
+   "final_flags": [
+    "margin<4",
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_094_ceramic_funeral_urn_with_ivy_relief",
+   "raw_flags": [
+    "touches_edge",
+    "colors>48"
+   ],
+   "final_flags": [
+    "touches_edge",
+    "colors>48"
+   ],
+   "fixes": [
+    "object shifted by (1,0) to balance margins"
+   ],
+   "review": "renamed",
+   "review_note": "square casket rather than urn; one ivy leaf touches the right edge (not cropped)"
+  },
+  {
+   "stable_id": "pack08_095_silver_letter_opener_shaped_as_raven_feather",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_096_pearl_handled_embroidery_scissors_case",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_097_dark_glass_paperweight_holding_trapped_moth",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_098_antique_brass_hearing_trumpet",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_099_bone_colored_folding_theater_binoculars",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_100_hinged_mechanical_butterfly_keepsake",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_101_gothic_mantel_clock_with_moon_dial",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_102_large_black_iron_skeleton_key",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_103_heart_shaped_mourning_padlock",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_104_clockwork_cuckoo_door_mechanism_miniature",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_105_brass_clock_escapement_assembly",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "renamed",
+   "review_note": "escapement reads as watch movement"
+  },
+  {
+   "stable_id": "pack08_106_four_ring_puzzle_door_bolt",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_107_ivory_clock_face_with_missing_hands",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_108_tarnished_chained_wardrobe_key_cluster",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_109_iron_window_latch_shaped_as_claw",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_110_pendulum_weight_with_carved_eye_motif",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_111_tiny_coffin_shaped_key_cabinet",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_112_carved_rose_door_lock_plate",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_113_silver_pocket_watch_winding_key",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_114_clock_spring_in_open_brass_barrel",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_115_hidden_bookcase_release_knob",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_116_black_porcelain_door_handle_pair",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_117_antique_combination_lock_with_blank_discs",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_118_hour_striking_bell_with_cracked_rim",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_119_sliding_secret_compartment_rail",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_120_bronze_coffin_latch_with_rose_rivets",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "renamed",
+   "review_note": "whole chest instead of a latch"
+  },
+  {
+   "stable_id": "pack08_121_porcelain_doll_with_stitched_cloth_torso",
+   "raw_flags": [
+    "margin<4"
+   ],
+   "final_flags": [
+    "margin<4"
+   ],
+   "fixes": [
+    "free fix: crystal horns recoloured as burgundy hair bows"
+   ],
+   "review": "accepted",
+   "review_note": "v1 pilot added crystal horns"
+  },
+  {
+   "stable_id": "pack08_122_wind_up_tin_ghost_toy_with_key",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "renamed",
+   "review_note": "figure is a knight, not a ghost"
+  },
+  {
+   "stable_id": "pack08_123_wooden_puppet_with_tangled_control_strings",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_124_small_velvet_rabbit_with_glass_button_eyes",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_125_jack_in_the_box_with_empty_smiling_mask",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_126_music_box_topped_by_an_empty_swing",
+   "raw_flags": [
+    "margin<4"
+   ],
+   "final_flags": [
+    "margin<4"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_127_cracked_painted_wooden_spinning_top",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_128_iron_toy_train_engine_with_bent_smokestack",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_129_tiny_rocking_cradle_with_lace_blanket",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "renamed",
+   "review_note": "rocking horse instead of cradle"
+  },
+  {
+   "stable_id": "pack08_130_chess_board_folded_into_a_black_box",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_131_paper_theater_stage_with_empty_curtain",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_132_antique_cloth_clown_cap_with_bells",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_133_painted_wooden_pull_along_swan",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_134_porcelain_doll_arm_inside_repair_tray",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "renamed",
+   "review_note": "whole doll rather than an arm"
+  },
+  {
+   "stable_id": "pack08_135_clockwork_dancing_shoe_on_small_base",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_136_carousel_horse_music_box_with_chipped_paint",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_137_black_glass_marble_in_a_bone_ring",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_138_toy_drum_with_torn_skin_and_brass_sticks",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_139_carved_nesting_box_shaped_as_a_manor",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_140_wax_faced_miniature_puppet_head_on_stand",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_141_oval_silver_mirror_with_fogged_center",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_142_cracked_hand_mirror_with_thorn_handle",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_143_empty_gilt_portrait_frame_with_raven_crest",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_144_three_panel_vanity_mirror_miniature",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_145_round_black_scrying_mirror_in_iron_stand",
+   "raw_flags": [
+    "margin<4"
+   ],
+   "final_flags": [
+    "margin<4"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_146_small_locket_mirror_with_missing_reflection",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_147_fractured_stained_glass_portrait_window_miniature",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_148_tall_gothic_mirror_with_tied_mourning_cloth",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_149_rectangular_mirror_with_silver_leaf_repairs",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_150_broken_mirror_shard_in_velvet_wrap",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_151_twin_oval_miniature_portrait_frames_empty",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_152_carved_eye_shaped_peephole_cover",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_153_circular_camera_obscura_viewing_plate",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_154_bronze_sunburst_mirror_with_dark_core",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_155_small_baroque_framed_chalk_slate",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_156_coffin_shaped_tabletop_mirror",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_157_cracked_crystal_lens_in_gilt_easel",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_158_empty_silhouette_portrait_frame_with_ribbon",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_159_moth_wing_shaped_folding_pocket_mirror",
+   "raw_flags": [
+    "margin<4",
+    "colors>48"
+   ],
+   "final_flags": [
+    "margin<4",
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_160_mirror_backed_reliquary_with_secret_hinge",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_161_brass_spirit_frequency_dial_with_copper_coil",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_162_glass_static_charge_globe_on_ebony_base",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_163_pendulum_divination_cage_with_crystal_bob",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_164_mechanical_spirit_writing_planchette",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_165_victorian_ectoplasm_sampling_pump",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_166_twin_horn_spectral_listening_receiver",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_167_electromagnetic_anomaly_meter_with_needle",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_168_spirit_camera_flash_powder_tray_closed",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_169_wax_sealed_cold_spot_measurement_tube",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_170_ghost_light_detecting_prism_viewer",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_171_copper_wire_spirit_resonance_tuning_fork",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_172_sealed_bell_jar_with_floating_compass_needle",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_173_clockwork_presence_detecting_bell_device",
+   "raw_flags": [
+    "margin<4"
+   ],
+   "final_flags": [
+    "margin<4"
+   ],
+   "fixes": [
+    "object shifted by (0,1) to balance margins"
+   ],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_174_glass_plate_spectral_image_holder",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_175_silver_chain_motion_detector_pendulum",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_176_portable_aura_observing_lens_box",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_177_blackwood_spirit_communication_tapping_board",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_178_insulated_spectral_energy_capture_capsule",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_179_crystal_oscillator_in_brass_tripod_frame",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_180_mirror_shutter_spirit_observation_box",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "renamed",
+   "review_note": "chest without a visible mirror shutter"
+  },
+  {
+   "stable_id": "pack08_181_master_key_with_a_broken_raven_wing",
+   "raw_flags": [
+    "margin<4"
+   ],
+   "final_flags": [
+    "margin<4"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_182_sealed_testament_in_a_black_ribbon_case",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_183_manor_crest_puzzle_medallion_in_three_pieces",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_184_portrait_backing_panel_hiding_a_tiny_key",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "renamed",
+   "review_note": "portrait of a woman on the panel"
+  },
+  {
+   "stable_id": "pack08_185_missing_clock_hand_with_moon_shaped_tip",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "renamed",
+   "review_note": "whole clock instead of a lone hand"
+  },
+  {
+   "stable_id": "pack08_186_music_box_winding_cylinder_with_silver_notch",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_187_glass_heart_from_a_broken_doll",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_188_iron_rose_from_the_locked_garden_gate",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_189_family_signet_ring_in_a_cracked_case",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_190_half_of_an_ivory_staircase_banister_finial",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_191_small_wooden_coffin_containing_blank_letters",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_192_spectral_candle_that_casts_a_blue_shadow",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_193_black_pearl_button_from_an_absent_coat",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "renamed",
+   "review_note": "whole coat drawn"
+  },
+  {
+   "stable_id": "pack08_194_clock_tower_gear_shaped_as_a_mourning_wreath",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_195_mirror_door_latch_hidden_in_a_hair_comb",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_196_sealed_bottle_containing_a_whisper_cloud",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "renamed",
+   "review_note": "no visible whisper cloud; potion-like"
+  },
+  {
+   "stable_id": "pack08_197_silver_bell_with_a_tied_black_tongue",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_198_twin_key_lock_cylinder_inside_velvet_pouch",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_199_cracked_manor_model_with_one_glowing_window",
+   "raw_flags": [
+    "margin<4"
+   ],
+   "final_flags": [
+    "margin<4"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack08_200_last_guest_token_shaped_as_a_raven_feather",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": "near-duplicate silhouette risk: feather like 019 and 095 (different colour/material)"
+  }
+ ]
+}

@@ -1,0 +1,1816 @@
+{
+ "meta": {
+  "image": "pack_64.png",
+  "size": {
+   "w": 1024,
+   "h": 1024
+  },
+  "cell": 68,
+  "padding": 2,
+  "columns": 14,
+  "sprite": 64,
+  "count": 200
+ },
+ "frames": {
+  "pack08_001_cracked_pocket_watch_stopped_at_mismatched_hands": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "evidence"
+  },
+  "pack08_002_torn_lace_glove_with_dark_thread_snag": {
+   "frame": {
+    "x": 70,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "evidence"
+  },
+  "pack08_003_broken_ivory_comb_holding_a_silver_hair": {
+   "frame": {
+    "x": 138,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "evidence"
+  },
+  "pack08_004_half_burned_blank_invitation_envelope": {
+   "frame": {
+    "x": 206,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "evidence"
+  },
+  "pack08_005_small_wax_footprint_cast_in_wooden_tray": {
+   "frame": {
+    "x": 274,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "evidence"
+  },
+  "pack08_006_chipped_porcelain_teacup_with_lip_stain": {
+   "frame": {
+    "x": 342,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "evidence"
+  },
+  "pack08_007_locked_diary_with_a_torn_leather_strap": {
+   "frame": {
+    "x": 410,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "evidence"
+  },
+  "pack08_008_broken_brass_spectacles_with_one_lens": {
+   "frame": {
+    "x": 478,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "evidence"
+  },
+  "pack08_009_faded_ribbon_tied_around_an_iron_key": {
+   "frame": {
+    "x": 546,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "evidence"
+  },
+  "pack08_010_fingerprint_dusted_glass_perfume_stopper": {
+   "frame": {
+    "x": 614,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "evidence"
+  },
+  "pack08_011_charred_photograph_frame_without_visible_portrait": {
+   "frame": {
+    "x": 682,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "evidence"
+  },
+  "pack08_012_split_cufflink_with_tiny_moon_engraving": {
+   "frame": {
+    "x": 750,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "evidence"
+  },
+  "pack08_013_empty_locket_containing_a_folded_fabric_scrap": {
+   "frame": {
+    "x": 818,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "evidence"
+  },
+  "pack08_014_sealed_evidence_jar_holding_gray_ash": {
+   "frame": {
+    "x": 886,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "evidence"
+  },
+  "pack08_015_snapped_violin_string_coiled_on_cloth": {
+   "frame": {
+    "x": 2,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "evidence"
+  },
+  "pack08_016_silver_thimble_with_dried_black_ink": {
+   "frame": {
+    "x": 70,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "evidence"
+  },
+  "pack08_017_cracked_cameo_brooch_in_paper_wrap": {
+   "frame": {
+    "x": 138,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "evidence"
+  },
+  "pack08_018_loose_floorboard_nail_wrapped_in_thread": {
+   "frame": {
+    "x": 206,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "evidence"
+  },
+  "pack08_019_pressed_black_feather_inside_a_glass_slide": {
+   "frame": {
+    "x": 274,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "evidence"
+  },
+  "pack08_020_damaged_chess_knight_with_hollow_base": {
+   "frame": {
+    "x": 342,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "evidence"
+  },
+  "pack08_021_brass_handled_detective_magnifying_lens": {
+   "frame": {
+    "x": 410,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "investigator_tools"
+  },
+  "pack08_022_accordion_bellows_evidence_camera_miniature": {
+   "frame": {
+    "x": 478,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "investigator_tools"
+  },
+  "pack08_023_portable_fingerprint_powder_brush_with_tin": {
+   "frame": {
+    "x": 546,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "investigator_tools"
+  },
+  "pack08_024_folded_black_canvas_evidence_satchel": {
+   "frame": {
+    "x": 614,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "investigator_tools"
+  },
+  "pack08_025_mechanical_lock_inspection_loupe": {
+   "frame": {
+    "x": 682,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "investigator_tools"
+  },
+  "pack08_026_long_thin_evidence_collecting_tweezers": {
+   "frame": {
+    "x": 750,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "investigator_tools"
+  },
+  "pack08_027_handheld_spectral_light_examination_lamp": {
+   "frame": {
+    "x": 818,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "investigator_tools"
+  },
+  "pack08_028_leather_forensic_sample_wallet_opened": {
+   "frame": {
+    "x": 886,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "investigator_tools"
+  },
+  "pack08_029_measuring_tape_in_gothic_metal_case": {
+   "frame": {
+    "x": 2,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "investigator_tools"
+  },
+  "pack08_030_collapsible_footprint_casting_frame": {
+   "frame": {
+    "x": 70,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "investigator_tools"
+  },
+  "pack08_031_portable_mechanical_sound_recording_cylinder": {
+   "frame": {
+    "x": 138,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "investigator_tools"
+  },
+  "pack08_032_coiled_investigator_listening_tube": {
+   "frame": {
+    "x": 206,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "investigator_tools"
+  },
+  "pack08_033_compact_pinhole_inspection_scope": {
+   "frame": {
+    "x": 274,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "investigator_tools"
+  },
+  "pack08_034_glass_evidence_vial_in_padded_sleeve": {
+   "frame": {
+    "x": 342,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "investigator_tools"
+  },
+  "pack08_035_hinged_brass_secret_writing_reveal_lens": {
+   "frame": {
+    "x": 410,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "investigator_tools"
+  },
+  "pack08_036_wax_impression_taking_putty_in_tin": {
+   "frame": {
+    "x": 478,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "investigator_tools"
+  },
+  "pack08_037_small_chalk_evidence_marker_shaped_as_triangle": {
+   "frame": {
+    "x": 546,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "investigator_tools"
+  },
+  "pack08_038_foldable_room_measurement_sight_tool": {
+   "frame": {
+    "x": 614,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "investigator_tools"
+  },
+  "pack08_039_clip_on_window_vibration_recorder": {
+   "frame": {
+    "x": 682,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "investigator_tools"
+  },
+  "pack08_040_evidence_sealing_ribbon_dispenser": {
+   "frame": {
+    "x": 750,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "investigator_tools"
+  },
+  "pack08_041_high_backed_velvet_mourning_chair": {
+   "frame": {
+    "x": 818,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "seating_furniture"
+  },
+  "pack08_042_carved_claw_foot_side_table": {
+   "frame": {
+    "x": 886,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "seating_furniture"
+  },
+  "pack08_043_faded_brocade_fainting_couch_miniature": {
+   "frame": {
+    "x": 2,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "seating_furniture"
+  },
+  "pack08_044_narrow_gothic_writing_bureau_closed": {
+   "frame": {
+    "x": 70,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "seating_furniture"
+  },
+  "pack08_045_split_seat_rocking_chair_with_woven_back": {
+   "frame": {
+    "x": 138,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "seating_furniture"
+  },
+  "pack08_046_oval_walnut_tea_trolley_miniature": {
+   "frame": {
+    "x": 206,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "seating_furniture"
+  },
+  "pack08_047_heavy_carved_mahogany_bedside_cabinet": {
+   "frame": {
+    "x": 274,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "seating_furniture"
+  },
+  "pack08_048_tufted_ottoman_with_hidden_drawer": {
+   "frame": {
+    "x": 342,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "seating_furniture"
+  },
+  "pack08_049_folding_embroidered_fireplace_screen": {
+   "frame": {
+    "x": 410,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "seating_furniture"
+  },
+  "pack08_050_tall_umbrella_stand_shaped_like_twisted_vines": {
+   "frame": {
+    "x": 478,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "seating_furniture"
+  },
+  "pack08_051_antique_dressing_stool_with_ivory_legs": {
+   "frame": {
+    "x": 546,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "seating_furniture"
+  },
+  "pack08_052_narrow_coat_stand_with_raven_hooks": {
+   "frame": {
+    "x": 614,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "seating_furniture"
+  },
+  "pack08_053_low_hexagonal_spirit_table": {
+   "frame": {
+    "x": 682,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "seating_furniture"
+  },
+  "pack08_054_miniature_canopy_bed_with_draped_curtains": {
+   "frame": {
+    "x": 750,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "seating_furniture"
+  },
+  "pack08_055_dusty_carved_wooden_doll_high_chair": {
+   "frame": {
+    "x": 818,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "seating_furniture"
+  },
+  "pack08_056_marble_topped_hall_console_miniature": {
+   "frame": {
+    "x": 886,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "seating_furniture"
+  },
+  "pack08_057_gothic_prayer_style_reading_kneeler": {
+   "frame": {
+    "x": 2,
+    "y": 274,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "seating_furniture"
+  },
+  "pack08_058_three_panel_dark_tapestry_room_divider": {
+   "frame": {
+    "x": 70,
+    "y": 274,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "seating_furniture"
+  },
+  "pack08_059_curved_piano_stool_with_brass_adjustment_wheel": {
+   "frame": {
+    "x": 138,
+    "y": 274,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "seating_furniture"
+  },
+  "pack08_060_small_locked_hall_key_cabinet": {
+   "frame": {
+    "x": 206,
+    "y": 274,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "seating_furniture"
+  },
+  "pack08_061_crooked_silver_three_arm_candelabrum": {
+   "frame": {
+    "x": 274,
+    "y": 274,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "lighting"
+  },
+  "pack08_062_glass_chimney_oil_lamp_with_black_shade": {
+   "frame": {
+    "x": 342,
+    "y": 274,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "lighting"
+  },
+  "pack08_063_raven_shaped_brass_candle_holder": {
+   "frame": {
+    "x": 410,
+    "y": 274,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "lighting"
+  },
+  "pack08_064_cracked_stained_glass_bedside_lamp": {
+   "frame": {
+    "x": 478,
+    "y": 274,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "lighting"
+  },
+  "pack08_065_antique_wall_sconce_with_ivory_candle": {
+   "frame": {
+    "x": 546,
+    "y": 274,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "lighting"
+  },
+  "pack08_066_hooded_investigator_lantern_with_sliding_screen": {
+   "frame": {
+    "x": 614,
+    "y": 274,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "lighting"
+  },
+  "pack08_067_iron_floor_torch_stand_miniature": {
+   "frame": {
+    "x": 682,
+    "y": 274,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "lighting"
+  },
+  "pack08_068_porcelain_night_light_with_moon_cutouts": {
+   "frame": {
+    "x": 750,
+    "y": 274,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "lighting"
+  },
+  "pack08_069_hanging_mourning_lantern_with_torn_tassels": {
+   "frame": {
+    "x": 818,
+    "y": 274,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "lighting"
+  },
+  "pack08_070_black_crystal_chandelier_miniature": {
+   "frame": {
+    "x": 886,
+    "y": 274,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "lighting"
+  },
+  "pack08_071_mirror_backed_single_candle_reflector": {
+   "frame": {
+    "x": 2,
+    "y": 342,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "lighting"
+  },
+  "pack08_072_blue_spirit_flame_trapped_in_gas_lamp": {
+   "frame": {
+    "x": 70,
+    "y": 342,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "lighting"
+  },
+  "pack08_073_twisted_root_shaped_pewter_candlestick": {
+   "frame": {
+    "x": 138,
+    "y": 342,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "lighting"
+  },
+  "pack08_074_ceramic_haunted_house_night_lamp_miniature": {
+   "frame": {
+    "x": 206,
+    "y": 342,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "lighting"
+  },
+  "pack08_075_handheld_candle_chamberstick_with_snuffer": {
+   "frame": {
+    "x": 274,
+    "y": 342,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "lighting"
+  },
+  "pack08_076_folded_black_lace_lampshade_on_wire_frame": {
+   "frame": {
+    "x": 342,
+    "y": 342,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "lighting"
+  },
+  "pack08_077_brass_oil_wick_trimming_scissors": {
+   "frame": {
+    "x": 410,
+    "y": 342,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "lighting"
+  },
+  "pack08_078_glass_hurricane_candle_dome_with_handle": {
+   "frame": {
+    "x": 478,
+    "y": 342,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "lighting"
+  },
+  "pack08_079_clockwork_lamp_with_winding_key": {
+   "frame": {
+    "x": 546,
+    "y": 342,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "lighting"
+  },
+  "pack08_080_frosted_spectral_glow_bulb_in_cage": {
+   "frame": {
+    "x": 614,
+    "y": 342,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "lighting"
+  },
+  "pack08_081_glass_dome_enclosing_a_dead_rose": {
+   "frame": {
+    "x": 682,
+    "y": 342,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "curios"
+  },
+  "pack08_082_taxidermy_style_mechanical_raven_ornament": {
+   "frame": {
+    "x": 750,
+    "y": 342,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "curios"
+  },
+  "pack08_083_cracked_porcelain_ballerina_figurine": {
+   "frame": {
+    "x": 818,
+    "y": 342,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "curios"
+  },
+  "pack08_084_silver_calling_card_tray_with_claw_feet": {
+   "frame": {
+    "x": 886,
+    "y": 342,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "curios"
+  },
+  "pack08_085_antique_music_cylinder_in_velvet_cradle": {
+   "frame": {
+    "x": 2,
+    "y": 410,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "curios"
+  },
+  "pack08_086_black_lace_mourning_hand_fan": {
+   "frame": {
+    "x": 70,
+    "y": 410,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "curios"
+  },
+  "pack08_087_ivory_domino_box_with_one_tile_exposed": {
+   "frame": {
+    "x": 138,
+    "y": 410,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "curios"
+  },
+  "pack08_088_carved_skull_shaped_walking_cane_head": {
+   "frame": {
+    "x": 206,
+    "y": 410,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "curios"
+  },
+  "pack08_089_dusty_miniature_rocking_horse_on_plinth": {
+   "frame": {
+    "x": 274,
+    "y": 410,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "curios"
+  },
+  "pack08_090_porcelain_hand_ring_display_ornament": {
+   "frame": {
+    "x": 342,
+    "y": 410,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "curios"
+  },
+  "pack08_091_brass_insect_automaton_in_glass_case": {
+   "frame": {
+    "x": 410,
+    "y": 410,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "curios"
+  },
+  "pack08_092_faded_velvet_opera_mask_with_tear_mark": {
+   "frame": {
+    "x": 478,
+    "y": 410,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "curios"
+  },
+  "pack08_093_tiny_ship_in_a_cloudy_glass_bottle": {
+   "frame": {
+    "x": 546,
+    "y": 410,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "curios"
+  },
+  "pack08_094_ceramic_funeral_urn_with_ivy_relief": {
+   "frame": {
+    "x": 614,
+    "y": 410,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "curios"
+  },
+  "pack08_095_silver_letter_opener_shaped_as_raven_feather": {
+   "frame": {
+    "x": 682,
+    "y": 410,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "curios"
+  },
+  "pack08_096_pearl_handled_embroidery_scissors_case": {
+   "frame": {
+    "x": 750,
+    "y": 410,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "curios"
+  },
+  "pack08_097_dark_glass_paperweight_holding_trapped_moth": {
+   "frame": {
+    "x": 818,
+    "y": 410,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "curios"
+  },
+  "pack08_098_antique_brass_hearing_trumpet": {
+   "frame": {
+    "x": 886,
+    "y": 410,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "curios"
+  },
+  "pack08_099_bone_colored_folding_theater_binoculars": {
+   "frame": {
+    "x": 2,
+    "y": 478,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "curios"
+  },
+  "pack08_100_hinged_mechanical_butterfly_keepsake": {
+   "frame": {
+    "x": 70,
+    "y": 478,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "curios"
+  },
+  "pack08_101_gothic_mantel_clock_with_moon_dial": {
+   "frame": {
+    "x": 138,
+    "y": 478,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "locks_clocks"
+  },
+  "pack08_102_large_black_iron_skeleton_key": {
+   "frame": {
+    "x": 206,
+    "y": 478,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "locks_clocks"
+  },
+  "pack08_103_heart_shaped_mourning_padlock": {
+   "frame": {
+    "x": 274,
+    "y": 478,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "locks_clocks"
+  },
+  "pack08_104_clockwork_cuckoo_door_mechanism_miniature": {
+   "frame": {
+    "x": 342,
+    "y": 478,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "locks_clocks"
+  },
+  "pack08_105_brass_clock_escapement_assembly": {
+   "frame": {
+    "x": 410,
+    "y": 478,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "locks_clocks"
+  },
+  "pack08_106_four_ring_puzzle_door_bolt": {
+   "frame": {
+    "x": 478,
+    "y": 478,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "locks_clocks"
+  },
+  "pack08_107_ivory_clock_face_with_missing_hands": {
+   "frame": {
+    "x": 546,
+    "y": 478,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "locks_clocks"
+  },
+  "pack08_108_tarnished_chained_wardrobe_key_cluster": {
+   "frame": {
+    "x": 614,
+    "y": 478,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "locks_clocks"
+  },
+  "pack08_109_iron_window_latch_shaped_as_claw": {
+   "frame": {
+    "x": 682,
+    "y": 478,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "locks_clocks"
+  },
+  "pack08_110_pendulum_weight_with_carved_eye_motif": {
+   "frame": {
+    "x": 750,
+    "y": 478,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "locks_clocks"
+  },
+  "pack08_111_tiny_coffin_shaped_key_cabinet": {
+   "frame": {
+    "x": 818,
+    "y": 478,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "locks_clocks"
+  },
+  "pack08_112_carved_rose_door_lock_plate": {
+   "frame": {
+    "x": 886,
+    "y": 478,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "locks_clocks"
+  },
+  "pack08_113_silver_pocket_watch_winding_key": {
+   "frame": {
+    "x": 2,
+    "y": 546,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "locks_clocks"
+  },
+  "pack08_114_clock_spring_in_open_brass_barrel": {
+   "frame": {
+    "x": 70,
+    "y": 546,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "locks_clocks"
+  },
+  "pack08_115_hidden_bookcase_release_knob": {
+   "frame": {
+    "x": 138,
+    "y": 546,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "locks_clocks"
+  },
+  "pack08_116_black_porcelain_door_handle_pair": {
+   "frame": {
+    "x": 206,
+    "y": 546,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "locks_clocks"
+  },
+  "pack08_117_antique_combination_lock_with_blank_discs": {
+   "frame": {
+    "x": 274,
+    "y": 546,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "locks_clocks"
+  },
+  "pack08_118_hour_striking_bell_with_cracked_rim": {
+   "frame": {
+    "x": 342,
+    "y": 546,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "locks_clocks"
+  },
+  "pack08_119_sliding_secret_compartment_rail": {
+   "frame": {
+    "x": 410,
+    "y": 546,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "locks_clocks"
+  },
+  "pack08_120_bronze_coffin_latch_with_rose_rivets": {
+   "frame": {
+    "x": 478,
+    "y": 546,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "locks_clocks"
+  },
+  "pack08_121_porcelain_doll_with_stitched_cloth_torso": {
+   "frame": {
+    "x": 546,
+    "y": 546,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "haunted_toys"
+  },
+  "pack08_122_wind_up_tin_ghost_toy_with_key": {
+   "frame": {
+    "x": 614,
+    "y": 546,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "haunted_toys"
+  },
+  "pack08_123_wooden_puppet_with_tangled_control_strings": {
+   "frame": {
+    "x": 682,
+    "y": 546,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "haunted_toys"
+  },
+  "pack08_124_small_velvet_rabbit_with_glass_button_eyes": {
+   "frame": {
+    "x": 750,
+    "y": 546,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "haunted_toys"
+  },
+  "pack08_125_jack_in_the_box_with_empty_smiling_mask": {
+   "frame": {
+    "x": 818,
+    "y": 546,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "haunted_toys"
+  },
+  "pack08_126_music_box_topped_by_an_empty_swing": {
+   "frame": {
+    "x": 886,
+    "y": 546,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "haunted_toys"
+  },
+  "pack08_127_cracked_painted_wooden_spinning_top": {
+   "frame": {
+    "x": 2,
+    "y": 614,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "haunted_toys"
+  },
+  "pack08_128_iron_toy_train_engine_with_bent_smokestack": {
+   "frame": {
+    "x": 70,
+    "y": 614,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "haunted_toys"
+  },
+  "pack08_129_tiny_rocking_cradle_with_lace_blanket": {
+   "frame": {
+    "x": 138,
+    "y": 614,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "haunted_toys"
+  },
+  "pack08_130_chess_board_folded_into_a_black_box": {
+   "frame": {
+    "x": 206,
+    "y": 614,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "haunted_toys"
+  },
+  "pack08_131_paper_theater_stage_with_empty_curtain": {
+   "frame": {
+    "x": 274,
+    "y": 614,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "haunted_toys"
+  },
+  "pack08_132_antique_cloth_clown_cap_with_bells": {
+   "frame": {
+    "x": 342,
+    "y": 614,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "haunted_toys"
+  },
+  "pack08_133_painted_wooden_pull_along_swan": {
+   "frame": {
+    "x": 410,
+    "y": 614,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "haunted_toys"
+  },
+  "pack08_134_porcelain_doll_arm_inside_repair_tray": {
+   "frame": {
+    "x": 478,
+    "y": 614,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "haunted_toys"
+  },
+  "pack08_135_clockwork_dancing_shoe_on_small_base": {
+   "frame": {
+    "x": 546,
+    "y": 614,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "haunted_toys"
+  },
+  "pack08_136_carousel_horse_music_box_with_chipped_paint": {
+   "frame": {
+    "x": 614,
+    "y": 614,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "haunted_toys"
+  },
+  "pack08_137_black_glass_marble_in_a_bone_ring": {
+   "frame": {
+    "x": 682,
+    "y": 614,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "haunted_toys"
+  },
+  "pack08_138_toy_drum_with_torn_skin_and_brass_sticks": {
+   "frame": {
+    "x": 750,
+    "y": 614,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "haunted_toys"
+  },
+  "pack08_139_carved_nesting_box_shaped_as_a_manor": {
+   "frame": {
+    "x": 818,
+    "y": 614,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "haunted_toys"
+  },
+  "pack08_140_wax_faced_miniature_puppet_head_on_stand": {
+   "frame": {
+    "x": 886,
+    "y": 614,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "haunted_toys"
+  },
+  "pack08_141_oval_silver_mirror_with_fogged_center": {
+   "frame": {
+    "x": 2,
+    "y": 682,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "mirrors_frames"
+  },
+  "pack08_142_cracked_hand_mirror_with_thorn_handle": {
+   "frame": {
+    "x": 70,
+    "y": 682,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "mirrors_frames"
+  },
+  "pack08_143_empty_gilt_portrait_frame_with_raven_crest": {
+   "frame": {
+    "x": 138,
+    "y": 682,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "mirrors_frames"
+  },
+  "pack08_144_three_panel_vanity_mirror_miniature": {
+   "frame": {
+    "x": 206,
+    "y": 682,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "mirrors_frames"
+  },
+  "pack08_145_round_black_scrying_mirror_in_iron_stand": {
+   "frame": {
+    "x": 274,
+    "y": 682,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "mirrors_frames"
+  },
+  "pack08_146_small_locket_mirror_with_missing_reflection": {
+   "frame": {
+    "x": 342,
+    "y": 682,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "mirrors_frames"
+  },
+  "pack08_147_fractured_stained_glass_portrait_window_miniature": {
+   "frame": {
+    "x": 410,
+    "y": 682,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "mirrors_frames"
+  },
+  "pack08_148_tall_gothic_mirror_with_tied_mourning_cloth": {
+   "frame": {
+    "x": 478,
+    "y": 682,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "mirrors_frames"
+  },
+  "pack08_149_rectangular_mirror_with_silver_leaf_repairs": {
+   "frame": {
+    "x": 546,
+    "y": 682,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "mirrors_frames"
+  },
+  "pack08_150_broken_mirror_shard_in_velvet_wrap": {
+   "frame": {
+    "x": 614,
+    "y": 682,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "mirrors_frames"
+  },
+  "pack08_151_twin_oval_miniature_portrait_frames_empty": {
+   "frame": {
+    "x": 682,
+    "y": 682,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "mirrors_frames"
+  },
+  "pack08_152_carved_eye_shaped_peephole_cover": {
+   "frame": {
+    "x": 750,
+    "y": 682,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "mirrors_frames"
+  },
+  "pack08_153_circular_camera_obscura_viewing_plate": {
+   "frame": {
+    "x": 818,
+    "y": 682,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "mirrors_frames"
+  },
+  "pack08_154_bronze_sunburst_mirror_with_dark_core": {
+   "frame": {
+    "x": 886,
+    "y": 682,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "mirrors_frames"
+  },
+  "pack08_155_small_baroque_framed_chalk_slate": {
+   "frame": {
+    "x": 2,
+    "y": 750,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "mirrors_frames"
+  },
+  "pack08_156_coffin_shaped_tabletop_mirror": {
+   "frame": {
+    "x": 70,
+    "y": 750,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "mirrors_frames"
+  },
+  "pack08_157_cracked_crystal_lens_in_gilt_easel": {
+   "frame": {
+    "x": 138,
+    "y": 750,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "mirrors_frames"
+  },
+  "pack08_158_empty_silhouette_portrait_frame_with_ribbon": {
+   "frame": {
+    "x": 206,
+    "y": 750,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "mirrors_frames"
+  },
+  "pack08_159_moth_wing_shaped_folding_pocket_mirror": {
+   "frame": {
+    "x": 274,
+    "y": 750,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "mirrors_frames"
+  },
+  "pack08_160_mirror_backed_reliquary_with_secret_hinge": {
+   "frame": {
+    "x": 342,
+    "y": 750,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "mirrors_frames"
+  },
+  "pack08_161_brass_spirit_frequency_dial_with_copper_coil": {
+   "frame": {
+    "x": 410,
+    "y": 750,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "spectral_instruments"
+  },
+  "pack08_162_glass_static_charge_globe_on_ebony_base": {
+   "frame": {
+    "x": 478,
+    "y": 750,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "spectral_instruments"
+  },
+  "pack08_163_pendulum_divination_cage_with_crystal_bob": {
+   "frame": {
+    "x": 546,
+    "y": 750,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "spectral_instruments"
+  },
+  "pack08_164_mechanical_spirit_writing_planchette": {
+   "frame": {
+    "x": 614,
+    "y": 750,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "spectral_instruments"
+  },
+  "pack08_165_victorian_ectoplasm_sampling_pump": {
+   "frame": {
+    "x": 682,
+    "y": 750,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "spectral_instruments"
+  },
+  "pack08_166_twin_horn_spectral_listening_receiver": {
+   "frame": {
+    "x": 750,
+    "y": 750,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "spectral_instruments"
+  },
+  "pack08_167_electromagnetic_anomaly_meter_with_needle": {
+   "frame": {
+    "x": 818,
+    "y": 750,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "spectral_instruments"
+  },
+  "pack08_168_spirit_camera_flash_powder_tray_closed": {
+   "frame": {
+    "x": 886,
+    "y": 750,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "spectral_instruments"
+  },
+  "pack08_169_wax_sealed_cold_spot_measurement_tube": {
+   "frame": {
+    "x": 2,
+    "y": 818,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "spectral_instruments"
+  },
+  "pack08_170_ghost_light_detecting_prism_viewer": {
+   "frame": {
+    "x": 70,
+    "y": 818,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "spectral_instruments"
+  },
+  "pack08_171_copper_wire_spirit_resonance_tuning_fork": {
+   "frame": {
+    "x": 138,
+    "y": 818,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "spectral_instruments"
+  },
+  "pack08_172_sealed_bell_jar_with_floating_compass_needle": {
+   "frame": {
+    "x": 206,
+    "y": 818,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "spectral_instruments"
+  },
+  "pack08_173_clockwork_presence_detecting_bell_device": {
+   "frame": {
+    "x": 274,
+    "y": 818,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "spectral_instruments"
+  },
+  "pack08_174_glass_plate_spectral_image_holder": {
+   "frame": {
+    "x": 342,
+    "y": 818,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "spectral_instruments"
+  },
+  "pack08_175_silver_chain_motion_detector_pendulum": {
+   "frame": {
+    "x": 410,
+    "y": 818,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "spectral_instruments"
+  },
+  "pack08_176_portable_aura_observing_lens_box": {
+   "frame": {
+    "x": 478,
+    "y": 818,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "spectral_instruments"
+  },
+  "pack08_177_blackwood_spirit_communication_tapping_board": {
+   "frame": {
+    "x": 546,
+    "y": 818,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "spectral_instruments"
+  },
+  "pack08_178_insulated_spectral_energy_capture_capsule": {
+   "frame": {
+    "x": 614,
+    "y": 818,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "spectral_instruments"
+  },
+  "pack08_179_crystal_oscillator_in_brass_tripod_frame": {
+   "frame": {
+    "x": 682,
+    "y": 818,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "spectral_instruments"
+  },
+  "pack08_180_mirror_shutter_spirit_observation_box": {
+   "frame": {
+    "x": 750,
+    "y": 818,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "spectral_instruments"
+  },
+  "pack08_181_master_key_with_a_broken_raven_wing": {
+   "frame": {
+    "x": 818,
+    "y": 818,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "manor_quest"
+  },
+  "pack08_182_sealed_testament_in_a_black_ribbon_case": {
+   "frame": {
+    "x": 886,
+    "y": 818,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "manor_quest"
+  },
+  "pack08_183_manor_crest_puzzle_medallion_in_three_pieces": {
+   "frame": {
+    "x": 2,
+    "y": 886,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "manor_quest"
+  },
+  "pack08_184_portrait_backing_panel_hiding_a_tiny_key": {
+   "frame": {
+    "x": 70,
+    "y": 886,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "manor_quest"
+  },
+  "pack08_185_missing_clock_hand_with_moon_shaped_tip": {
+   "frame": {
+    "x": 138,
+    "y": 886,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "manor_quest"
+  },
+  "pack08_186_music_box_winding_cylinder_with_silver_notch": {
+   "frame": {
+    "x": 206,
+    "y": 886,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "manor_quest"
+  },
+  "pack08_187_glass_heart_from_a_broken_doll": {
+   "frame": {
+    "x": 274,
+    "y": 886,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "manor_quest"
+  },
+  "pack08_188_iron_rose_from_the_locked_garden_gate": {
+   "frame": {
+    "x": 342,
+    "y": 886,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "manor_quest"
+  },
+  "pack08_189_family_signet_ring_in_a_cracked_case": {
+   "frame": {
+    "x": 410,
+    "y": 886,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "manor_quest"
+  },
+  "pack08_190_half_of_an_ivory_staircase_banister_finial": {
+   "frame": {
+    "x": 478,
+    "y": 886,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "manor_quest"
+  },
+  "pack08_191_small_wooden_coffin_containing_blank_letters": {
+   "frame": {
+    "x": 546,
+    "y": 886,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "manor_quest"
+  },
+  "pack08_192_spectral_candle_that_casts_a_blue_shadow": {
+   "frame": {
+    "x": 614,
+    "y": 886,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "manor_quest"
+  },
+  "pack08_193_black_pearl_button_from_an_absent_coat": {
+   "frame": {
+    "x": 682,
+    "y": 886,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "manor_quest"
+  },
+  "pack08_194_clock_tower_gear_shaped_as_a_mourning_wreath": {
+   "frame": {
+    "x": 750,
+    "y": 886,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "manor_quest"
+  },
+  "pack08_195_mirror_door_latch_hidden_in_a_hair_comb": {
+   "frame": {
+    "x": 818,
+    "y": 886,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "manor_quest"
+  },
+  "pack08_196_sealed_bottle_containing_a_whisper_cloud": {
+   "frame": {
+    "x": 886,
+    "y": 886,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "manor_quest"
+  },
+  "pack08_197_silver_bell_with_a_tied_black_tongue": {
+   "frame": {
+    "x": 2,
+    "y": 954,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "manor_quest"
+  },
+  "pack08_198_twin_key_lock_cylinder_inside_velvet_pouch": {
+   "frame": {
+    "x": 70,
+    "y": 954,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "manor_quest"
+  },
+  "pack08_199_cracked_manor_model_with_one_glowing_window": {
+   "frame": {
+    "x": 138,
+    "y": 954,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "manor_quest"
+  },
+  "pack08_200_last_guest_token_shaped_as_a_raven_feather": {
+   "frame": {
+    "x": 206,
+    "y": 954,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "manor_quest"
+  }
+ }
+}
