@@ -48,6 +48,8 @@ REROLLS = {
     "pack10_051_fan_folded_court_etiquette_booklet": "Court etiquette booklet folded zigzag like an accordion, standing upright with navy covers",
     "pack10_137_mechanical_teaching_balance_with_star_pans": "Teaching lever balance: one long beam on a low pivot block with a sliding brass weight and a star dial",
     "pack10_127_silver_classroom_chime_on_walnut_stand": "Three silver chime bars of different lengths hanging from a walnut frame",
+    "pack10_145_gold_tasseled_appointment_document_tube": "Upright leather appointment case, flat and rectangular, with a gold tassel hanging from its flap",
+    "pack10_160_book_shaped_archive_permission_token": "Small flat ivory token carved in the outline of a tiny book, on a short blue cord",
 }
 
 

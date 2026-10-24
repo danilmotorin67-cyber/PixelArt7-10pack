@@ -87,5 +87,28 @@
   "decision": "renamed",
   "note": "stack of folded cloth",
   "drawn_as": "Folded scholar's shawls with blue trim"
+ },
+ "pack10_145_gold_tasseled_appointment_document_tube": {
+  "decision": "problem",
+  "note": "document tube; near-duplicate of 064"
+ },
+ "pack10_153_ribbon_threading_needle_for_royal_documents": {
+  "decision": "renamed",
+  "note": "tassel ornament rather than a needle",
+  "drawn_as": "Crown-topped ribbon tassel"
+ },
+ "pack10_154_embossed_parchment_invitation_with_sunburst_edge": {
+  "decision": "renamed",
+  "note": "medallion rather than an invitation",
+  "drawn_as": "Sunburst medallion with a helmet relief"
+ },
+ "pack10_156_small_locked_diplomatic_dispatch_cylinder": {
+  "decision": "renamed",
+  "note": "coffer rather than a cylinder",
+  "drawn_as": "Small locked diplomatic coffer"
+ },
+ "pack10_160_book_shaped_archive_permission_token": {
+  "decision": "problem",
+  "note": "closed navy-gold tome; near-duplicate of 045"
  }
 }
