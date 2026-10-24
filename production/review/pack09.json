@@ -108,5 +108,22 @@
   "decision": "renamed",
   "note": "capsule-like housing",
   "drawn_as": "Brass rope brake housing"
+ },
+ "pack09_088_floating_ore_nugget_held_in_anchor_cage": {
+  "decision": "renamed",
+  "note": "crate instead of a cage",
+  "drawn_as": "Stone-cased ore crate with brass bands"
+ },
+ "pack09_096_windproof_treasure_satchel_with_double_buckles": {
+  "decision": "problem",
+  "note": "drawn as a domed chest; near-duplicate of 089"
+ },
+ "pack09_098_padded_bird_egg_shaped_navigation_cargo_pod": {
+  "decision": "problem",
+  "note": "drawn as a bird creature with a face, not an item"
+ },
+ "pack09_100_airship_freight_seal_made_of_blue_wax": {
+  "decision": "problem",
+  "note": "drawn as an airship instead of a wax seal; near-duplicate of 024"
  }
 }
