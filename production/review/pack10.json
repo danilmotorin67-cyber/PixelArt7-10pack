@@ -8,5 +8,28 @@
   "decision": "renamed",
   "note": "jug rather than an inkpot",
   "drawn_as": "Bronze ink jug with curled leaf pattern"
+ },
+ "pack10_043_round_rotating_wheel_book_of_seasons": {
+  "decision": "renamed",
+  "note": "wheel without book body",
+  "drawn_as": "Rotating wheel of seasons"
+ },
+ "pack10_046_leaf_edged_botanical_folio_with_pressed_insert": {
+  "decision": "renamed",
+  "note": "medallion rather than a folio",
+  "drawn_as": "Leaf-edged botanical medallion"
+ },
+ "pack10_049_triptych_hinged_map_book_with_blue_panels": {
+  "decision": "problem",
+  "note": "closed navy-gold tome; near-duplicate of 045 (triptych construction missing)"
+ },
+ "pack10_053_pearl_inlaid_music_score_codex_without_text": {
+  "decision": "problem",
+  "note": "closed navy-gold tome; near-duplicate of 045"
+ },
+ "pack10_058_braided_cord_bound_court_poetry_anthology": {
+  "decision": "renamed",
+  "note": "cylinder case rather than a book",
+  "drawn_as": "Braided-cord bound scroll case"
  }
 }
