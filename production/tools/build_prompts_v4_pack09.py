@@ -27,14 +27,15 @@ def prompt(e):
             "pixel clusters, plain transparent background.")
 
 
-with open(V1, encoding="utf-8") as f, open(V4 + ".tmp", "w", encoding="utf-8") as out:
-    for e in map(json.loads, f):
-        if e["pack_number"] != 9:
-            continue
-        e = dict(e, prompt_version=4)
-        e["prompt"] = prompt(e)
-        e["args"] = dict(e["args"], description=e["prompt"])
-        e["request_sha256"] = hashlib.sha256(
-            json.dumps(e["args"], sort_keys=True, separators=(",", ":")).encode()).hexdigest()
-        out.write(json.dumps(e, ensure_ascii=False) + "\n")
-os.replace(V4 + ".tmp", V4)
+if __name__ == "__main__":
+    with open(V1, encoding="utf-8") as f, open(V4 + ".tmp", "w", encoding="utf-8") as out:
+        for e in map(json.loads, f):
+            if e["pack_number"] != 9:
+                continue
+            e = dict(e, prompt_version=4)
+            e["prompt"] = prompt(e)
+            e["args"] = dict(e["args"], description=e["prompt"])
+            e["request_sha256"] = hashlib.sha256(
+                json.dumps(e["args"], sort_keys=True, separators=(",", ":")).encode()).hexdigest()
+            out.write(json.dumps(e, ensure_ascii=False) + "\n")
+    os.replace(V4 + ".tmp", V4)
