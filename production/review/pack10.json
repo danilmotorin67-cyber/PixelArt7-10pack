@@ -69,5 +69,23 @@
  "pack10_108_silver_folded_napkin_holder_shaped_as_crown": {
   "decision": "problem",
   "note": "drawn as a crown; near-duplicate of 020/001"
+ },
+ "pack10_127_silver_classroom_chime_on_walnut_stand": {
+  "decision": "problem",
+  "note": "silver bell; near-duplicate of 112"
+ },
+ "pack10_130_royal_academy_admission_token_with_open_book": {
+  "decision": "renamed",
+  "note": "box with book rather than a token",
+  "drawn_as": "Academy admission box with an open book"
+ },
+ "pack10_137_mechanical_teaching_balance_with_star_pans": {
+  "decision": "problem",
+  "note": "twin-pan scales; near-duplicate of 093"
+ },
+ "pack10_139_folded_scholars_reading_shawl_with_blue_trim": {
+  "decision": "renamed",
+  "note": "stack of folded cloth",
+  "drawn_as": "Folded scholar's shawls with blue trim"
  }
 }

@@ -46,6 +46,8 @@ REROLLS = {
     "pack10_099_library_light_intensity_lens_meter": "Handheld light meter with a pistol grip and a round glass dial",
     "pack10_108_silver_folded_napkin_holder_shaped_as_crown": "Silver napkin ring with a small crown-shaped rim, a folded white napkin pulled through it",
     "pack10_051_fan_folded_court_etiquette_booklet": "Court etiquette booklet folded zigzag like an accordion, standing upright with navy covers",
+    "pack10_137_mechanical_teaching_balance_with_star_pans": "Teaching lever balance: one long beam on a low pivot block with a sliding brass weight and a star dial",
+    "pack10_127_silver_classroom_chime_on_walnut_stand": "Three silver chime bars of different lengths hanging from a walnut frame",
 }
 
 
