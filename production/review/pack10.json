@@ -110,5 +110,10 @@
  "pack10_160_book_shaped_archive_permission_token": {
   "decision": "problem",
   "note": "closed navy-gold tome; near-duplicate of 045"
+ },
+ "pack10_163_crystal_chess_king_with_ivory_crown": {
+  "decision": "renamed",
+  "note": "knight piece rather than king",
+  "drawn_as": "Crystal chess knight with ivory crown"
  }
 }
