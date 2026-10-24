@@ -154,5 +154,14 @@
   "decision": "renamed",
   "note": "coffer instead of a plaque",
   "drawn_as": "Brass crest coffer"
+ },
+ "pack09_144_brass_pocket_sky_telescope_with_shoulder_strap": {
+  "decision": "problem",
+  "note": "drawn as binoculars; near-duplicate of 017"
+ },
+ "pack09_156_wooden_sky_dice_in_a_leather_cup": {
+  "decision": "renamed",
+  "note": "box drawn, dice not visible",
+  "drawn_as": "Carved wooden dice box"
  }
 }
