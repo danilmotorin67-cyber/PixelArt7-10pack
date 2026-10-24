@@ -44,7 +44,8 @@ def load_prompts():
 def prompt_version(notes):
     """Attempts store {"prompt_version": n, ...} in notes; the two early REST attempts were v1."""
     try:
-        return int(json.loads(notes).get("prompt_version", 1))
+        v = json.loads(notes).get("prompt_version", 1)
+        return v if v == "replacement" else int(v)
     except (TypeError, ValueError, AttributeError):
         return 1
 
@@ -153,6 +154,10 @@ def main(pack_no):
     db = sqlite3.connect(os.path.join(PROD, "production_ledger.sqlite"))
     att = {r[0]: r for r in db.execute(
         "SELECT asset_id,state,job_id,gallery_id,charged_units,request_sha256,notes FROM attempts")}
+    rr = {}
+    if db.execute("SELECT 1 FROM sqlite_master WHERE name='reroll_attempts'").fetchone():
+        rr = {r[6]: r for r in db.execute("SELECT request_sha256,state,job_id,gallery_id,charged_units,"
+                                          "local_file,asset_id,item_text FROM reroll_attempts")}
 
     slug = "%02d_%s" % (pack_no, pack["slug"])
     root = os.path.join(OUT, slug)
@@ -167,11 +172,15 @@ def main(pack_no):
     for e in entries:
         aid = e["id"]
         a_row = att.get(aid)
+        rv = review.get(aid, {})
+        reroll = rr.get(aid) if rv.get("source") == "reroll" else None
         src = os.path.join(PROD, "fixed", e["filename"])
         manual_fix = os.path.exists(src)
-        if not manual_fix:
+        if reroll:
+            src, manual_fix = os.path.join(ROOT, reroll[5]), False
+            a_row = (aid, reroll[1], reroll[2], reroll[3], reroll[4], reroll[0], '{"prompt_version": "replacement"}')
+        elif not manual_fix:
             src = os.path.join(PROD, "raw", e["filename"])
-        rv = review.get(aid, {})
         if not os.path.exists(src) or a_row is None or a_row[1] != "completed" or rv.get("decision") == "problem":
             missing.append({"stable_id": aid, "state": a_row[1] if a_row else "not_submitted",
                             "reason": rv.get("note", "no accepted image")})
@@ -188,6 +197,10 @@ def main(pack_no):
         m = qa.metrics(p64)
         pv = prompt_version(a_row[6])
         used = prompts[aid].get(pv, e)
+        if reroll:
+            pv = "replacement"
+            used = {"prompt": "replacement generation, item text: " + reroll[7] + " (receipt "
+                    + aid + ".reroll.json)", "args": dict(e["args"], seed=e["args"]["seed"] + 1000000)}
         accepted.append((e, m))
         qa_rows.append({"stable_id": aid, "raw_flags": raw_m["flags"], "final_flags": m["flags"], "fixes": notes,
                         "review": rv.get("decision", "accepted"), "review_note": rv.get("note", "")})
