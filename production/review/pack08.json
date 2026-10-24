@@ -78,5 +78,20 @@
   "decision": "accepted",
   "note": "v1 pilot added crystal horns",
   "fix_note": "free fix: crystal horns recoloured as burgundy hair bows"
+ },
+ "pack08_122_wind_up_tin_ghost_toy_with_key": {
+  "decision": "renamed",
+  "note": "figure is a knight, not a ghost",
+  "drawn_as": "Wind-up tin knight toy"
+ },
+ "pack08_129_tiny_rocking_cradle_with_lace_blanket": {
+  "decision": "renamed",
+  "note": "rocking horse instead of cradle",
+  "drawn_as": "Toy rocking horse with a lace blanket"
+ },
+ "pack08_134_porcelain_doll_arm_inside_repair_tray": {
+  "decision": "renamed",
+  "note": "whole doll rather than an arm",
+  "drawn_as": "Small porcelain doll in a repair tray"
  }
 }
