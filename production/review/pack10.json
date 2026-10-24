@@ -115,5 +115,23 @@
   "decision": "renamed",
   "note": "knight piece rather than king",
   "drawn_as": "Crystal chess knight with ivory crown"
+ },
+ "pack10_178_miniature_crystal_crown_under_glass": {
+  "decision": "problem",
+  "note": "crown without the glass; near-duplicate of 020"
+ },
+ "pack10_185_sealed_forbidden_shelf_latch_with_sapphire_eye": {
+  "decision": "problem",
+  "note": "drawn as a domed chest; near-duplicate of 065"
+ },
+ "pack10_199_sun_and_moon_page_clasp_pair_connected_by_chain": {
+  "decision": "renamed",
+  "note": "book with clasp chain",
+  "drawn_as": "Sun-emblem book with a gold clasp chain"
+ },
+ "pack10_200_crown_shaped_folio_holding_a_floating_blank_page": {
+  "decision": "renamed",
+  "note": "crown on folio, page not floating",
+  "drawn_as": "Crown resting on an open folio"
  }
 }

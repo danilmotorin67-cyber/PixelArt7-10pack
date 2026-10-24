@@ -50,11 +50,40 @@ REROLLS = {
     "pack10_127_silver_classroom_chime_on_walnut_stand": "Three silver chime bars of different lengths hanging from a walnut frame",
     "pack10_145_gold_tasseled_appointment_document_tube": "Upright leather appointment case, flat and rectangular, with a gold tassel hanging from its flap",
     "pack10_160_book_shaped_archive_permission_token": "Small flat ivory token carved in the outline of a tiny book, on a short blue cord",
+    "pack10_178_miniature_crystal_crown_under_glass": "Tall glass bell dome on a round walnut base, a tiny crystal crown visible inside",
+    "pack10_185_sealed_forbidden_shelf_latch_with_sapphire_eye": "Flat brass shelf latch plate with a sliding bolt and one sapphire set in its centre",
 }
 
 
 def now():
     return dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")
+
+
+def poll_once(c, plan, jobs):
+    """Free reads: collect finished replacement jobs."""
+    for aid, (asset, job) in list(jobs.items()):
+        try:
+            result, _ = mcp.call("get_image", {"job_id": job}, timeout=90)
+        except Exception as ex:  # free read; retried on the next pass
+            print("poll error", asset, repr(ex)[:120])
+            continue
+        status = (result.get("structuredContent") or {}).get("status")
+        imgs = mcp.images_of(result)
+        if status == "completed" and imgs:
+            png = base64.b64decode(imgs[0]["data"])
+            out = os.path.join(PROD, "rerolls", plan[asset]["filename"])
+            os.makedirs(os.path.dirname(out), exist_ok=True)
+            with open(out, "wb") as f:
+                f.write(png)
+            gal = (result.get("structuredContent") or {}).get("asset_id")
+            c.execute("UPDATE reroll_attempts SET state='completed', gallery_id=?, charged_units=1, local_file=? "
+                      "WHERE attempt_id=?", (gal, os.path.relpath(out, ROOT), aid))
+            del jobs[aid]
+            print("done", asset, flush=True)
+        elif status == "failed" or result.get("isError"):
+            c.execute("UPDATE reroll_attempts SET state='failed' WHERE attempt_id=?", (aid,))
+            del jobs[aid]
+            print("FAILED", asset)
 
 
 def main():
@@ -75,6 +104,9 @@ def main():
             continue
         if c.execute("SELECT 1 FROM reroll_attempts WHERE asset_id=?", (asset,)).fetchone():
             continue
+        while len(jobs) >= 8:  # at most 8 own jobs in flight
+            poll_once(c, plan, jobs)
+            time.sleep(5)
         e = dict(plan[asset], name_en=text)
         build = prompt_v4 if e["pack_number"] == 9 else prompt_v2
         args = dict(e["args"], description=build(e), seed=e["args"]["seed"] + 1000000)
@@ -109,25 +141,7 @@ def main():
     for aid, asset, job in c.execute("SELECT attempt_id, asset_id, job_id FROM reroll_attempts WHERE state='submitted'").fetchall():
         jobs[aid] = (asset, job)
     while jobs:
-        for aid, (asset, job) in list(jobs.items()):
-            result, _ = mcp.call("get_image", {"job_id": job}, timeout=90)
-            status = (result.get("structuredContent") or {}).get("status")
-            imgs = mcp.images_of(result)
-            if status == "completed" and imgs:
-                png = base64.b64decode(imgs[0]["data"])
-                out = os.path.join(PROD, "rerolls", plan[asset]["filename"])
-                os.makedirs(os.path.dirname(out), exist_ok=True)
-                with open(out, "wb") as f:
-                    f.write(png)
-                gal = (result.get("structuredContent") or {}).get("asset_id")
-                c.execute("UPDATE reroll_attempts SET state='completed', gallery_id=?, charged_units=1, local_file=? "
-                          "WHERE attempt_id=?", (gal, os.path.relpath(out, ROOT), aid))
-                del jobs[aid]
-                print("done", asset, flush=True)
-            elif status == "failed" or result.get("isError"):
-                c.execute("UPDATE reroll_attempts SET state='failed' WHERE attempt_id=?", (aid,))
-                del jobs[aid]
-                print("FAILED", asset)
+        poll_once(c, plan, jobs)
         time.sleep(5)
     print(c.execute("SELECT state, COUNT(*), COALESCE(SUM(charged_units),0) FROM reroll_attempts GROUP BY 1").fetchall())
 
