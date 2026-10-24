@@ -1,0 +1,112 @@
+{
+ "pack09_003_folded_floating_island_route_chart": {
+  "decision": "renamed",
+  "note": "v2 drew an island instead of a folded chart",
+  "drawn_as": "Floating island with a waterfall"
+ },
+ "pack09_005_wind_direction_pennant_on_folding_mast": {
+  "decision": "renamed",
+  "note": "v2 drew a ship instead of a pennant",
+  "drawn_as": "Miniature sky galleon model"
+ },
+ "pack09_011_folding_navigator_sight_frame_with_blue_lens": {
+  "decision": "renamed",
+  "note": "v2 drew scenery background",
+  "drawn_as": "Brass navigator sight with blue lens",
+  "fix_note": "free fix: painted floating-island scenery erased"
+ },
+ "pack09_012_cloud_current_sounding_balloon_reel": {
+  "decision": "renamed",
+  "note": "balloon pod instead of a reel",
+  "drawn_as": "Cloud balloon pod"
+ },
+ "pack09_015_ship_mounted_navigation_lamp_miniature": {
+  "decision": "problem",
+  "note": "v2 drew a sailing ship; near-duplicate of 005"
+ },
+ "pack09_018_pocket_sky_island_silhouette_reference_fan": {
+  "decision": "renamed",
+  "note": "island instead of a reference fan",
+  "drawn_as": "Pocket floating island with a hut"
+ },
+ "pack09_021_curved_wooden_sailmakers_palm_tool": {
+  "decision": "accepted",
+  "note": "loose interpretation: brass sail tool gadget"
+ },
+ "pack09_022_long_brass_rigging_splice_needle": {
+  "decision": "accepted",
+  "note": "v2 drew scenery background",
+  "fix_note": "free fix: painted scenery fragments erased"
+ },
+ "pack09_023_rope_tension_checking_hooked_gauge": {
+  "decision": "accepted",
+  "note": "loose interpretation: gauge device"
+ },
+ "pack09_024_double_sheave_airship_pulley_block": {
+  "decision": "renamed",
+  "note": "v2 drew an airship instead of a pulley block",
+  "drawn_as": "Airship model with gondola"
+ },
+ "pack09_029_sail_batten_bending_clamp": {
+  "decision": "renamed",
+  "note": "v2 drew a sloop instead of a clamp",
+  "drawn_as": "Small sky sloop model"
+ },
+ "pack09_032_deck_plank_caulking_iron_with_broad_tip": {
+  "decision": "renamed",
+  "note": "v2 drew scenery background",
+  "drawn_as": "Brass-banded caulking iron with broad tip",
+  "fix_note": "free fix: painted scenery erased, handle end trimmed"
+ },
+ "pack09_034_small_airship_hull_tapping_hammer": {
+  "decision": "problem",
+  "note": "v2: meaningless mechanical construction on legs, no readable hammer"
+ },
+ "pack09_035_bronze_pulley_axle_removal_punch": {
+  "decision": "renamed",
+  "note": "wheel instead of a punch",
+  "drawn_as": "Bronze pulley wheel with axle"
+ },
+ "pack09_038_split_brass_cable_joining_ferrule_press": {
+  "decision": "renamed",
+  "note": "helmet instead of a ferrule press",
+  "drawn_as": "Brass flight helmet with crossed tools"
+ },
+ "pack09_046_twin_cylinder_airship_engine_miniature": {
+  "decision": "problem",
+  "note": "v2 drew an airship; near-duplicate of 024"
+ },
+ "pack09_048_rotating_wing_pitch_control_linkage": {
+  "decision": "renamed",
+  "note": "plane instead of a linkage",
+  "drawn_as": "Miniature biplane model"
+ },
+ "pack09_053_small_brass_chimney_exhaust_separator": {
+  "decision": "renamed",
+  "note": "capsule-shaped",
+  "drawn_as": "Brass exhaust separator capsule"
+ },
+ "pack09_054_crystal_energized_propeller_shaft_coupler": {
+  "decision": "problem",
+  "note": "v3 drew a small aircraft; near-duplicate of 048"
+ },
+ "pack09_055_balloon_pressure_relief_spring_valve": {
+  "decision": "problem",
+  "note": "v3 drew a zeppelin; near-duplicate of 024"
+ },
+ "pack09_072_balloon_gondola_suspension_shackle": {
+  "decision": "renamed",
+  "note": "gondola with shackle",
+  "drawn_as": "Gondola basket on a suspension shackle"
+ },
+ "pack09_077_decorative_captains_banner_without_emblem_text": {
+  "decision": "renamed",
+  "note": "hat and chest instead of a banner",
+  "drawn_as": "Captain's hat on a small sea chest"
+ },
+ "pack09_078_heavy_airship_anchor_rope_brake": {
+  "decision": "renamed",
+  "note": "capsule-like housing",
+  "drawn_as": "Brass rope brake housing"
+ }
+}

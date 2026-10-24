@@ -9,6 +9,7 @@ Review decisions come from production/review/packNN.json.
 Usage: build_pack.py 8
 """
 import csv
+import glob
 import hashlib
 import html
 import json
@@ -33,8 +34,8 @@ CELL, PAD, COLS = 68, 2, 14
 
 def load_prompts():
     out = {}
-    for name in ("prompts_packs_08_10.jsonl", "prompts_v2_packs_08_10.jsonl"):
-        with open(os.path.join(ROOT, "method", name), encoding="utf-8") as f:
+    for path in sorted(glob.glob(os.path.join(ROOT, "method", "prompts*.jsonl"))):
+        with open(path, encoding="utf-8") as f:
             for e in map(json.loads, f):
                 out.setdefault(e["id"], {})[e["prompt_version"]] = e
     return out

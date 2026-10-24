@@ -16,6 +16,7 @@ Usage: generate.py ASSET_ID [...] | --pack 8 [--category evidence] | --reconcile
 import argparse
 import base64
 import datetime as dt
+import glob
 import hashlib
 import json
 import os
@@ -32,8 +33,7 @@ PROD = os.path.join(ROOT, "production")
 DB = os.path.join(PROD, "production_ledger.sqlite")
 RECEIPTS = os.path.join(PROD, "receipts")
 RAW = os.path.join(PROD, "raw")
-PROMPT_FILES = [os.path.join(ROOT, "method", "prompts_packs_08_10.jsonl"),
-                os.path.join(ROOT, "method", "prompts_v2_packs_08_10.jsonl")]
+PROMPT_FILES = sorted(glob.glob(os.path.join(ROOT, "method", "prompts*.jsonl")))
 PACK_LIMIT = 200
 MAX_IN_FLIGHT = 8
 UUID_RE = re.compile(r"[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}")
