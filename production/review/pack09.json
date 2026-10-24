@@ -72,6 +72,11 @@
   "note": "helmet instead of a ferrule press",
   "drawn_as": "Brass flight helmet with crossed tools"
  },
+ "pack09_043_compact_aether_engine_turbine_core": {
+  "decision": "renamed",
+  "note": "drawn on a small island base",
+  "drawn_as": "Aether turbine core on a floating rock"
+ },
  "pack09_046_twin_cylinder_airship_engine_miniature": {
   "decision": "problem",
   "note": "v2 drew an airship; near-duplicate of 024"
@@ -173,5 +178,28 @@
   "decision": "renamed",
   "note": "chest instead of a table",
   "drawn_as": "Brass-bound chart chest"
+ },
+ "pack09_184_airship_master_engine_ignition_key": {
+  "decision": "problem",
+  "note": "drawn as an airship; near-duplicate of 024"
+ },
+ "pack09_186_map_fragment_on_translucent_cloud_glass": {
+  "decision": "renamed",
+  "note": "scroll on crate",
+  "drawn_as": "Map scroll on a small brass crate"
+ },
+ "pack09_189_ancient_floating_island_anchor_control_prism": {
+  "decision": "renamed",
+  "note": "stone shell instead of a prism",
+  "drawn_as": "Ancient island anchor stone"
+ },
+ "pack09_190_blue_pearl_from_the_center_of_a_storm": {
+  "decision": "renamed",
+  "note": "pearl set in a tube",
+  "drawn_as": "Brass tube holding a blue storm pearl"
+ },
+ "pack09_200_final_flight_log_sealed_by_a_brass_propeller": {
+  "decision": "problem",
+  "note": "drawn as a small plane; near-duplicate of 048"
  }
 }

@@ -1,0 +1,1708 @@
+{
+ "meta": {
+  "image": "pack_64.png",
+  "size": {
+   "w": 1024,
+   "h": 1024
+  },
+  "cell": 68,
+  "padding": 2,
+  "columns": 14,
+  "sprite": 64,
+  "count": 188
+ },
+ "frames": {
+  "pack09_001_brass_aerial_compass_suspended_in_gimbal": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "sky_navigation"
+  },
+  "pack09_002_cloud_altitude_barometer_with_twin_needles": {
+   "frame": {
+    "x": 70,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "sky_navigation"
+  },
+  "pack09_003_folded_floating_island_route_chart": {
+   "frame": {
+    "x": 138,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "sky_navigation"
+  },
+  "pack09_004_crystal_star_alignment_monocular": {
+   "frame": {
+    "x": 206,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "sky_navigation"
+  },
+  "pack09_005_wind_direction_pennant_on_folding_mast": {
+   "frame": {
+    "x": 274,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "sky_navigation"
+  },
+  "pack09_006_handheld_brass_cloud_density_viewer": {
+   "frame": {
+    "x": 342,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "sky_navigation"
+  },
+  "pack09_007_gyroscopic_sky_sextant_with_three_rings": {
+   "frame": {
+    "x": 410,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "sky_navigation"
+  },
+  "pack09_008_storm_front_plotting_wheel_with_glass_center": {
+   "frame": {
+    "x": 478,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "sky_navigation"
+  },
+  "pack09_009_feather_balanced_crosswind_gauge": {
+   "frame": {
+    "x": 546,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "sky_navigation"
+  },
+  "pack09_010_map_tube_with_wing_shaped_endcaps": {
+   "frame": {
+    "x": 614,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "sky_navigation"
+  },
+  "pack09_011_folding_navigator_sight_frame_with_blue_lens": {
+   "frame": {
+    "x": 682,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "sky_navigation"
+  },
+  "pack09_012_cloud_current_sounding_balloon_reel": {
+   "frame": {
+    "x": 750,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "sky_navigation"
+  },
+  "pack09_013_brass_horizon_level_with_suspended_bubble": {
+   "frame": {
+    "x": 818,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "sky_navigation"
+  },
+  "pack09_014_celestial_route_disc_with_tiny_inset_gems": {
+   "frame": {
+    "x": 886,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "sky_navigation"
+  },
+  "pack09_016_distance_counting_air_log_propeller_instrument": {
+   "frame": {
+    "x": 2,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "sky_navigation"
+  },
+  "pack09_017_twin_lens_cloud_gap_scouting_binoculars": {
+   "frame": {
+    "x": 70,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "sky_navigation"
+  },
+  "pack09_018_pocket_sky_island_silhouette_reference_fan": {
+   "frame": {
+    "x": 138,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "sky_navigation"
+  },
+  "pack09_019_compass_rose_shaped_plotting_divider": {
+   "frame": {
+    "x": 206,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "sky_navigation"
+  },
+  "pack09_020_glass_storm_globe_inside_a_leather_yoke": {
+   "frame": {
+    "x": 274,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "sky_navigation"
+  },
+  "pack09_021_curved_wooden_sailmakers_palm_tool": {
+   "frame": {
+    "x": 342,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "deck_rigging_tools"
+  },
+  "pack09_022_long_brass_rigging_splice_needle": {
+   "frame": {
+    "x": 410,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "deck_rigging_tools"
+  },
+  "pack09_023_rope_tension_checking_hooked_gauge": {
+   "frame": {
+    "x": 478,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "deck_rigging_tools"
+  },
+  "pack09_024_double_sheave_airship_pulley_block": {
+   "frame": {
+    "x": 546,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "deck_rigging_tools"
+  },
+  "pack09_025_ratchet_handled_wing_spar_wrench": {
+   "frame": {
+    "x": 614,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "deck_rigging_tools"
+  },
+  "pack09_026_canvas_patch_roller_with_copper_head": {
+   "frame": {
+    "x": 682,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "deck_rigging_tools"
+  },
+  "pack09_027_foldable_deck_grappling_hook_for_cargo": {
+   "frame": {
+    "x": 750,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "deck_rigging_tools"
+  },
+  "pack09_028_wooden_rope_serving_mallet": {
+   "frame": {
+    "x": 818,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "deck_rigging_tools"
+  },
+  "pack09_029_sail_batten_bending_clamp": {
+   "frame": {
+    "x": 886,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "deck_rigging_tools"
+  },
+  "pack09_030_brass_rivet_setter_with_leather_grip": {
+   "frame": {
+    "x": 2,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "deck_rigging_tools"
+  },
+  "pack09_031_wing_fabric_seam_cutting_shears": {
+   "frame": {
+    "x": 70,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "deck_rigging_tools"
+  },
+  "pack09_032_deck_plank_caulking_iron_with_broad_tip": {
+   "frame": {
+    "x": 138,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "deck_rigging_tools"
+  },
+  "pack09_033_hand_cranked_rigging_line_winch": {
+   "frame": {
+    "x": 206,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "deck_rigging_tools"
+  },
+  "pack09_035_bronze_pulley_axle_removal_punch": {
+   "frame": {
+    "x": 274,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "deck_rigging_tools"
+  },
+  "pack09_036_telescoping_mast_inspection_mirror": {
+   "frame": {
+    "x": 342,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "deck_rigging_tools"
+  },
+  "pack09_037_balloon_envelope_patching_brush": {
+   "frame": {
+    "x": 410,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "deck_rigging_tools"
+  },
+  "pack09_038_split_brass_cable_joining_ferrule_press": {
+   "frame": {
+    "x": 478,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "deck_rigging_tools"
+  },
+  "pack09_039_hooked_propeller_cleaning_scraper": {
+   "frame": {
+    "x": 546,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "deck_rigging_tools"
+  },
+  "pack09_040_portable_deck_work_vise_with_wing_nut": {
+   "frame": {
+    "x": 614,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "deck_rigging_tools"
+  },
+  "pack09_041_copper_lift_gas_regulator_valve": {
+   "frame": {
+    "x": 682,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "engines_lift"
+  },
+  "pack09_042_brass_propeller_hub_with_four_blade_sockets": {
+   "frame": {
+    "x": 750,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "engines_lift"
+  },
+  "pack09_043_compact_aether_engine_turbine_core": {
+   "frame": {
+    "x": 818,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "engines_lift"
+  },
+  "pack09_044_blue_crystal_buoyancy_chamber": {
+   "frame": {
+    "x": 886,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "engines_lift"
+  },
+  "pack09_045_leather_bellows_assisted_ignition_unit": {
+   "frame": {
+    "x": 2,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "engines_lift"
+  },
+  "pack09_047_finned_copper_condenser_radiator": {
+   "frame": {
+    "x": 70,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "engines_lift"
+  },
+  "pack09_048_rotating_wing_pitch_control_linkage": {
+   "frame": {
+    "x": 138,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "engines_lift"
+  },
+  "pack09_049_pressure_sealed_lift_gas_capsule": {
+   "frame": {
+    "x": 206,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "engines_lift"
+  },
+  "pack09_050_steam_driven_counter_rotating_gear_pair": {
+   "frame": {
+    "x": 274,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "engines_lift"
+  },
+  "pack09_051_airship_fuel_injector_with_ceramic_tip": {
+   "frame": {
+    "x": 342,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "engines_lift"
+  },
+  "pack09_052_gyroscopic_stabilizer_flywheel_housing": {
+   "frame": {
+    "x": 410,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "engines_lift"
+  },
+  "pack09_053_small_brass_chimney_exhaust_separator": {
+   "frame": {
+    "x": 478,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "engines_lift"
+  },
+  "pack09_056_compact_mechanical_throttle_lever_quadrant": {
+   "frame": {
+    "x": 546,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "engines_lift"
+  },
+  "pack09_057_oil_drip_engine_lubrication_cup": {
+   "frame": {
+    "x": 614,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "engines_lift"
+  },
+  "pack09_058_helium_circulation_pump_with_glass_window": {
+   "frame": {
+    "x": 682,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "engines_lift"
+  },
+  "pack09_059_thermal_lift_coil_inside_copper_cage": {
+   "frame": {
+    "x": 750,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "engines_lift"
+  },
+  "pack09_060_clockwork_auxiliary_propulsion_fan": {
+   "frame": {
+    "x": 818,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "engines_lift"
+  },
+  "pack09_061_folded_teal_triangular_sky_sail": {
+   "frame": {
+    "x": 886,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "sails_rigging"
+  },
+  "pack09_062_braided_airship_mooring_cable_with_loop": {
+   "frame": {
+    "x": 2,
+    "y": 274,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "sails_rigging"
+  },
+  "pack09_063_reinforced_balloon_envelope_fabric_roll": {
+   "frame": {
+    "x": 70,
+    "y": 274,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "sails_rigging"
+  },
+  "pack09_064_twin_brass_sail_tension_toggles": {
+   "frame": {
+    "x": 138,
+    "y": 274,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "sails_rigging"
+  },
+  "pack09_065_wooden_wing_rib_framework_segment": {
+   "frame": {
+    "x": 206,
+    "y": 274,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "sails_rigging"
+  },
+  "pack09_066_canvas_storm_reefing_band_with_buckles": {
+   "frame": {
+    "x": 274,
+    "y": 274,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "sails_rigging"
+  },
+  "pack09_067_knotted_rope_ladder_roll_with_wooden_rungs": {
+   "frame": {
+    "x": 342,
+    "y": 274,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "sails_rigging"
+  },
+  "pack09_068_wingtip_navigation_pennant_folded": {
+   "frame": {
+    "x": 410,
+    "y": 274,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "sails_rigging"
+  },
+  "pack09_069_metal_lined_mast_collar_with_rope_eyes": {
+   "frame": {
+    "x": 478,
+    "y": 274,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "sails_rigging"
+  },
+  "pack09_070_cloud_sail_batten_sleeve_with_wooden_strip": {
+   "frame": {
+    "x": 546,
+    "y": 274,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "sails_rigging"
+  },
+  "pack09_071_spool_of_silver_sky_silk_rigging_thread": {
+   "frame": {
+    "x": 614,
+    "y": 274,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "sails_rigging"
+  },
+  "pack09_072_balloon_gondola_suspension_shackle": {
+   "frame": {
+    "x": 682,
+    "y": 274,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "sails_rigging"
+  },
+  "pack09_073_leather_reinforced_sail_corner_patch": {
+   "frame": {
+    "x": 750,
+    "y": 274,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "sails_rigging"
+  },
+  "pack09_074_wind_vane_tail_fin_assembly": {
+   "frame": {
+    "x": 818,
+    "y": 274,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "sails_rigging"
+  },
+  "pack09_075_hollow_spar_endcap_with_locking_pin": {
+   "frame": {
+    "x": 886,
+    "y": 274,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "sails_rigging"
+  },
+  "pack09_076_quick_release_rigging_carabiner_pair": {
+   "frame": {
+    "x": 2,
+    "y": 342,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "sails_rigging"
+  },
+  "pack09_077_decorative_captains_banner_without_emblem_text": {
+   "frame": {
+    "x": 70,
+    "y": 342,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "sails_rigging"
+  },
+  "pack09_078_heavy_airship_anchor_rope_brake": {
+   "frame": {
+    "x": 138,
+    "y": 342,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "sails_rigging"
+  },
+  "pack09_079_long_flexible_aileron_control_cable": {
+   "frame": {
+    "x": 206,
+    "y": 342,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "sails_rigging"
+  },
+  "pack09_080_folded_woven_emergency_drag_sail": {
+   "frame": {
+    "x": 274,
+    "y": 342,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "sails_rigging"
+  },
+  "pack09_081_wing_stamped_wooden_cargo_crate": {
+   "frame": {
+    "x": 342,
+    "y": 342,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "air_cargo"
+  },
+  "pack09_082_lightweight_wicker_airfreight_trunk": {
+   "frame": {
+    "x": 410,
+    "y": 342,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "air_cargo"
+  },
+  "pack09_083_brass_strapped_crystal_shipment_case": {
+   "frame": {
+    "x": 478,
+    "y": 342,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "air_cargo"
+  },
+  "pack09_084_canvas_sling_holding_a_fragile_glass_globe": {
+   "frame": {
+    "x": 546,
+    "y": 342,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "air_cargo"
+  },
+  "pack09_085_rolled_blue_silk_cloud_merchants_fabric": {
+   "frame": {
+    "x": 614,
+    "y": 342,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "air_cargo"
+  },
+  "pack09_086_pressure_sealed_spice_delivery_capsule": {
+   "frame": {
+    "x": 682,
+    "y": 342,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "air_cargo"
+  },
+  "pack09_087_leather_sky_courier_dispatch_bag": {
+   "frame": {
+    "x": 750,
+    "y": 342,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "air_cargo"
+  },
+  "pack09_088_floating_ore_nugget_held_in_anchor_cage": {
+   "frame": {
+    "x": 818,
+    "y": 342,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "air_cargo"
+  },
+  "pack09_089_small_ivory_cloud_pearl_trade_casket": {
+   "frame": {
+    "x": 886,
+    "y": 342,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "air_cargo"
+  },
+  "pack09_090_sky_silk_parachute_cargo_package": {
+   "frame": {
+    "x": 2,
+    "y": 410,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "air_cargo"
+  },
+  "pack09_091_copper_bound_barrel_of_engine_oil": {
+   "frame": {
+    "x": 70,
+    "y": 410,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "air_cargo"
+  },
+  "pack09_092_wooden_tray_of_polished_aether_crystals": {
+   "frame": {
+    "x": 138,
+    "y": 410,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "air_cargo"
+  },
+  "pack09_093_feather_padded_instrument_carrying_box": {
+   "frame": {
+    "x": 206,
+    "y": 410,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "air_cargo"
+  },
+  "pack09_094_balloon_tethered_miniature_mail_capsule": {
+   "frame": {
+    "x": 274,
+    "y": 410,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "air_cargo"
+  },
+  "pack09_095_stackable_lightweight_wicker_ration_hamper": {
+   "frame": {
+    "x": 342,
+    "y": 410,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "air_cargo"
+  },
+  "pack09_097_sealed_floating_island_soil_sample_pot": {
+   "frame": {
+    "x": 410,
+    "y": 410,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "air_cargo"
+  },
+  "pack09_099_merchant_weighing_pan_with_feather_counterweight": {
+   "frame": {
+    "x": 478,
+    "y": 410,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "air_cargo"
+  },
+  "pack09_101_folded_emergency_personal_parachute_pack": {
+   "frame": {
+    "x": 546,
+    "y": 410,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "storm_survival"
+  },
+  "pack09_102_leather_aviator_goggles_with_side_shields": {
+   "frame": {
+    "x": 614,
+    "y": 410,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "storm_survival"
+  },
+  "pack09_103_insulated_lightning_handling_gauntlet_pair": {
+   "frame": {
+    "x": 682,
+    "y": 410,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "storm_survival"
+  },
+  "pack09_104_compact_breathing_mask_for_high_altitude": {
+   "frame": {
+    "x": 750,
+    "y": 410,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "storm_survival"
+  },
+  "pack09_105_winged_emergency_flare_lantern": {
+   "frame": {
+    "x": 818,
+    "y": 410,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "storm_survival"
+  },
+  "pack09_106_stormproof_oilskin_flight_coat_folded": {
+   "frame": {
+    "x": 886,
+    "y": 410,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "storm_survival"
+  },
+  "pack09_107_brass_emergency_whistle_with_tether": {
+   "frame": {
+    "x": 2,
+    "y": 478,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "storm_survival"
+  },
+  "pack09_108_inflatable_landing_cushion_rolled_tight": {
+   "frame": {
+    "x": 70,
+    "y": 478,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "storm_survival"
+  },
+  "pack09_109_portable_cloud_water_collecting_net": {
+   "frame": {
+    "x": 138,
+    "y": 478,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "storm_survival"
+  },
+  "pack09_110_boot_mounted_deck_grip_clamp_pair": {
+   "frame": {
+    "x": 206,
+    "y": 478,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "storm_survival"
+  },
+  "pack09_111_small_insulated_lightning_rod_ground_spool": {
+   "frame": {
+    "x": 274,
+    "y": 478,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "storm_survival"
+  },
+  "pack09_112_folded_thermal_sky_blanket_with_clasps": {
+   "frame": {
+    "x": 342,
+    "y": 478,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "storm_survival"
+  },
+  "pack09_113_emergency_oxygen_flask_in_leather_harness": {
+   "frame": {
+    "x": 410,
+    "y": 478,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "storm_survival"
+  },
+  "pack09_114_wind_resistant_rescue_signal_pennant": {
+   "frame": {
+    "x": 478,
+    "y": 478,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "storm_survival"
+  },
+  "pack09_115_rope_safety_harness_with_brass_spreader": {
+   "frame": {
+    "x": 546,
+    "y": 478,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "storm_survival"
+  },
+  "pack09_116_pressure_preserving_first_aid_pouch": {
+   "frame": {
+    "x": 614,
+    "y": 478,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "storm_survival"
+  },
+  "pack09_117_handheld_storm_charge_warning_electroscope": {
+   "frame": {
+    "x": 682,
+    "y": 478,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "storm_survival"
+  },
+  "pack09_118_impact_padded_flight_helmet_without_face": {
+   "frame": {
+    "x": 750,
+    "y": 478,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "storm_survival"
+  },
+  "pack09_119_air_current_smoke_marker_capsule_sealed": {
+   "frame": {
+    "x": 818,
+    "y": 478,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "storm_survival"
+  },
+  "pack09_120_compact_emergency_gliding_wing_folded": {
+   "frame": {
+    "x": 886,
+    "y": 478,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "storm_survival"
+  },
+  "pack09_121_pale_levitating_stone_inside_bronze_bracket": {
+   "frame": {
+    "x": 2,
+    "y": 546,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "floating_island_relics"
+  },
+  "pack09_122_ancient_wing_carved_gate_fragment": {
+   "frame": {
+    "x": 70,
+    "y": 546,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "floating_island_relics"
+  },
+  "pack09_123_cloud_glass_geode_with_blue_center": {
+   "frame": {
+    "x": 138,
+    "y": 546,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "floating_island_relics"
+  },
+  "pack09_124_moss_covered_sky_ruin_bell": {
+   "frame": {
+    "x": 206,
+    "y": 546,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "floating_island_relics"
+  },
+  "pack09_125_feather_patterned_stone_mosaic_disc": {
+   "frame": {
+    "x": 274,
+    "y": 546,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "floating_island_relics"
+  },
+  "pack09_126_broken_crystal_wind_organ_pipe": {
+   "frame": {
+    "x": 342,
+    "y": 546,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "floating_island_relics"
+  },
+  "pack09_127_petrified_root_grown_around_a_compass": {
+   "frame": {
+    "x": 410,
+    "y": 546,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "floating_island_relics"
+  },
+  "pack09_128_ivory_bird_statue_wing_fragment": {
+   "frame": {
+    "x": 478,
+    "y": 546,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "floating_island_relics"
+  },
+  "pack09_129_golden_seed_from_a_floating_orchard": {
+   "frame": {
+    "x": 546,
+    "y": 546,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "floating_island_relics"
+  },
+  "pack09_130_storm_crystal_embedded_in_white_marble": {
+   "frame": {
+    "x": 614,
+    "y": 546,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "floating_island_relics"
+  },
+  "pack09_131_carved_cloud_temple_door_hinge": {
+   "frame": {
+    "x": 682,
+    "y": 546,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "floating_island_relics"
+  },
+  "pack09_133_silver_wind_chime_from_a_lost_tower": {
+   "frame": {
+    "x": 750,
+    "y": 546,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "floating_island_relics"
+  },
+  "pack09_134_ancient_feather_shaped_stone_key": {
+   "frame": {
+    "x": 818,
+    "y": 546,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "floating_island_relics"
+  },
+  "pack09_135_winged_bronze_sundial_with_cracked_face": {
+   "frame": {
+    "x": 886,
+    "y": 546,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "floating_island_relics"
+  },
+  "pack09_136_floating_island_crystal_anchor_shard": {
+   "frame": {
+    "x": 2,
+    "y": 614,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "floating_island_relics"
+  },
+  "pack09_137_stone_bird_nest_holding_opal_eggs": {
+   "frame": {
+    "x": 70,
+    "y": 614,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "floating_island_relics"
+  },
+  "pack09_138_blue_glass_roof_finial_from_a_sky_palace": {
+   "frame": {
+    "x": 138,
+    "y": 614,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "floating_island_relics"
+  },
+  "pack09_139_suspended_rain_droplet_inside_stone_ring": {
+   "frame": {
+    "x": 206,
+    "y": 614,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "floating_island_relics"
+  },
+  "pack09_140_cloud_gate_plaque_with_original_geometric_crest": {
+   "frame": {
+    "x": 274,
+    "y": 614,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "floating_island_relics"
+  },
+  "pack09_141_captains_tricorn_hat_with_brass_feather_pin": {
+   "frame": {
+    "x": 342,
+    "y": 614,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "crew_belongings"
+  },
+  "pack09_142_leather_aviator_wrist_logbook_with_clasp": {
+   "frame": {
+    "x": 410,
+    "y": 614,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "crew_belongings"
+  },
+  "pack09_143_folded_cloud_patterned_silk_neck_scarf": {
+   "frame": {
+    "x": 478,
+    "y": 614,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "crew_belongings"
+  },
+  "pack09_145_wing_shaped_officers_rank_brooch": {
+   "frame": {
+    "x": 546,
+    "y": 614,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "crew_belongings"
+  },
+  "pack09_146_weathered_deck_crew_fingerless_glove_pair": {
+   "frame": {
+    "x": 614,
+    "y": 614,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "crew_belongings"
+  },
+  "pack09_147_ivory_compass_handle_walking_cane_folded": {
+   "frame": {
+    "x": 682,
+    "y": 614,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "crew_belongings"
+  },
+  "pack09_148_goggles_case_lined_with_blue_velvet": {
+   "frame": {
+    "x": 750,
+    "y": 614,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "crew_belongings"
+  },
+  "pack09_149_carved_albatross_good_luck_charm": {
+   "frame": {
+    "x": 818,
+    "y": 614,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "crew_belongings"
+  },
+  "pack09_150_silver_ship_wheel_pocket_watch": {
+   "frame": {
+    "x": 886,
+    "y": 614,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "crew_belongings"
+  },
+  "pack09_151_leather_boot_with_folded_aviator_cuff": {
+   "frame": {
+    "x": 2,
+    "y": 682,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "crew_belongings"
+  },
+  "pack09_152_roll_of_navigators_colored_plotting_pencils": {
+   "frame": {
+    "x": 70,
+    "y": 682,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "crew_belongings"
+  },
+  "pack09_153_pearl_button_flight_waistcoat_folded": {
+   "frame": {
+    "x": 138,
+    "y": 682,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "crew_belongings"
+  },
+  "pack09_154_tiny_folding_captains_portrait_frame_empty": {
+   "frame": {
+    "x": 206,
+    "y": 682,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "crew_belongings"
+  },
+  "pack09_155_braided_crew_oath_wrist_cord": {
+   "frame": {
+    "x": 274,
+    "y": 682,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "crew_belongings"
+  },
+  "pack09_156_wooden_sky_dice_in_a_leather_cup": {
+   "frame": {
+    "x": 342,
+    "y": 682,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "crew_belongings"
+  },
+  "pack09_157_copper_handled_galley_drinking_mug": {
+   "frame": {
+    "x": 410,
+    "y": 682,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "crew_belongings"
+  },
+  "pack09_158_small_polished_sky_crystal_worry_stone": {
+   "frame": {
+    "x": 478,
+    "y": 682,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "crew_belongings"
+  },
+  "pack09_159_leather_flight_badge_with_stitched_wing_symbol": {
+   "frame": {
+    "x": 546,
+    "y": 682,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "crew_belongings"
+  },
+  "pack09_160_personal_emergency_key_on_feather_chain": {
+   "frame": {
+    "x": 614,
+    "y": 682,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "crew_belongings"
+  },
+  "pack09_161_gimbaled_brass_galley_cooking_pot": {
+   "frame": {
+    "x": 682,
+    "y": 682,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "galley_quarters"
+  },
+  "pack09_162_clipped_enamel_flight_meal_tray": {
+   "frame": {
+    "x": 750,
+    "y": 682,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "galley_quarters"
+  },
+  "pack09_163_fold_down_captains_writing_desk_miniature": {
+   "frame": {
+    "x": 818,
+    "y": 682,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "galley_quarters"
+  },
+  "pack09_164_storm_secured_ceramic_tea_kettle": {
+   "frame": {
+    "x": 886,
+    "y": 682,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "galley_quarters"
+  },
+  "pack09_165_hammock_rolled_around_two_brass_rings": {
+   "frame": {
+    "x": 2,
+    "y": 750,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "galley_quarters"
+  },
+  "pack09_166_wall_mounted_folding_cabin_stool": {
+   "frame": {
+    "x": 70,
+    "y": 750,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "galley_quarters"
+  },
+  "pack09_167_ship_wheel_shaped_cabin_coat_hook": {
+   "frame": {
+    "x": 138,
+    "y": 750,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "galley_quarters"
+  },
+  "pack09_168_bolted_spice_drawer_with_three_round_jars": {
+   "frame": {
+    "x": 206,
+    "y": 750,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "galley_quarters"
+  },
+  "pack09_169_leather_strapped_galley_bread_storage_box": {
+   "frame": {
+    "x": 274,
+    "y": 750,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "galley_quarters"
+  },
+  "pack09_170_mechanical_cup_stabilizing_ring_stand": {
+   "frame": {
+    "x": 342,
+    "y": 750,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "galley_quarters"
+  },
+  "pack09_171_compact_coal_free_aether_cooking_hob": {
+   "frame": {
+    "x": 410,
+    "y": 750,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "galley_quarters"
+  },
+  "pack09_172_wooden_galley_cutting_board_with_clamp": {
+   "frame": {
+    "x": 478,
+    "y": 750,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "galley_quarters"
+  },
+  "pack09_173_insulated_soup_serving_canister": {
+   "frame": {
+    "x": 546,
+    "y": 750,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "galley_quarters"
+  },
+  "pack09_174_folded_cloud_silk_cabin_curtain": {
+   "frame": {
+    "x": 614,
+    "y": 750,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "galley_quarters"
+  },
+  "pack09_175_narrow_under_bunk_storage_drawer_miniature": {
+   "frame": {
+    "x": 682,
+    "y": 750,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "galley_quarters"
+  },
+  "pack09_176_brass_footed_cabin_reading_lamp": {
+   "frame": {
+    "x": 750,
+    "y": 750,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "galley_quarters"
+  },
+  "pack09_177_rope_net_wall_magazine_pocket": {
+   "frame": {
+    "x": 818,
+    "y": 750,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "galley_quarters"
+  },
+  "pack09_178_gimbaled_wash_basin_with_copper_drain": {
+   "frame": {
+    "x": 886,
+    "y": 750,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "galley_quarters"
+  },
+  "pack09_179_small_flight_mess_bell_on_carved_bracket": {
+   "frame": {
+    "x": 2,
+    "y": 818,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "galley_quarters"
+  },
+  "pack09_180_foldable_officers_chart_table_miniature": {
+   "frame": {
+    "x": 70,
+    "y": 818,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "galley_quarters"
+  },
+  "pack09_181_lost_admiral_winged_signet_ring": {
+   "frame": {
+    "x": 138,
+    "y": 818,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "airship_quest"
+  },
+  "pack09_182_crystal_storm_heart_in_a_bronze_cage": {
+   "frame": {
+    "x": 206,
+    "y": 818,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "airship_quest"
+  },
+  "pack09_183_broken_sky_crown_with_floating_feather_shard": {
+   "frame": {
+    "x": 274,
+    "y": 818,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "airship_quest"
+  },
+  "pack09_185_sealed_captains_order_tube_with_wing_clasp": {
+   "frame": {
+    "x": 342,
+    "y": 818,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "airship_quest"
+  },
+  "pack09_186_map_fragment_on_translucent_cloud_glass": {
+   "frame": {
+    "x": 410,
+    "y": 818,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "airship_quest"
+  },
+  "pack09_187_pirate_alliance_token_shaped_as_split_propeller": {
+   "frame": {
+    "x": 478,
+    "y": 818,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "airship_quest"
+  },
+  "pack09_188_golden_albatross_figurehead_eye": {
+   "frame": {
+    "x": 546,
+    "y": 818,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "airship_quest"
+  },
+  "pack09_189_ancient_floating_island_anchor_control_prism": {
+   "frame": {
+    "x": 614,
+    "y": 818,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "airship_quest"
+  },
+  "pack09_190_blue_pearl_from_the_center_of_a_storm": {
+   "frame": {
+    "x": 682,
+    "y": 818,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "airship_quest"
+  },
+  "pack09_191_broken_aether_compass_with_reversed_rings": {
+   "frame": {
+    "x": 750,
+    "y": 818,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "airship_quest"
+  },
+  "pack09_192_lost_crew_bell_with_a_feather_tongue": {
+   "frame": {
+    "x": 818,
+    "y": 818,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "airship_quest"
+  },
+  "pack09_193_clockwork_songbird_message_capsule_closed": {
+   "frame": {
+    "x": 886,
+    "y": 818,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "airship_quest"
+  },
+  "pack09_194_sky_palace_lock_tooth_shaped_as_lightning": {
+   "frame": {
+    "x": 2,
+    "y": 886,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "airship_quest"
+  },
+  "pack09_195_gondola_hatch_key_with_twin_wing_bits": {
+   "frame": {
+    "x": 70,
+    "y": 886,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "airship_quest"
+  },
+  "pack09_196_crystal_wind_rose_missing_one_point": {
+   "frame": {
+    "x": 138,
+    "y": 886,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "airship_quest"
+  },
+  "pack09_197_admirals_black_feather_in_a_silver_case": {
+   "frame": {
+    "x": 206,
+    "y": 886,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "airship_quest"
+  },
+  "pack09_198_folded_treaty_inside_a_mechanical_wing_locket": {
+   "frame": {
+    "x": 274,
+    "y": 886,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "airship_quest"
+  },
+  "pack09_199_tiny_captured_cloud_in_a_crown_shaped_jar": {
+   "frame": {
+    "x": 342,
+    "y": 886,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "airship_quest"
+  }
+ }
+}
