@@ -163,5 +163,15 @@
   "decision": "renamed",
   "note": "box drawn, dice not visible",
   "drawn_as": "Carved wooden dice box"
+ },
+ "pack09_174_folded_cloud_silk_cabin_curtain": {
+  "decision": "renamed",
+  "note": "tent instead of a curtain",
+  "drawn_as": "Small canvas cabin tent"
+ },
+ "pack09_180_foldable_officers_chart_table_miniature": {
+  "decision": "renamed",
+  "note": "chest instead of a table",
+  "drawn_as": "Brass-bound chart chest"
  }
 }
