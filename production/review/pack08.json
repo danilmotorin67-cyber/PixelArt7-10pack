@@ -54,6 +54,16 @@
   "note": "candle cup missing",
   "drawn_as": "Raven-shaped brass figurine on a round base"
  },
+ "pack08_090_porcelain_hand_ring_display_ornament": {
+  "decision": "renamed",
+  "note": "hand display missing",
+  "drawn_as": "Antique ring with a pale crystal"
+ },
+ "pack08_094_ceramic_funeral_urn_with_ivy_relief": {
+  "decision": "renamed",
+  "note": "square casket rather than urn",
+  "drawn_as": "Ivy-wrapped ceramic funeral casket"
+ },
  "pack08_121_porcelain_doll_with_stitched_cloth_torso": {
   "decision": "accepted",
   "note": "v1 pilot added crystal horns",
