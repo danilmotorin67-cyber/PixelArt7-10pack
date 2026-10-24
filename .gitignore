@@ -1,0 +1,3 @@
+*.tmp
+__pycache__/
+production/production_ledger.sqlite-journal

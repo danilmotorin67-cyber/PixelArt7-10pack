@@ -1,0 +1,49 @@
+{
+  "status": "planning_files_checked",
+  "packs": 10,
+  "categories": 100,
+  "items_per_category": 20,
+  "items_per_pack": 200,
+  "total_items": 2000,
+  "unique_subject_strings": 2000,
+  "unique_ids": 2000,
+  "unique_filenames": 2000,
+  "unique_prompts": 2000,
+  "unique_request_hashes": 2000,
+  "unique_seeds": 2000,
+  "native_size": [
+    64,
+    64
+  ],
+  "planned_generations": 2000,
+  "paid_attempt_limit_per_asset": 1,
+  "pilot_slots": 40,
+  "pilots_included_in_2000": true,
+  "generation_calls_made": 0,
+  "ledger_attempts": 0,
+  "ledger_reserved_units": 0,
+  "ledger_integrity": "ok",
+  "image_qa": "not_applicable_images_not_generated",
+  "checks": [
+    "10 user/assistant themes: 3 user, 7 assistant",
+    "10 categories x20 for every pack",
+    "No exact duplicate English subject strings",
+    "Arguments fit current Pixen canvas constraints",
+    "Stable IDs, filenames, seeds, prompt hashes",
+    "2000 JSONL entries match master plan",
+    "SQLite starts with 2000 planned assets and zero paid attempts"
+  ],
+  "additional_checks": [
+    "Master plan and 2000 JSONL entries exactly equal",
+    "CSV and ten individual plans match master",
+    "40 pilot IDs exist and cover four categories per pack",
+    "All request hashes recomputed",
+    "SQLite rejects second attempt for same asset",
+    "SQLite rejects duplicate job ID",
+    "Ambiguous request retains reserved budget unit",
+    "Reservation cannot be released without evidence",
+    "HTML local links and anchors resolve",
+    "No duplicate HTML element IDs",
+    "Reader JavaScript syntax checked with Node.js"
+  ]
+}
