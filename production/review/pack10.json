@@ -23,6 +23,10 @@
   "decision": "problem",
   "note": "closed navy-gold tome; near-duplicate of 045 (triptych construction missing)"
  },
+ "pack10_051_fan_folded_court_etiquette_booklet": {
+  "decision": "problem",
+  "note": "drawn as a hand fan; near-duplicate of 115"
+ },
  "pack10_053_pearl_inlaid_music_score_codex_without_text": {
   "decision": "problem",
   "note": "closed navy-gold tome; near-duplicate of 045"
@@ -53,8 +57,17 @@
   "decision": "problem",
   "note": "ornate gold-navy cube; near-duplicate of 087"
  },
+ "pack10_098_folding_gold_angle_measuring_sector": {
+  "decision": "renamed",
+  "note": "arc with gems",
+  "drawn_as": "Gold jeweled angle-measuring arc"
+ },
  "pack10_099_library_light_intensity_lens_meter": {
   "decision": "problem",
   "note": "brass cylinder device; near-duplicate of 096"
+ },
+ "pack10_108_silver_folded_napkin_holder_shaped_as_crown": {
+  "decision": "problem",
+  "note": "drawn as a crown; near-duplicate of 020/001"
  }
 }

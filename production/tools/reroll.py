@@ -44,6 +44,8 @@ REROLLS = {
     "pack10_085_geared_mechanical_orrery_miniature": "Mechanical orrery with small planet balls on curved brass arms around a central sun ball",
     "pack10_095_ivory_perspective_drawing_frame": "Ivory perspective drawing frame: an open rectangular frame with a thread grid on a small easel",
     "pack10_099_library_light_intensity_lens_meter": "Handheld light meter with a pistol grip and a round glass dial",
+    "pack10_108_silver_folded_napkin_holder_shaped_as_crown": "Silver napkin ring with a small crown-shaped rim, a folded white napkin pulled through it",
+    "pack10_051_fan_folded_court_etiquette_booklet": "Court etiquette booklet folded zigzag like an accordion, standing upright with navy covers",
 }
 
 
