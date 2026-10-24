@@ -130,5 +130,29 @@
   "decision": "renamed",
   "note": "goggles drawn on a cap",
   "drawn_as": "Leather aviator cap with goggles"
+ },
+ "pack09_121_pale_levitating_stone_inside_bronze_bracket": {
+  "decision": "renamed",
+  "note": "v1 pilot: reads as a spear on a plaque",
+  "drawn_as": "Crystal-tipped spear on a stone plaque"
+ },
+ "pack09_124_moss_covered_sky_ruin_bell": {
+  "decision": "renamed",
+  "note": "shrine instead of a bell",
+  "drawn_as": "Moss-covered sky ruin shrine"
+ },
+ "pack09_129_golden_seed_from_a_floating_orchard": {
+  "decision": "renamed",
+  "note": "casket instead of a seed",
+  "drawn_as": "Golden seed casket"
+ },
+ "pack09_132_transparent_sky_coral_branching_relic": {
+  "decision": "problem",
+  "note": "reads as an insect-like creature, not a coral relic"
+ },
+ "pack09_140_cloud_gate_plaque_with_original_geometric_crest": {
+  "decision": "renamed",
+  "note": "coffer instead of a plaque",
+  "drawn_as": "Brass crest coffer"
  }
 }
