@@ -49,6 +49,11 @@
   "note": "reads as cloaked figure",
   "drawn_as": "Hooded cloak on a narrow coat stand"
  },
+ "pack08_063_raven_shaped_brass_candle_holder": {
+  "decision": "renamed",
+  "note": "candle cup missing",
+  "drawn_as": "Raven-shaped brass figurine on a round base"
+ },
  "pack08_121_porcelain_doll_with_stitched_cloth_torso": {
   "decision": "accepted",
   "note": "v1 pilot added crystal horns",
