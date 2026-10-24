@@ -3,5 +3,10 @@
   "decision": "renamed",
   "note": "crown instead of a display stand; distinct shape from 001",
   "drawn_as": "Velvet-lined gold crown with crystal points"
+ },
+ "pack10_022_bronze_inkpot_shaped_as_curled_leaf": {
+  "decision": "renamed",
+  "note": "jug rather than an inkpot",
+  "drawn_as": "Bronze ink jug with curled leaf pattern"
  }
 }
