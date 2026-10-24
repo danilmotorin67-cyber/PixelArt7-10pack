@@ -35,9 +35,17 @@
     "h": 64
    }
   },
-  "pack09_145_wing_shaped_officers_rank_brooch": {
+  "pack09_144_brass_pocket_sky_telescope_with_shoulder_strap": {
    "frame": {
     "x": 206,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack09_145_wing_shaped_officers_rank_brooch": {
+   "frame": {
+    "x": 274,
     "y": 2,
     "w": 64,
     "h": 64
@@ -45,15 +53,15 @@
   },
   "pack09_146_weathered_deck_crew_fingerless_glove_pair": {
    "frame": {
-    "x": 274,
-    "y": 2,
+    "x": 2,
+    "y": 70,
     "w": 64,
     "h": 64
    }
   },
   "pack09_147_ivory_compass_handle_walking_cane_folded": {
    "frame": {
-    "x": 2,
+    "x": 70,
     "y": 70,
     "w": 64,
     "h": 64
@@ -61,7 +69,7 @@
   },
   "pack09_148_goggles_case_lined_with_blue_velvet": {
    "frame": {
-    "x": 70,
+    "x": 138,
     "y": 70,
     "w": 64,
     "h": 64
@@ -69,7 +77,7 @@
   },
   "pack09_149_carved_albatross_good_luck_charm": {
    "frame": {
-    "x": 138,
+    "x": 206,
     "y": 70,
     "w": 64,
     "h": 64
@@ -77,7 +85,7 @@
   },
   "pack09_150_silver_ship_wheel_pocket_watch": {
    "frame": {
-    "x": 206,
+    "x": 274,
     "y": 70,
     "w": 64,
     "h": 64
@@ -85,15 +93,15 @@
   },
   "pack09_151_leather_boot_with_folded_aviator_cuff": {
    "frame": {
-    "x": 274,
-    "y": 70,
+    "x": 2,
+    "y": 138,
     "w": 64,
     "h": 64
    }
   },
   "pack09_152_roll_of_navigators_colored_plotting_pencils": {
    "frame": {
-    "x": 2,
+    "x": 70,
     "y": 138,
     "w": 64,
     "h": 64
@@ -101,7 +109,7 @@
   },
   "pack09_153_pearl_button_flight_waistcoat_folded": {
    "frame": {
-    "x": 70,
+    "x": 138,
     "y": 138,
     "w": 64,
     "h": 64
@@ -109,7 +117,7 @@
   },
   "pack09_154_tiny_folding_captains_portrait_frame_empty": {
    "frame": {
-    "x": 138,
+    "x": 206,
     "y": 138,
     "w": 64,
     "h": 64
@@ -117,7 +125,7 @@
   },
   "pack09_155_braided_crew_oath_wrist_cord": {
    "frame": {
-    "x": 206,
+    "x": 274,
     "y": 138,
     "w": 64,
     "h": 64
@@ -125,21 +133,13 @@
   },
   "pack09_156_wooden_sky_dice_in_a_leather_cup": {
    "frame": {
-    "x": 274,
-    "y": 138,
-    "w": 64,
-    "h": 64
-   }
-  },
-  "pack09_157_copper_handled_galley_drinking_mug": {
-   "frame": {
     "x": 2,
     "y": 206,
     "w": 64,
     "h": 64
    }
   },
-  "pack09_158_small_polished_sky_crystal_worry_stone": {
+  "pack09_157_copper_handled_galley_drinking_mug": {
    "frame": {
     "x": 70,
     "y": 206,
@@ -147,7 +147,7 @@
     "h": 64
    }
   },
-  "pack09_159_leather_flight_badge_with_stitched_wing_symbol": {
+  "pack09_158_small_polished_sky_crystal_worry_stone": {
    "frame": {
     "x": 138,
     "y": 206,
@@ -155,9 +155,17 @@
     "h": 64
    }
   },
-  "pack09_160_personal_emergency_key_on_feather_chain": {
+  "pack09_159_leather_flight_badge_with_stitched_wing_symbol": {
    "frame": {
     "x": 206,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack09_160_personal_emergency_key_on_feather_chain": {
+   "frame": {
+    "x": 274,
     "y": 206,
     "w": 64,
     "h": 64

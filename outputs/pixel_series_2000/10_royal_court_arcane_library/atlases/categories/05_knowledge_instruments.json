@@ -1,0 +1,175 @@
+{
+ "meta": {
+  "image": "05_knowledge_instruments.png",
+  "size": {
+   "w": 340,
+   "h": 272
+  },
+  "cell": 68,
+  "padding": 2,
+  "columns": 5,
+  "rows": 4
+ },
+ "frames": {
+  "pack10_081_gold_armillary_sphere_with_lapis_base": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_082_crystal_reading_lens_on_articulated_stand": {
+   "frame": {
+    "x": 70,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_083_ivory_celestial_globe_with_star_pinpoints": {
+   "frame": {
+    "x": 138,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_084_brass_library_humidity_balance_instrument": {
+   "frame": {
+    "x": 206,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_085_geared_mechanical_orrery_miniature": {
+   "frame": {
+    "x": 274,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_086_silver_optical_prism_comparison_stand": {
+   "frame": {
+    "x": 2,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_087_golden_sand_flow_study_timer": {
+   "frame": {
+    "x": 70,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_088_geometric_solids_study_set_in_velvet_tray": {
+   "frame": {
+    "x": 138,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_089_court_astronomers_quadrant_with_sapphire_sight": {
+   "frame": {
+    "x": 206,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_090_handheld_crystal_spectrum_fan": {
+   "frame": {
+    "x": 274,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_091_bronze_sound_resonance_tuning_disk": {
+   "frame": {
+    "x": 2,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_092_mechanical_arithmetic_wheel_with_blank_sectors": {
+   "frame": {
+    "x": 70,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_093_paired_balance_beams_for_measuring_tiny_objects": {
+   "frame": {
+    "x": 138,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_094_magnifying_crystal_book_page_weight": {
+   "frame": {
+    "x": 206,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_095_ivory_perspective_drawing_frame": {
+   "frame": {
+    "x": 274,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_096_small_brass_camera_obscura_chamber": {
+   "frame": {
+    "x": 2,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_097_porcelain_sphere_holding_a_magnetic_needle": {
+   "frame": {
+    "x": 70,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_098_folding_gold_angle_measuring_sector": {
+   "frame": {
+    "x": 138,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_099_library_light_intensity_lens_meter": {
+   "frame": {
+    "x": 206,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_100_crystal_fractal_specimen_in_a_gold_gimbal": {
+   "frame": {
+    "x": 274,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   }
+  }
+ }
+}

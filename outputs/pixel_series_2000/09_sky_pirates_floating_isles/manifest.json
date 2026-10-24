@@ -2,7 +2,7 @@
  "pack": "Sky Pirates & Floating Isles",
  "pack_id": "sky_pirates_floating_isles",
  "pack_number": 9,
- "count": 188,
+ "count": 200,
  "planned": 200,
  "native_size": [
   64,
@@ -695,6 +695,54 @@
    ]
   },
   {
+   "stable_id": "pack09_015_ship_mounted_navigation_lamp_miniature",
+   "pack_id": "sky_pirates_floating_isles",
+   "category_id": "sky_navigation",
+   "name_en": "Ship mounted navigation lamp miniature",
+   "planned_name_en": "Ship mounted navigation lamp miniature",
+   "category_ru": "Навигация в небе",
+   "tags": [
+    "sky_pirates_floating_isles",
+    "sky_navigation",
+    "inventory",
+    "pixel-art",
+    "static"
+   ],
+   "status": "accepted",
+   "native_size": [
+    64,
+    64
+   ],
+   "paths": {
+    "64": "png_64/pack09_015_ship_mounted_navigation_lamp_miniature.png",
+    "128": "png_128/pack09_015_ship_mounted_navigation_lamp_miniature.png",
+    "256": "png_256/pack09_015_ship_mounted_navigation_lamp_miniature.png"
+   },
+   "visible_bbox": [
+    15,
+    12,
+    49,
+    51
+   ],
+   "colors": 27,
+   "visible_sha256": "8f23f35d5c8603cb4dd50f9206665352225266b1abe05af107cb3bbf3f39bde8",
+   "prompt_version": "replacement",
+   "free_fixes": [],
+   "generation": {
+    "seed": 203619245,
+    "request_sha256": "5a49fbd3214b100aa6460582c3bc6d69f4f7a6e6167f3d829a7e15634535b55a",
+    "job_id": "a6c91536-33eb-4baa-98cc-6ae3d873bc3d",
+    "gallery_id": null,
+    "charged_generations": 1
+   },
+   "atlas_rect": [
+    2,
+    70,
+    64,
+    64
+   ]
+  },
+  {
    "stable_id": "pack09_016_distance_counting_air_log_propeller_instrument",
    "pack_id": "sky_pirates_floating_isles",
    "category_id": "sky_navigation",
@@ -736,7 +784,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    2,
+    70,
     70,
     64,
     64
@@ -786,7 +834,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    70,
+    138,
     70,
     64,
     64
@@ -834,7 +882,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    138,
+    206,
     70,
     64,
     64
@@ -882,7 +930,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    206,
+    274,
     70,
     64,
     64
@@ -932,7 +980,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    274,
+    342,
     70,
     64,
     64
@@ -980,7 +1028,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    342,
+    410,
     70,
     64,
     64
@@ -1030,7 +1078,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    410,
+    478,
     70,
     64,
     64
@@ -1078,7 +1126,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    478,
+    546,
     70,
     64,
     64
@@ -1126,7 +1174,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    546,
+    614,
     70,
     64,
     64
@@ -1174,7 +1222,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    614,
+    682,
     70,
     64,
     64
@@ -1222,7 +1270,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    682,
+    750,
     70,
     64,
     64
@@ -1270,7 +1318,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    750,
+    818,
     70,
     64,
     64
@@ -1318,7 +1366,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    818,
+    886,
     70,
     64,
     64
@@ -1366,8 +1414,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    886,
-    70,
+    2,
+    138,
     64,
     64
    ]
@@ -1414,7 +1462,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    2,
+    70,
     138,
     64,
     64
@@ -1462,7 +1510,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    70,
+    138,
     138,
     64,
     64
@@ -1512,7 +1560,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    138,
+    206,
     138,
     64,
     64
@@ -1560,7 +1608,55 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    206,
+    274,
+    138,
+    64,
+    64
+   ]
+  },
+  {
+   "stable_id": "pack09_034_small_airship_hull_tapping_hammer",
+   "pack_id": "sky_pirates_floating_isles",
+   "category_id": "deck_rigging_tools",
+   "name_en": "Small airship hull tapping hammer",
+   "planned_name_en": "Small airship hull tapping hammer",
+   "category_ru": "Палубные инструменты",
+   "tags": [
+    "sky_pirates_floating_isles",
+    "deck_rigging_tools",
+    "inventory",
+    "pixel-art",
+    "static"
+   ],
+   "status": "accepted",
+   "native_size": [
+    64,
+    64
+   ],
+   "paths": {
+    "64": "png_64/pack09_034_small_airship_hull_tapping_hammer.png",
+    "128": "png_128/pack09_034_small_airship_hull_tapping_hammer.png",
+    "256": "png_256/pack09_034_small_airship_hull_tapping_hammer.png"
+   },
+   "visible_bbox": [
+    15,
+    19,
+    49,
+    44
+   ],
+   "colors": 47,
+   "visible_sha256": "d6abc8e36d147fccea6eb8af8c2ce71c3cfdaf6b80a32d453719e42d0dc05a98",
+   "prompt_version": "replacement",
+   "free_fixes": [],
+   "generation": {
+    "seed": 203619264,
+    "request_sha256": "b5e0d9014d3c408bb56755055977c59c218616b9ddfbf9f4dca4ae6067fcfa2a",
+    "job_id": "56177ad3-b014-43d8-b42c-73c2ef3ef88d",
+    "gallery_id": null,
+    "charged_generations": 1
+   },
+   "atlas_rect": [
+    342,
     138,
     64,
     64
@@ -1608,7 +1704,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    274,
+    410,
     138,
     64,
     64
@@ -1658,7 +1754,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    342,
+    478,
     138,
     64,
     64
@@ -1706,7 +1802,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    410,
+    546,
     138,
     64,
     64
@@ -1754,7 +1850,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    478,
+    614,
     138,
     64,
     64
@@ -1802,7 +1898,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    546,
+    682,
     138,
     64,
     64
@@ -1850,7 +1946,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    614,
+    750,
     138,
     64,
     64
@@ -1898,7 +1994,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    682,
+    818,
     138,
     64,
     64
@@ -1948,7 +2044,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    750,
+    886,
     138,
     64,
     64
@@ -1996,8 +2092,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    818,
-    138,
+    2,
+    206,
     64,
     64
    ]
@@ -2044,8 +2140,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    886,
-    138,
+    70,
+    206,
     64,
     64
    ]
@@ -2092,7 +2188,55 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    2,
+    138,
+    206,
+    64,
+    64
+   ]
+  },
+  {
+   "stable_id": "pack09_046_twin_cylinder_airship_engine_miniature",
+   "pack_id": "sky_pirates_floating_isles",
+   "category_id": "engines_lift",
+   "name_en": "Twin cylinder airship engine miniature",
+   "planned_name_en": "Twin cylinder airship engine miniature",
+   "category_ru": "Двигатели и подъём",
+   "tags": [
+    "sky_pirates_floating_isles",
+    "engines_lift",
+    "inventory",
+    "pixel-art",
+    "static"
+   ],
+   "status": "accepted",
+   "native_size": [
+    64,
+    64
+   ],
+   "paths": {
+    "64": "png_64/pack09_046_twin_cylinder_airship_engine_miniature.png",
+    "128": "png_128/pack09_046_twin_cylinder_airship_engine_miniature.png",
+    "256": "png_256/pack09_046_twin_cylinder_airship_engine_miniature.png"
+   },
+   "visible_bbox": [
+    9,
+    9,
+    55,
+    53
+   ],
+   "colors": 27,
+   "visible_sha256": "56558037ff79974eb2bf40451e0694ca8e923a1933982b86b19a2a1bec928d54",
+   "prompt_version": "replacement",
+   "free_fixes": [],
+   "generation": {
+    "seed": 203619276,
+    "request_sha256": "7b33a9c5e698bdd8269df420d74b8096c659a918512602859555b5a729fdaa01",
+    "job_id": "4ca74e44-3ef8-4378-9bfc-a57541a6361e",
+    "gallery_id": null,
+    "charged_generations": 1
+   },
+   "atlas_rect": [
+    206,
     206,
     64,
     64
@@ -2140,7 +2284,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    70,
+    274,
     206,
     64,
     64
@@ -2190,7 +2334,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    138,
+    342,
     206,
     64,
     64
@@ -2238,7 +2382,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    206,
+    410,
     206,
     64,
     64
@@ -2286,7 +2430,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    274,
+    478,
     206,
     64,
     64
@@ -2334,7 +2478,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    342,
+    546,
     206,
     64,
     64
@@ -2382,7 +2526,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    410,
+    614,
     206,
     64,
     64
@@ -2430,7 +2574,103 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    478,
+    682,
+    206,
+    64,
+    64
+   ]
+  },
+  {
+   "stable_id": "pack09_054_crystal_energized_propeller_shaft_coupler",
+   "pack_id": "sky_pirates_floating_isles",
+   "category_id": "engines_lift",
+   "name_en": "Crystal energized propeller shaft coupler",
+   "planned_name_en": "Crystal energized propeller shaft coupler",
+   "category_ru": "Двигатели и подъём",
+   "tags": [
+    "sky_pirates_floating_isles",
+    "engines_lift",
+    "inventory",
+    "pixel-art",
+    "static"
+   ],
+   "status": "accepted",
+   "native_size": [
+    64,
+    64
+   ],
+   "paths": {
+    "64": "png_64/pack09_054_crystal_energized_propeller_shaft_coupler.png",
+    "128": "png_128/pack09_054_crystal_energized_propeller_shaft_coupler.png",
+    "256": "png_256/pack09_054_crystal_energized_propeller_shaft_coupler.png"
+   },
+   "visible_bbox": [
+    8,
+    13,
+    54,
+    52
+   ],
+   "colors": 49,
+   "visible_sha256": "0e96f4109d1075d9dcfe26db3c812f9b0219167379d6bfd86f7913f490424630",
+   "prompt_version": "replacement",
+   "free_fixes": [],
+   "generation": {
+    "seed": 203619284,
+    "request_sha256": "9c06dc2a66f1f56b1416428a3251642ff80100507b0aa2da2d8c810047913ec6",
+    "job_id": "6cb85b1b-a429-445d-8bab-2d33ca4a44e8",
+    "gallery_id": null,
+    "charged_generations": 1
+   },
+   "atlas_rect": [
+    750,
+    206,
+    64,
+    64
+   ]
+  },
+  {
+   "stable_id": "pack09_055_balloon_pressure_relief_spring_valve",
+   "pack_id": "sky_pirates_floating_isles",
+   "category_id": "engines_lift",
+   "name_en": "Balloon pressure relief spring valve",
+   "planned_name_en": "Balloon pressure relief spring valve",
+   "category_ru": "Двигатели и подъём",
+   "tags": [
+    "sky_pirates_floating_isles",
+    "engines_lift",
+    "inventory",
+    "pixel-art",
+    "static"
+   ],
+   "status": "accepted",
+   "native_size": [
+    64,
+    64
+   ],
+   "paths": {
+    "64": "png_64/pack09_055_balloon_pressure_relief_spring_valve.png",
+    "128": "png_128/pack09_055_balloon_pressure_relief_spring_valve.png",
+    "256": "png_256/pack09_055_balloon_pressure_relief_spring_valve.png"
+   },
+   "visible_bbox": [
+    16,
+    13,
+    44,
+    51
+   ],
+   "colors": 32,
+   "visible_sha256": "a98fd374e14a2fcb5c5f745d4b65651cf690f046ecebc7cb54dba1155c3bac1f",
+   "prompt_version": "replacement",
+   "free_fixes": [],
+   "generation": {
+    "seed": 203619285,
+    "request_sha256": "36609cddbfe369b96e30243fd43417bda2fbdab4a29cf4ea3928452f2f04f972",
+    "job_id": "4e501f61-77af-40bf-8107-5c8a78a36104",
+    "gallery_id": null,
+    "charged_generations": 1
+   },
+   "atlas_rect": [
+    818,
     206,
     64,
     64
@@ -2478,7 +2718,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    546,
+    886,
     206,
     64,
     64
@@ -2526,8 +2766,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    614,
-    206,
+    2,
+    274,
     64,
     64
    ]
@@ -2574,8 +2814,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    682,
-    206,
+    70,
+    274,
     64,
     64
    ]
@@ -2622,8 +2862,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    750,
-    206,
+    138,
+    274,
     64,
     64
    ]
@@ -2670,8 +2910,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    818,
     206,
+    274,
     64,
     64
    ]
@@ -2720,8 +2960,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    886,
-    206,
+    274,
+    274,
     64,
     64
    ]
@@ -2768,7 +3008,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    2,
+    342,
     274,
     64,
     64
@@ -2816,7 +3056,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    70,
+    410,
     274,
     64,
     64
@@ -2864,7 +3104,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    138,
+    478,
     274,
     64,
     64
@@ -2912,7 +3152,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    206,
+    546,
     274,
     64,
     64
@@ -2960,7 +3200,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    274,
+    614,
     274,
     64,
     64
@@ -3008,7 +3248,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    342,
+    682,
     274,
     64,
     64
@@ -3056,7 +3296,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    410,
+    750,
     274,
     64,
     64
@@ -3104,7 +3344,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    478,
+    818,
     274,
     64,
     64
@@ -3152,7 +3392,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    546,
+    886,
     274,
     64,
     64
@@ -3200,8 +3440,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    614,
-    274,
+    2,
+    342,
     64,
     64
    ]
@@ -3248,8 +3488,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    682,
-    274,
+    70,
+    342,
     64,
     64
    ]
@@ -3296,8 +3536,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    750,
-    274,
+    138,
+    342,
     64,
     64
    ]
@@ -3344,8 +3584,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    818,
-    274,
+    206,
+    342,
     64,
     64
    ]
@@ -3392,8 +3632,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    886,
     274,
+    342,
     64,
     64
    ]
@@ -3440,7 +3680,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    2,
+    342,
     342,
     64,
     64
@@ -3488,7 +3728,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    70,
+    410,
     342,
     64,
     64
@@ -3536,7 +3776,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    138,
+    478,
     342,
     64,
     64
@@ -3584,7 +3824,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    206,
+    546,
     342,
     64,
     64
@@ -3632,7 +3872,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    274,
+    614,
     342,
     64,
     64
@@ -3680,7 +3920,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    342,
+    682,
     342,
     64,
     64
@@ -3728,7 +3968,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    410,
+    750,
     342,
     64,
     64
@@ -3776,7 +4016,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    478,
+    818,
     342,
     64,
     64
@@ -3824,7 +4064,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    546,
+    886,
     342,
     64,
     64
@@ -3872,8 +4112,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    614,
-    342,
+    2,
+    410,
     64,
     64
    ]
@@ -3920,8 +4160,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    682,
-    342,
+    70,
+    410,
     64,
     64
    ]
@@ -3968,8 +4208,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    750,
-    342,
+    138,
+    410,
     64,
     64
    ]
@@ -4016,8 +4256,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    818,
-    342,
+    206,
+    410,
     64,
     64
    ]
@@ -4064,8 +4304,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    886,
-    342,
+    274,
+    410,
     64,
     64
    ]
@@ -4112,7 +4352,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    2,
+    342,
     410,
     64,
     64
@@ -4160,7 +4400,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    70,
+    410,
     410,
     64,
     64
@@ -4208,7 +4448,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    138,
+    478,
     410,
     64,
     64
@@ -4256,7 +4496,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    206,
+    546,
     410,
     64,
     64
@@ -4304,7 +4544,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    274,
+    614,
     410,
     64,
     64
@@ -4352,7 +4592,55 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    342,
+    682,
+    410,
+    64,
+    64
+   ]
+  },
+  {
+   "stable_id": "pack09_096_windproof_treasure_satchel_with_double_buckles",
+   "pack_id": "sky_pirates_floating_isles",
+   "category_id": "air_cargo",
+   "name_en": "Windproof treasure satchel with double buckles",
+   "planned_name_en": "Windproof treasure satchel with double buckles",
+   "category_ru": "Грузы и небесная торговля",
+   "tags": [
+    "sky_pirates_floating_isles",
+    "air_cargo",
+    "inventory",
+    "pixel-art",
+    "static"
+   ],
+   "status": "accepted",
+   "native_size": [
+    64,
+    64
+   ],
+   "paths": {
+    "64": "png_64/pack09_096_windproof_treasure_satchel_with_double_buckles.png",
+    "128": "png_128/pack09_096_windproof_treasure_satchel_with_double_buckles.png",
+    "256": "png_256/pack09_096_windproof_treasure_satchel_with_double_buckles.png"
+   },
+   "visible_bbox": [
+    7,
+    10,
+    58,
+    56
+   ],
+   "colors": 18,
+   "visible_sha256": "a340d71f51a8b89b67bc66d4faedb74715f9fc79312d3b4056cd1b5583057524",
+   "prompt_version": "replacement",
+   "free_fixes": [],
+   "generation": {
+    "seed": 203619326,
+    "request_sha256": "c365e6c9c3332ebda0276b759a7302bb6540830fe49daab61cbc402b23eb07fb",
+    "job_id": "3e1c074b-ded0-4778-8061-8076c817c61a",
+    "gallery_id": null,
+    "charged_generations": 1
+   },
+   "atlas_rect": [
+    750,
     410,
     64,
     64
@@ -4400,7 +4688,55 @@
     "charged_generations": 1
    },
    "atlas_rect": [
+    818,
     410,
+    64,
+    64
+   ]
+  },
+  {
+   "stable_id": "pack09_098_padded_bird_egg_shaped_navigation_cargo_pod",
+   "pack_id": "sky_pirates_floating_isles",
+   "category_id": "air_cargo",
+   "name_en": "Padded bird egg shaped navigation cargo pod",
+   "planned_name_en": "Padded bird egg shaped navigation cargo pod",
+   "category_ru": "Грузы и небесная торговля",
+   "tags": [
+    "sky_pirates_floating_isles",
+    "air_cargo",
+    "inventory",
+    "pixel-art",
+    "static"
+   ],
+   "status": "accepted",
+   "native_size": [
+    64,
+    64
+   ],
+   "paths": {
+    "64": "png_64/pack09_098_padded_bird_egg_shaped_navigation_cargo_pod.png",
+    "128": "png_128/pack09_098_padded_bird_egg_shaped_navigation_cargo_pod.png",
+    "256": "png_256/pack09_098_padded_bird_egg_shaped_navigation_cargo_pod.png"
+   },
+   "visible_bbox": [
+    11,
+    7,
+    53,
+    56
+   ],
+   "colors": 18,
+   "visible_sha256": "c3747673d1d3c4e06fd7e5bf181d1587baa806da6b1290300400a85a51fbe414",
+   "prompt_version": "replacement",
+   "free_fixes": [],
+   "generation": {
+    "seed": 203619328,
+    "request_sha256": "a292f51a277ac18320c8f31a9407a8595c04bc9d7b2c3b6a743e59d30d0f6385",
+    "job_id": "3074c7a7-33ab-45ac-8907-9b634942537b",
+    "gallery_id": null,
+    "charged_generations": 1
+   },
+   "atlas_rect": [
+    886,
     410,
     64,
     64
@@ -4448,8 +4784,56 @@
     "charged_generations": 1
    },
    "atlas_rect": [
+    2,
     478,
-    410,
+    64,
+    64
+   ]
+  },
+  {
+   "stable_id": "pack09_100_airship_freight_seal_made_of_blue_wax",
+   "pack_id": "sky_pirates_floating_isles",
+   "category_id": "air_cargo",
+   "name_en": "Airship freight seal made of blue wax",
+   "planned_name_en": "Airship freight seal made of blue wax",
+   "category_ru": "Грузы и небесная торговля",
+   "tags": [
+    "sky_pirates_floating_isles",
+    "air_cargo",
+    "inventory",
+    "pixel-art",
+    "static"
+   ],
+   "status": "accepted",
+   "native_size": [
+    64,
+    64
+   ],
+   "paths": {
+    "64": "png_64/pack09_100_airship_freight_seal_made_of_blue_wax.png",
+    "128": "png_128/pack09_100_airship_freight_seal_made_of_blue_wax.png",
+    "256": "png_256/pack09_100_airship_freight_seal_made_of_blue_wax.png"
+   },
+   "visible_bbox": [
+    11,
+    13,
+    50,
+    52
+   ],
+   "colors": 49,
+   "visible_sha256": "3887d6da28699be68ca60cf04fcc14e8f9489561bd4a6c838cbf041ae3f3fbea",
+   "prompt_version": "replacement",
+   "free_fixes": [],
+   "generation": {
+    "seed": 203619330,
+    "request_sha256": "60256ebe6ab80de4d1bfeee972e10a49242e89f17891e843be557e46943c9c46",
+    "job_id": "27ff8c86-f355-4b79-b690-7bda77c4ac92",
+    "gallery_id": null,
+    "charged_generations": 1
+   },
+   "atlas_rect": [
+    70,
+    478,
     64,
     64
    ]
@@ -4496,8 +4880,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    546,
-    410,
+    138,
+    478,
     64,
     64
    ]
@@ -4544,8 +4928,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    614,
-    410,
+    206,
+    478,
     64,
     64
    ]
@@ -4592,8 +4976,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    682,
-    410,
+    274,
+    478,
     64,
     64
    ]
@@ -4640,8 +5024,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    750,
-    410,
+    342,
+    478,
     64,
     64
    ]
@@ -4688,8 +5072,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    818,
     410,
+    478,
     64,
     64
    ]
@@ -4736,8 +5120,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    886,
-    410,
+    478,
+    478,
     64,
     64
    ]
@@ -4784,7 +5168,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    2,
+    546,
     478,
     64,
     64
@@ -4832,7 +5216,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    70,
+    614,
     478,
     64,
     64
@@ -4880,7 +5264,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    138,
+    682,
     478,
     64,
     64
@@ -4928,7 +5312,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    206,
+    750,
     478,
     64,
     64
@@ -4976,7 +5360,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    274,
+    818,
     478,
     64,
     64
@@ -5024,7 +5408,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    342,
+    886,
     478,
     64,
     64
@@ -5072,8 +5456,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    410,
-    478,
+    2,
+    546,
     64,
     64
    ]
@@ -5120,8 +5504,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    478,
-    478,
+    70,
+    546,
     64,
     64
    ]
@@ -5168,8 +5552,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
+    138,
     546,
-    478,
     64,
     64
    ]
@@ -5216,8 +5600,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    614,
-    478,
+    206,
+    546,
     64,
     64
    ]
@@ -5264,8 +5648,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    682,
-    478,
+    274,
+    546,
     64,
     64
    ]
@@ -5312,8 +5696,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    750,
-    478,
+    342,
+    546,
     64,
     64
    ]
@@ -5360,8 +5744,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    818,
-    478,
+    410,
+    546,
     64,
     64
    ]
@@ -5408,8 +5792,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    886,
     478,
+    546,
     64,
     64
    ]
@@ -5456,7 +5840,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    2,
+    546,
     546,
     64,
     64
@@ -5504,7 +5888,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    70,
+    614,
     546,
     64,
     64
@@ -5552,7 +5936,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    138,
+    682,
     546,
     64,
     64
@@ -5600,7 +5984,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    206,
+    750,
     546,
     64,
     64
@@ -5648,7 +6032,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    274,
+    818,
     546,
     64,
     64
@@ -5696,7 +6080,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    342,
+    886,
     546,
     64,
     64
@@ -5744,8 +6128,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    410,
-    546,
+    2,
+    614,
     64,
     64
    ]
@@ -5792,8 +6176,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    478,
-    546,
+    70,
+    614,
     64,
     64
    ]
@@ -5840,8 +6224,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    546,
-    546,
+    138,
+    614,
     64,
     64
    ]
@@ -5888,8 +6272,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
+    206,
     614,
-    546,
     64,
     64
    ]
@@ -5936,8 +6320,56 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    682,
-    546,
+    274,
+    614,
+    64,
+    64
+   ]
+  },
+  {
+   "stable_id": "pack09_132_transparent_sky_coral_branching_relic",
+   "pack_id": "sky_pirates_floating_isles",
+   "category_id": "floating_island_relics",
+   "name_en": "Transparent sky coral branching relic",
+   "planned_name_en": "Transparent sky coral branching relic",
+   "category_ru": "Находки парящих островов",
+   "tags": [
+    "sky_pirates_floating_isles",
+    "floating_island_relics",
+    "inventory",
+    "pixel-art",
+    "static"
+   ],
+   "status": "accepted",
+   "native_size": [
+    64,
+    64
+   ],
+   "paths": {
+    "64": "png_64/pack09_132_transparent_sky_coral_branching_relic.png",
+    "128": "png_128/pack09_132_transparent_sky_coral_branching_relic.png",
+    "256": "png_256/pack09_132_transparent_sky_coral_branching_relic.png"
+   },
+   "visible_bbox": [
+    10,
+    8,
+    54,
+    55
+   ],
+   "colors": 27,
+   "visible_sha256": "092bcb3550fed00ab9128b33778f4a03f0dcca65bfaf8718a96f2848021fe390",
+   "prompt_version": "replacement",
+   "free_fixes": [],
+   "generation": {
+    "seed": 203619362,
+    "request_sha256": "ccde419a9adfb881cd2633d39176d447add0d8a9c6e0bb333ed9b516fb8e832a",
+    "job_id": "add39098-63c0-4fc3-953c-cd98fc5d5f45",
+    "gallery_id": null,
+    "charged_generations": 1
+   },
+   "atlas_rect": [
+    342,
+    614,
     64,
     64
    ]
@@ -5984,8 +6416,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    750,
-    546,
+    410,
+    614,
     64,
     64
    ]
@@ -6032,8 +6464,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    818,
-    546,
+    478,
+    614,
     64,
     64
    ]
@@ -6080,8 +6512,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    886,
     546,
+    614,
     64,
     64
    ]
@@ -6128,7 +6560,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    2,
+    614,
     614,
     64,
     64
@@ -6176,7 +6608,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    70,
+    682,
     614,
     64,
     64
@@ -6224,7 +6656,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    138,
+    750,
     614,
     64,
     64
@@ -6272,7 +6704,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    206,
+    818,
     614,
     64,
     64
@@ -6320,7 +6752,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    274,
+    886,
     614,
     64,
     64
@@ -6368,8 +6800,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    342,
-    614,
+    2,
+    682,
     64,
     64
    ]
@@ -6416,8 +6848,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    410,
-    614,
+    70,
+    682,
     64,
     64
    ]
@@ -6464,8 +6896,56 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    478,
-    614,
+    138,
+    682,
+    64,
+    64
+   ]
+  },
+  {
+   "stable_id": "pack09_144_brass_pocket_sky_telescope_with_shoulder_strap",
+   "pack_id": "sky_pirates_floating_isles",
+   "category_id": "crew_belongings",
+   "name_en": "Brass pocket sky telescope with shoulder strap",
+   "planned_name_en": "Brass pocket sky telescope with shoulder strap",
+   "category_ru": "Личные вещи экипажа",
+   "tags": [
+    "sky_pirates_floating_isles",
+    "crew_belongings",
+    "inventory",
+    "pixel-art",
+    "static"
+   ],
+   "status": "accepted",
+   "native_size": [
+    64,
+    64
+   ],
+   "paths": {
+    "64": "png_64/pack09_144_brass_pocket_sky_telescope_with_shoulder_strap.png",
+    "128": "png_128/pack09_144_brass_pocket_sky_telescope_with_shoulder_strap.png",
+    "256": "png_256/pack09_144_brass_pocket_sky_telescope_with_shoulder_strap.png"
+   },
+   "visible_bbox": [
+    6,
+    11,
+    57,
+    52
+   ],
+   "colors": 49,
+   "visible_sha256": "8809de3ddddd653e8592c07028d6f621a3aeb948c6b72c16ae6b20d38df459c0",
+   "prompt_version": "replacement",
+   "free_fixes": [],
+   "generation": {
+    "seed": 203619374,
+    "request_sha256": "f6719dcb7d88ef8ae33fd0c364d7fbe9004e794b5180766d2fd9d4c0e0101a3c",
+    "job_id": "3feb2467-c2fe-446e-97b2-e3118b3caaf2",
+    "gallery_id": null,
+    "charged_generations": 1
+   },
+   "atlas_rect": [
+    206,
+    682,
     64,
     64
    ]
@@ -6512,8 +6992,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    546,
-    614,
+    274,
+    682,
     64,
     64
    ]
@@ -6560,8 +7040,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    614,
-    614,
+    342,
+    682,
     64,
     64
    ]
@@ -6608,8 +7088,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
+    410,
     682,
-    614,
     64,
     64
    ]
@@ -6656,8 +7136,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    750,
-    614,
+    478,
+    682,
     64,
     64
    ]
@@ -6704,8 +7184,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    818,
-    614,
+    546,
+    682,
     64,
     64
    ]
@@ -6752,8 +7232,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    886,
     614,
+    682,
     64,
     64
    ]
@@ -6800,7 +7280,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    2,
+    682,
     682,
     64,
     64
@@ -6848,7 +7328,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    70,
+    750,
     682,
     64,
     64
@@ -6896,7 +7376,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    138,
+    818,
     682,
     64,
     64
@@ -6944,7 +7424,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    206,
+    886,
     682,
     64,
     64
@@ -6992,8 +7472,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    274,
-    682,
+    2,
+    750,
     64,
     64
    ]
@@ -7040,8 +7520,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    342,
-    682,
+    70,
+    750,
     64,
     64
    ]
@@ -7088,8 +7568,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    410,
-    682,
+    138,
+    750,
     64,
     64
    ]
@@ -7136,8 +7616,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    478,
-    682,
+    206,
+    750,
     64,
     64
    ]
@@ -7184,8 +7664,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    546,
-    682,
+    274,
+    750,
     64,
     64
    ]
@@ -7232,8 +7712,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    614,
-    682,
+    342,
+    750,
     64,
     64
    ]
@@ -7280,8 +7760,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    682,
-    682,
+    410,
+    750,
     64,
     64
    ]
@@ -7328,8 +7808,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
+    478,
     750,
-    682,
     64,
     64
    ]
@@ -7376,8 +7856,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    818,
-    682,
+    546,
+    750,
     64,
     64
    ]
@@ -7424,8 +7904,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    886,
-    682,
+    614,
+    750,
     64,
     64
    ]
@@ -7472,7 +7952,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    2,
+    682,
     750,
     64,
     64
@@ -7520,7 +8000,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    70,
+    750,
     750,
     64,
     64
@@ -7568,7 +8048,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    138,
+    818,
     750,
     64,
     64
@@ -7616,7 +8096,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    206,
+    886,
     750,
     64,
     64
@@ -7664,8 +8144,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    274,
-    750,
+    2,
+    818,
     64,
     64
    ]
@@ -7712,8 +8192,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    342,
-    750,
+    70,
+    818,
     64,
     64
    ]
@@ -7760,8 +8240,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    410,
-    750,
+    138,
+    818,
     64,
     64
    ]
@@ -7808,8 +8288,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    478,
-    750,
+    206,
+    818,
     64,
     64
    ]
@@ -7856,8 +8336,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    546,
-    750,
+    274,
+    818,
     64,
     64
    ]
@@ -7904,8 +8384,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    614,
-    750,
+    342,
+    818,
     64,
     64
    ]
@@ -7952,8 +8432,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    682,
-    750,
+    410,
+    818,
     64,
     64
    ]
@@ -8000,8 +8480,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    750,
-    750,
+    478,
+    818,
     64,
     64
    ]
@@ -8048,8 +8528,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
+    546,
     818,
-    750,
     64,
     64
    ]
@@ -8096,8 +8576,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    886,
-    750,
+    614,
+    818,
     64,
     64
    ]
@@ -8144,7 +8624,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    2,
+    682,
     818,
     64,
     64
@@ -8192,7 +8672,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    70,
+    750,
     818,
     64,
     64
@@ -8242,7 +8722,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    138,
+    818,
     818,
     64,
     64
@@ -8292,7 +8772,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    206,
+    886,
     818,
     64,
     64
@@ -8340,8 +8820,56 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    274,
-    818,
+    2,
+    886,
+    64,
+    64
+   ]
+  },
+  {
+   "stable_id": "pack09_184_airship_master_engine_ignition_key",
+   "pack_id": "sky_pirates_floating_isles",
+   "category_id": "airship_quest",
+   "name_en": "Airship master engine ignition key",
+   "planned_name_en": "Airship master engine ignition key",
+   "category_ru": "Сюжетные предметы небесных пиратов",
+   "tags": [
+    "sky_pirates_floating_isles",
+    "airship_quest",
+    "inventory",
+    "pixel-art",
+    "static"
+   ],
+   "status": "accepted",
+   "native_size": [
+    64,
+    64
+   ],
+   "paths": {
+    "64": "png_64/pack09_184_airship_master_engine_ignition_key.png",
+    "128": "png_128/pack09_184_airship_master_engine_ignition_key.png",
+    "256": "png_256/pack09_184_airship_master_engine_ignition_key.png"
+   },
+   "visible_bbox": [
+    8,
+    5,
+    55,
+    59
+   ],
+   "colors": 49,
+   "visible_sha256": "bd5c4f28d216471a7b01ce966174f8c9f922571b15c1668055c50e355911568f",
+   "prompt_version": "replacement",
+   "free_fixes": [],
+   "generation": {
+    "seed": 203619414,
+    "request_sha256": "199c8da0c18224f03f15b13ce512447d50035519cde86efba9a500bfb5cb7f3a",
+    "job_id": "00c1c59d-6848-44a9-978f-831c0bcb96ea",
+    "gallery_id": null,
+    "charged_generations": 1
+   },
+   "atlas_rect": [
+    70,
+    886,
     64,
     64
    ]
@@ -8390,8 +8918,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    342,
-    818,
+    138,
+    886,
     64,
     64
    ]
@@ -8438,8 +8966,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    410,
-    818,
+    206,
+    886,
     64,
     64
    ]
@@ -8486,8 +9014,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    478,
-    818,
+    274,
+    886,
     64,
     64
    ]
@@ -8534,8 +9062,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    546,
-    818,
+    342,
+    886,
     64,
     64
    ]
@@ -8582,8 +9110,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    614,
-    818,
+    410,
+    886,
     64,
     64
    ]
@@ -8630,8 +9158,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    682,
-    818,
+    478,
+    886,
     64,
     64
    ]
@@ -8678,8 +9206,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    750,
-    818,
+    546,
+    886,
     64,
     64
    ]
@@ -8726,8 +9254,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    818,
-    818,
+    614,
+    886,
     64,
     64
    ]
@@ -8774,8 +9302,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
+    682,
     886,
-    818,
     64,
     64
    ]
@@ -8822,7 +9350,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    2,
+    750,
     886,
     64,
     64
@@ -8870,7 +9398,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    70,
+    818,
     886,
     64,
     64
@@ -8918,7 +9446,7 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    138,
+    886,
     886,
     64,
     64
@@ -8966,8 +9494,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    206,
-    886,
+    2,
+    954,
     64,
     64
    ]
@@ -9014,8 +9542,8 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    274,
-    886,
+    70,
+    954,
     64,
     64
    ]
@@ -9062,8 +9590,56 @@
     "charged_generations": 1
    },
    "atlas_rect": [
-    342,
-    886,
+    138,
+    954,
+    64,
+    64
+   ]
+  },
+  {
+   "stable_id": "pack09_200_final_flight_log_sealed_by_a_brass_propeller",
+   "pack_id": "sky_pirates_floating_isles",
+   "category_id": "airship_quest",
+   "name_en": "Final flight log sealed by a brass propeller",
+   "planned_name_en": "Final flight log sealed by a brass propeller",
+   "category_ru": "Сюжетные предметы небесных пиратов",
+   "tags": [
+    "sky_pirates_floating_isles",
+    "airship_quest",
+    "inventory",
+    "pixel-art",
+    "static"
+   ],
+   "status": "accepted",
+   "native_size": [
+    64,
+    64
+   ],
+   "paths": {
+    "64": "png_64/pack09_200_final_flight_log_sealed_by_a_brass_propeller.png",
+    "128": "png_128/pack09_200_final_flight_log_sealed_by_a_brass_propeller.png",
+    "256": "png_256/pack09_200_final_flight_log_sealed_by_a_brass_propeller.png"
+   },
+   "visible_bbox": [
+    7,
+    11,
+    57,
+    52
+   ],
+   "colors": 35,
+   "visible_sha256": "a97f817cf617874c38d33854095b6421593a7fbc4ec44da71448a4ede8a9eefb",
+   "prompt_version": "replacement",
+   "free_fixes": [],
+   "generation": {
+    "seed": 203619430,
+    "request_sha256": "074fc3f9e8d2e6235cf2ff5e7081021358569a3b9240f829306f9a2ebeaac3a4",
+    "job_id": "3352d079-f1b0-4c7c-8049-c17622351756",
+    "gallery_id": null,
+    "charged_generations": 1
+   },
+   "atlas_rect": [
+    206,
+    954,
     64,
     64
    ]

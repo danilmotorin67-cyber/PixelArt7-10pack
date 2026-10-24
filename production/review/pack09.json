@@ -21,8 +21,9 @@
   "drawn_as": "Cloud balloon pod"
  },
  "pack09_015_ship_mounted_navigation_lamp_miniature": {
-  "decision": "problem",
-  "note": "v2 drew a sailing ship; near-duplicate of 005"
+  "decision": "accepted",
+  "source": "reroll",
+  "note": "owner-approved replacement (reroll1); original rejected: v2 drew a sailing ship; near-duplicate of 005"
  },
  "pack09_018_pocket_sky_island_silhouette_reference_fan": {
   "decision": "renamed",
@@ -59,8 +60,9 @@
   "fix_note": "free fix: painted scenery erased, handle end trimmed"
  },
  "pack09_034_small_airship_hull_tapping_hammer": {
-  "decision": "problem",
-  "note": "v2: meaningless mechanical construction on legs, no readable hammer"
+  "decision": "accepted",
+  "source": "reroll",
+  "note": "owner-approved replacement (reroll1); original rejected: v2: meaningless mechanical construction on legs, no readable hammer"
  },
  "pack09_035_bronze_pulley_axle_removal_punch": {
   "decision": "renamed",
@@ -78,8 +80,9 @@
   "drawn_as": "Aether turbine core on a floating rock"
  },
  "pack09_046_twin_cylinder_airship_engine_miniature": {
-  "decision": "problem",
-  "note": "v2 drew an airship; near-duplicate of 024"
+  "decision": "accepted",
+  "source": "reroll",
+  "note": "owner-approved replacement (reroll1); original rejected: v2 drew an airship; near-duplicate of 024"
  },
  "pack09_048_rotating_wing_pitch_control_linkage": {
   "decision": "renamed",
@@ -92,12 +95,14 @@
   "drawn_as": "Brass exhaust separator capsule"
  },
  "pack09_054_crystal_energized_propeller_shaft_coupler": {
-  "decision": "problem",
-  "note": "v3 drew a small aircraft; near-duplicate of 048"
+  "decision": "accepted",
+  "source": "reroll",
+  "note": "owner-approved replacement (reroll1); original rejected: v3 drew a small aircraft; near-duplicate of 048"
  },
  "pack09_055_balloon_pressure_relief_spring_valve": {
-  "decision": "problem",
-  "note": "v3 drew a zeppelin; near-duplicate of 024"
+  "decision": "accepted",
+  "source": "reroll",
+  "note": "owner-approved replacement (reroll1); original rejected: v3 drew a zeppelin; near-duplicate of 024"
  },
  "pack09_072_balloon_gondola_suspension_shackle": {
   "decision": "renamed",
@@ -120,16 +125,19 @@
   "drawn_as": "Stone-cased ore crate with brass bands"
  },
  "pack09_096_windproof_treasure_satchel_with_double_buckles": {
-  "decision": "problem",
-  "note": "drawn as a domed chest; near-duplicate of 089"
+  "decision": "accepted",
+  "source": "reroll",
+  "note": "owner-approved replacement (reroll1); original rejected: drawn as a domed chest; near-duplicate of 089"
  },
  "pack09_098_padded_bird_egg_shaped_navigation_cargo_pod": {
-  "decision": "problem",
-  "note": "drawn as a bird creature with a face, not an item"
+  "decision": "accepted",
+  "source": "reroll",
+  "note": "owner-approved replacement (reroll1); original rejected: drawn as a bird creature with a face, not an item"
  },
  "pack09_100_airship_freight_seal_made_of_blue_wax": {
-  "decision": "problem",
-  "note": "drawn as an airship instead of a wax seal; near-duplicate of 024"
+  "decision": "accepted",
+  "source": "reroll",
+  "note": "owner-approved replacement (reroll1); original rejected: drawn as an airship instead of a wax seal; near-duplicate of 024"
  },
  "pack09_102_leather_aviator_goggles_with_side_shields": {
   "decision": "renamed",
@@ -152,8 +160,9 @@
   "drawn_as": "Golden seed casket"
  },
  "pack09_132_transparent_sky_coral_branching_relic": {
-  "decision": "problem",
-  "note": "reads as an insect-like creature, not a coral relic"
+  "decision": "accepted",
+  "source": "reroll",
+  "note": "owner-approved replacement (reroll1); original rejected: reads as an insect-like creature, not a coral relic"
  },
  "pack09_140_cloud_gate_plaque_with_original_geometric_crest": {
   "decision": "renamed",
@@ -161,8 +170,9 @@
   "drawn_as": "Brass crest coffer"
  },
  "pack09_144_brass_pocket_sky_telescope_with_shoulder_strap": {
-  "decision": "problem",
-  "note": "drawn as binoculars; near-duplicate of 017"
+  "decision": "accepted",
+  "source": "reroll",
+  "note": "owner-approved replacement (reroll1); original rejected: drawn as binoculars; near-duplicate of 017"
  },
  "pack09_156_wooden_sky_dice_in_a_leather_cup": {
   "decision": "renamed",
@@ -180,8 +190,9 @@
   "drawn_as": "Brass-bound chart chest"
  },
  "pack09_184_airship_master_engine_ignition_key": {
-  "decision": "problem",
-  "note": "drawn as an airship; near-duplicate of 024"
+  "decision": "accepted",
+  "source": "reroll",
+  "note": "owner-approved replacement (reroll1); original rejected: drawn as an airship; near-duplicate of 024"
  },
  "pack09_186_map_fragment_on_translucent_cloud_glass": {
   "decision": "renamed",
@@ -199,7 +210,8 @@
   "drawn_as": "Brass tube holding a blue storm pearl"
  },
  "pack09_200_final_flight_log_sealed_by_a_brass_propeller": {
-  "decision": "problem",
-  "note": "drawn as a small plane; near-duplicate of 048"
+  "decision": "accepted",
+  "source": "reroll",
+  "note": "owner-approved replacement (reroll1); original rejected: drawn as a small plane; near-duplicate of 048"
  }
 }

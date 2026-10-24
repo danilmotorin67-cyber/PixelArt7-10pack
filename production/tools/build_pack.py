@@ -157,7 +157,8 @@ def main(pack_no):
     rr = {}
     if db.execute("SELECT 1 FROM sqlite_master WHERE name='reroll_attempts'").fetchone():
         rr = {r[6]: r for r in db.execute("SELECT request_sha256,state,job_id,gallery_id,charged_units,"
-                                          "local_file,asset_id,item_text FROM reroll_attempts")}
+                                          "local_file,asset_id,item_text FROM reroll_attempts "
+                                          "WHERE state='completed' ORDER BY attempt_id")}  # latest round wins
 
     slug = "%02d_%s" % (pack_no, pack["slug"])
     root = os.path.join(OUT, slug)
@@ -199,8 +200,9 @@ def main(pack_no):
         used = prompts[aid].get(pv, e)
         if reroll:
             pv = "replacement"
+            reroll_round = 2 if "/reroll2/" in reroll[5] else 1
             used = {"prompt": "replacement generation, item text: " + reroll[7] + " (receipt "
-                    + aid + ".reroll.json)", "args": dict(e["args"], seed=e["args"]["seed"] + 1000000)}
+                    + aid + (".reroll.json)" if reroll_round == 1 else ".reroll2.json)"), "args": dict(e["args"], seed=e["args"]["seed"] + 1000000 * reroll_round)}
         accepted.append((e, m))
         qa_rows.append({"stable_id": aid, "raw_flags": raw_m["flags"], "final_flags": m["flags"], "fixes": notes,
                         "review": rv.get("decision", "accepted"), "review_note": rv.get("note", "")})

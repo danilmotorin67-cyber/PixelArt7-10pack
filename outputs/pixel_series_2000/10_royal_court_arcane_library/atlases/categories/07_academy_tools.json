@@ -1,0 +1,175 @@
+{
+ "meta": {
+  "image": "07_academy_tools.png",
+  "size": {
+   "w": 340,
+   "h": 272
+  },
+  "cell": 68,
+  "padding": 2,
+  "columns": 5,
+  "rows": 4
+ },
+ "frames": {
+  "pack10_121_ivory_lecture_pointer_with_star_tip": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_122_gold_rimmed_teaching_slate_with_blank_grid": {
+   "frame": {
+    "x": 70,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_123_mechanical_demonstration_sun_wheel": {
+   "frame": {
+    "x": 138,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_124_brass_specimen_pinning_frame_without_specimen": {
+   "frame": {
+    "x": 206,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_125_crystal_geometric_puzzle_cube_in_holder": {
+   "frame": {
+    "x": 274,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_126_blue_velvet_academic_cap_folded": {
+   "frame": {
+    "x": 2,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_127_silver_classroom_chime_on_walnut_stand": {
+   "frame": {
+    "x": 70,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_128_foldable_lecture_note_holding_easel": {
+   "frame": {
+    "x": 138,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_129_porcelain_pigment_mixing_mortar_with_gold_rim": {
+   "frame": {
+    "x": 206,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_130_royal_academy_admission_token_with_open_book": {
+   "frame": {
+    "x": 274,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_131_wooden_anatomical_articulation_model_hand": {
+   "frame": {
+    "x": 2,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_132_brass_lens_cleaning_brush_in_capped_tube": {
+   "frame": {
+    "x": 70,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_133_silk_sample_of_woven_mathematical_knot": {
+   "frame": {
+    "x": 138,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_134_gold_capped_library_silence_reminder_bell": {
+   "frame": {
+    "x": 206,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_135_crystal_light_refraction_pyramid": {
+   "frame": {
+    "x": 274,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_136_miniature_royal_academy_observatory_dome_model": {
+   "frame": {
+    "x": 2,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_137_mechanical_teaching_balance_with_star_pans": {
+   "frame": {
+    "x": 70,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_138_ivory_book_page_turning_finger_tool": {
+   "frame": {
+    "x": 138,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_139_folded_scholars_reading_shawl_with_blue_trim": {
+   "frame": {
+    "x": 206,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_140_silver_geometric_stencil_set_on_ring": {
+   "frame": {
+    "x": 274,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   }
+  }
+ }
+}

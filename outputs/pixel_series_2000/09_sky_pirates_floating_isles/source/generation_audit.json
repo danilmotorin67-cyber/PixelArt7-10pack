@@ -282,6 +282,26 @@
    }
   },
   {
+   "stable_id": "pack09_015_ship_mounted_navigation_lamp_miniature",
+   "prompt_version": "replacement",
+   "seed": 203619245,
+   "request_sha256": "5a49fbd3214b100aa6460582c3bc6d69f4f7a6e6167f3d829a7e15634535b55a",
+   "job_id": "a6c91536-33eb-4baa-98cc-6ae3d873bc3d",
+   "gallery_id": null,
+   "charged_generations": 1,
+   "tool": "PixelLab create_image_pixen",
+   "params": {
+    "width": 64,
+    "height": 64,
+    "no_background": true,
+    "detail": "medium detail",
+    "outline": "single color outline",
+    "view": "low top-down",
+    "direction": "south-west",
+    "seed": 203619245
+   }
+  },
+  {
    "stable_id": "pack09_016_distance_counting_air_log_propeller_instrument",
    "prompt_version": 2,
    "seed": 202619246,
@@ -642,6 +662,26 @@
    }
   },
   {
+   "stable_id": "pack09_034_small_airship_hull_tapping_hammer",
+   "prompt_version": "replacement",
+   "seed": 203619264,
+   "request_sha256": "b5e0d9014d3c408bb56755055977c59c218616b9ddfbf9f4dca4ae6067fcfa2a",
+   "job_id": "56177ad3-b014-43d8-b42c-73c2ef3ef88d",
+   "gallery_id": null,
+   "charged_generations": 1,
+   "tool": "PixelLab create_image_pixen",
+   "params": {
+    "width": 64,
+    "height": 64,
+    "no_background": true,
+    "detail": "medium detail",
+    "outline": "single color outline",
+    "view": "low top-down",
+    "direction": "south-west",
+    "seed": 203619264
+   }
+  },
+  {
    "stable_id": "pack09_035_bronze_pulley_axle_removal_punch",
    "prompt_version": 2,
    "seed": 202619265,
@@ -862,6 +902,26 @@
    }
   },
   {
+   "stable_id": "pack09_046_twin_cylinder_airship_engine_miniature",
+   "prompt_version": "replacement",
+   "seed": 203619276,
+   "request_sha256": "7b33a9c5e698bdd8269df420d74b8096c659a918512602859555b5a729fdaa01",
+   "job_id": "4ca74e44-3ef8-4378-9bfc-a57541a6361e",
+   "gallery_id": null,
+   "charged_generations": 1,
+   "tool": "PixelLab create_image_pixen",
+   "params": {
+    "width": 64,
+    "height": 64,
+    "no_background": true,
+    "detail": "medium detail",
+    "outline": "single color outline",
+    "view": "low top-down",
+    "direction": "south-west",
+    "seed": 203619276
+   }
+  },
+  {
    "stable_id": "pack09_047_finned_copper_condenser_radiator",
    "prompt_version": 2,
    "seed": 202619277,
@@ -999,6 +1059,46 @@
     "view": "low top-down",
     "direction": "south-west",
     "seed": 202619283
+   }
+  },
+  {
+   "stable_id": "pack09_054_crystal_energized_propeller_shaft_coupler",
+   "prompt_version": "replacement",
+   "seed": 203619284,
+   "request_sha256": "9c06dc2a66f1f56b1416428a3251642ff80100507b0aa2da2d8c810047913ec6",
+   "job_id": "6cb85b1b-a429-445d-8bab-2d33ca4a44e8",
+   "gallery_id": null,
+   "charged_generations": 1,
+   "tool": "PixelLab create_image_pixen",
+   "params": {
+    "width": 64,
+    "height": 64,
+    "no_background": true,
+    "detail": "medium detail",
+    "outline": "single color outline",
+    "view": "low top-down",
+    "direction": "south-west",
+    "seed": 203619284
+   }
+  },
+  {
+   "stable_id": "pack09_055_balloon_pressure_relief_spring_valve",
+   "prompt_version": "replacement",
+   "seed": 203619285,
+   "request_sha256": "36609cddbfe369b96e30243fd43417bda2fbdab4a29cf4ea3928452f2f04f972",
+   "job_id": "4e501f61-77af-40bf-8107-5c8a78a36104",
+   "gallery_id": null,
+   "charged_generations": 1,
+   "tool": "PixelLab create_image_pixen",
+   "params": {
+    "width": 64,
+    "height": 64,
+    "no_background": true,
+    "detail": "medium detail",
+    "outline": "single color outline",
+    "view": "low top-down",
+    "direction": "south-west",
+    "seed": 203619285
    }
   },
   {
@@ -1802,6 +1902,26 @@
    }
   },
   {
+   "stable_id": "pack09_096_windproof_treasure_satchel_with_double_buckles",
+   "prompt_version": "replacement",
+   "seed": 203619326,
+   "request_sha256": "c365e6c9c3332ebda0276b759a7302bb6540830fe49daab61cbc402b23eb07fb",
+   "job_id": "3e1c074b-ded0-4778-8061-8076c817c61a",
+   "gallery_id": null,
+   "charged_generations": 1,
+   "tool": "PixelLab create_image_pixen",
+   "params": {
+    "width": 64,
+    "height": 64,
+    "no_background": true,
+    "detail": "medium detail",
+    "outline": "single color outline",
+    "view": "low top-down",
+    "direction": "south-west",
+    "seed": 203619326
+   }
+  },
+  {
    "stable_id": "pack09_097_sealed_floating_island_soil_sample_pot",
    "prompt_version": 4,
    "seed": 202619327,
@@ -1822,6 +1942,26 @@
    }
   },
   {
+   "stable_id": "pack09_098_padded_bird_egg_shaped_navigation_cargo_pod",
+   "prompt_version": "replacement",
+   "seed": 203619328,
+   "request_sha256": "a292f51a277ac18320c8f31a9407a8595c04bc9d7b2c3b6a743e59d30d0f6385",
+   "job_id": "3074c7a7-33ab-45ac-8907-9b634942537b",
+   "gallery_id": null,
+   "charged_generations": 1,
+   "tool": "PixelLab create_image_pixen",
+   "params": {
+    "width": 64,
+    "height": 64,
+    "no_background": true,
+    "detail": "medium detail",
+    "outline": "single color outline",
+    "view": "low top-down",
+    "direction": "south-west",
+    "seed": 203619328
+   }
+  },
+  {
    "stable_id": "pack09_099_merchant_weighing_pan_with_feather_counterweight",
    "prompt_version": 4,
    "seed": 202619329,
@@ -1839,6 +1979,26 @@
     "view": "low top-down",
     "direction": "south-west",
     "seed": 202619329
+   }
+  },
+  {
+   "stable_id": "pack09_100_airship_freight_seal_made_of_blue_wax",
+   "prompt_version": "replacement",
+   "seed": 203619330,
+   "request_sha256": "60256ebe6ab80de4d1bfeee972e10a49242e89f17891e843be557e46943c9c46",
+   "job_id": "27ff8c86-f355-4b79-b690-7bda77c4ac92",
+   "gallery_id": null,
+   "charged_generations": 1,
+   "tool": "PixelLab create_image_pixen",
+   "params": {
+    "width": 64,
+    "height": 64,
+    "no_background": true,
+    "detail": "medium detail",
+    "outline": "single color outline",
+    "view": "low top-down",
+    "direction": "south-west",
+    "seed": 203619330
    }
   },
   {
@@ -2462,6 +2622,26 @@
    }
   },
   {
+   "stable_id": "pack09_132_transparent_sky_coral_branching_relic",
+   "prompt_version": "replacement",
+   "seed": 203619362,
+   "request_sha256": "ccde419a9adfb881cd2633d39176d447add0d8a9c6e0bb333ed9b516fb8e832a",
+   "job_id": "add39098-63c0-4fc3-953c-cd98fc5d5f45",
+   "gallery_id": null,
+   "charged_generations": 1,
+   "tool": "PixelLab create_image_pixen",
+   "params": {
+    "width": 64,
+    "height": 64,
+    "no_background": true,
+    "detail": "medium detail",
+    "outline": "single color outline",
+    "view": "low top-down",
+    "direction": "south-west",
+    "seed": 203619362
+   }
+  },
+  {
    "stable_id": "pack09_133_silver_wind_chime_from_a_lost_tower",
    "prompt_version": 4,
    "seed": 202619363,
@@ -2679,6 +2859,26 @@
     "view": "low top-down",
     "direction": "south-west",
     "seed": 202619373
+   }
+  },
+  {
+   "stable_id": "pack09_144_brass_pocket_sky_telescope_with_shoulder_strap",
+   "prompt_version": "replacement",
+   "seed": 203619374,
+   "request_sha256": "f6719dcb7d88ef8ae33fd0c364d7fbe9004e794b5180766d2fd9d4c0e0101a3c",
+   "job_id": "3feb2467-c2fe-446e-97b2-e3118b3caaf2",
+   "gallery_id": null,
+   "charged_generations": 1,
+   "tool": "PixelLab create_image_pixen",
+   "params": {
+    "width": 64,
+    "height": 64,
+    "no_background": true,
+    "detail": "medium detail",
+    "outline": "single color outline",
+    "view": "low top-down",
+    "direction": "south-west",
+    "seed": 203619374
    }
   },
   {
@@ -3462,6 +3662,26 @@
    }
   },
   {
+   "stable_id": "pack09_184_airship_master_engine_ignition_key",
+   "prompt_version": "replacement",
+   "seed": 203619414,
+   "request_sha256": "199c8da0c18224f03f15b13ce512447d50035519cde86efba9a500bfb5cb7f3a",
+   "job_id": "00c1c59d-6848-44a9-978f-831c0bcb96ea",
+   "gallery_id": null,
+   "charged_generations": 1,
+   "tool": "PixelLab create_image_pixen",
+   "params": {
+    "width": 64,
+    "height": 64,
+    "no_background": true,
+    "detail": "medium detail",
+    "outline": "single color outline",
+    "view": "low top-down",
+    "direction": "south-west",
+    "seed": 203619414
+   }
+  },
+  {
    "stable_id": "pack09_185_sealed_captains_order_tube_with_wing_clasp",
    "prompt_version": 4,
    "seed": 202619415,
@@ -3759,6 +3979,26 @@
     "view": "low top-down",
     "direction": "south-west",
     "seed": 202619429
+   }
+  },
+  {
+   "stable_id": "pack09_200_final_flight_log_sealed_by_a_brass_propeller",
+   "prompt_version": "replacement",
+   "seed": 203619430,
+   "request_sha256": "074fc3f9e8d2e6235cf2ff5e7081021358569a3b9240f829306f9a2ebeaac3a4",
+   "job_id": "3352d079-f1b0-4c7c-8049-c17622351756",
+   "gallery_id": null,
+   "charged_generations": 1,
+   "tool": "PixelLab create_image_pixen",
+   "params": {
+    "width": 64,
+    "height": 64,
+    "no_background": true,
+    "detail": "medium detail",
+    "outline": "single color outline",
+    "view": "low top-down",
+    "direction": "south-west",
+    "seed": 203619430
    }
   }
  ]

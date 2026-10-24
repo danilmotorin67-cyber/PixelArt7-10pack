@@ -1,0 +1,175 @@
+{
+ "meta": {
+  "image": "06_court_tableware.png",
+  "size": {
+   "w": 340,
+   "h": 272
+  },
+  "cell": 68,
+  "padding": 2,
+  "columns": 5,
+  "rows": 4
+ },
+ "frames": {
+  "pack10_101_gold_footed_royal_drinking_chalice": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_102_silver_covered_serving_dish_with_acorn_handle": {
+   "frame": {
+    "x": 70,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_103_blue_porcelain_court_tea_service_for_one": {
+   "frame": {
+    "x": 138,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_104_crystal_fruit_bowl_on_gilded_claws": {
+   "frame": {
+    "x": 206,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_105_ivory_handled_ceremonial_cake_server": {
+   "frame": {
+    "x": 274,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_106_enamel_wine_ewer_with_pearl_neck": {
+   "frame": {
+    "x": 2,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_107_gold_lattice_salt_cellar_with_sapphire_lid": {
+   "frame": {
+    "x": 70,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_108_silver_folded_napkin_holder_shaped_as_crown": {
+   "frame": {
+    "x": 138,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_109_navy_velvet_ceremonial_cushion_with_tassels": {
+   "frame": {
+    "x": 206,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_110_crystal_honey_pot_with_gold_dipping_wand": {
+   "frame": {
+    "x": 274,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_111_small_rose_patterned_porcelain_soup_tureen": {
+   "frame": {
+    "x": 2,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_112_silver_court_herald_hand_bell": {
+   "frame": {
+    "x": 70,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_113_twin_candle_royal_table_centerpiece": {
+   "frame": {
+    "x": 138,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_114_gold_rimmed_carved_agate_dessert_plate": {
+   "frame": {
+    "x": 206,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_115_pearl_inlaid_folding_ceremonial_fan": {
+   "frame": {
+    "x": 274,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_116_gilded_glass_ceremonial_hour_vessel": {
+   "frame": {
+    "x": 2,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_117_velvet_lined_silver_presentation_tray": {
+   "frame": {
+    "x": 70,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_118_gold_footed_engraved_rosewater_bowl": {
+   "frame": {
+    "x": 138,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_119_crystal_decanter_with_crown_shaped_stopper": {
+   "frame": {
+    "x": 206,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_120_folded_embroidered_royal_table_runner": {
+   "frame": {
+    "x": 274,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   }
+  }
+ }
+}

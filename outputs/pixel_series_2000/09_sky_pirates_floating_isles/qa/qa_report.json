@@ -1,68 +1,7 @@
 {
- "accepted": 188,
+ "accepted": 200,
  "planned": 200,
- "missing": [
-  {
-   "stable_id": "pack09_015_ship_mounted_navigation_lamp_miniature",
-   "state": "completed",
-   "reason": "v2 drew a sailing ship; near-duplicate of 005"
-  },
-  {
-   "stable_id": "pack09_034_small_airship_hull_tapping_hammer",
-   "state": "completed",
-   "reason": "v2: meaningless mechanical construction on legs, no readable hammer"
-  },
-  {
-   "stable_id": "pack09_046_twin_cylinder_airship_engine_miniature",
-   "state": "completed",
-   "reason": "v2 drew an airship; near-duplicate of 024"
-  },
-  {
-   "stable_id": "pack09_054_crystal_energized_propeller_shaft_coupler",
-   "state": "completed",
-   "reason": "v3 drew a small aircraft; near-duplicate of 048"
-  },
-  {
-   "stable_id": "pack09_055_balloon_pressure_relief_spring_valve",
-   "state": "completed",
-   "reason": "v3 drew a zeppelin; near-duplicate of 024"
-  },
-  {
-   "stable_id": "pack09_096_windproof_treasure_satchel_with_double_buckles",
-   "state": "completed",
-   "reason": "drawn as a domed chest; near-duplicate of 089"
-  },
-  {
-   "stable_id": "pack09_098_padded_bird_egg_shaped_navigation_cargo_pod",
-   "state": "completed",
-   "reason": "drawn as a bird creature with a face, not an item"
-  },
-  {
-   "stable_id": "pack09_100_airship_freight_seal_made_of_blue_wax",
-   "state": "completed",
-   "reason": "drawn as an airship instead of a wax seal; near-duplicate of 024"
-  },
-  {
-   "stable_id": "pack09_132_transparent_sky_coral_branching_relic",
-   "state": "completed",
-   "reason": "reads as an insect-like creature, not a coral relic"
-  },
-  {
-   "stable_id": "pack09_144_brass_pocket_sky_telescope_with_shoulder_strap",
-   "state": "completed",
-   "reason": "drawn as binoculars; near-duplicate of 017"
-  },
-  {
-   "stable_id": "pack09_184_airship_master_engine_ignition_key",
-   "state": "completed",
-   "reason": "drawn as an airship; near-duplicate of 024"
-  },
-  {
-   "stable_id": "pack09_200_final_flight_log_sealed_by_a_brass_propeller",
-   "state": "completed",
-   "reason": "drawn as a small plane; near-duplicate of 048"
-  }
- ],
+ "missing": [],
  "exact_duplicates": [],
  "exports_pixel_exact": true,
  "atlas_regions_exact": true,
@@ -211,6 +150,14 @@
    "fixes": [],
    "review": "accepted",
    "review_note": ""
+  },
+  {
+   "stable_id": "pack09_015_ship_mounted_navigation_lamp_miniature",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": "owner-approved replacement (reroll1); original rejected: v2 drew a sailing ship; near-duplicate of 005"
   },
   {
    "stable_id": "pack09_016_distance_counting_air_log_propeller_instrument",
@@ -391,6 +338,14 @@
    "review_note": ""
   },
   {
+   "stable_id": "pack09_034_small_airship_hull_tapping_hammer",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": "owner-approved replacement (reroll1); original rejected: v2: meaningless mechanical construction on legs, no readable hammer"
+  },
+  {
    "stable_id": "pack09_035_bronze_pulley_axle_removal_punch",
    "raw_flags": [],
    "final_flags": [],
@@ -504,6 +459,14 @@
    "review_note": ""
   },
   {
+   "stable_id": "pack09_046_twin_cylinder_airship_engine_miniature",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": "owner-approved replacement (reroll1); original rejected: v2 drew an airship; near-duplicate of 024"
+  },
+  {
    "stable_id": "pack09_047_finned_copper_condenser_radiator",
    "raw_flags": [
     "colors>48"
@@ -578,6 +541,24 @@
    "fixes": [],
    "review": "renamed",
    "review_note": "capsule-shaped"
+  },
+  {
+   "stable_id": "pack09_054_crystal_energized_propeller_shaft_coupler",
+   "raw_flags": [],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": "owner-approved replacement (reroll1); original rejected: v3 drew a small aircraft; near-duplicate of 048"
+  },
+  {
+   "stable_id": "pack09_055_balloon_pressure_relief_spring_valve",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": "owner-approved replacement (reroll1); original rejected: v3 drew a zeppelin; near-duplicate of 024"
   },
   {
    "stable_id": "pack09_056_compact_mechanical_throttle_lever_quadrant",
@@ -932,12 +913,28 @@
    "review_note": ""
   },
   {
+   "stable_id": "pack09_096_windproof_treasure_satchel_with_double_buckles",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": "owner-approved replacement (reroll1); original rejected: drawn as a domed chest; near-duplicate of 089"
+  },
+  {
    "stable_id": "pack09_097_sealed_floating_island_soil_sample_pot",
    "raw_flags": [],
    "final_flags": [],
    "fixes": [],
    "review": "accepted",
    "review_note": ""
+  },
+  {
+   "stable_id": "pack09_098_padded_bird_egg_shaped_navigation_cargo_pod",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": "owner-approved replacement (reroll1); original rejected: drawn as a bird creature with a face, not an item"
   },
   {
    "stable_id": "pack09_099_merchant_weighing_pan_with_feather_counterweight",
@@ -950,6 +947,16 @@
    "fixes": [],
    "review": "accepted",
    "review_note": ""
+  },
+  {
+   "stable_id": "pack09_100_airship_freight_seal_made_of_blue_wax",
+   "raw_flags": [],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": "owner-approved replacement (reroll1); original rejected: drawn as an airship instead of a wax seal; near-duplicate of 024"
   },
   {
    "stable_id": "pack09_101_folded_emergency_personal_parachute_pack",
@@ -1236,6 +1243,14 @@
    "review_note": ""
   },
   {
+   "stable_id": "pack09_132_transparent_sky_coral_branching_relic",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": "owner-approved replacement (reroll1); original rejected: reads as an insect-like creature, not a coral relic"
+  },
+  {
    "stable_id": "pack09_133_silver_wind_chime_from_a_lost_tower",
    "raw_flags": [],
    "final_flags": [],
@@ -1334,6 +1349,16 @@
    "fixes": [],
    "review": "accepted",
    "review_note": ""
+  },
+  {
+   "stable_id": "pack09_144_brass_pocket_sky_telescope_with_shoulder_strap",
+   "raw_flags": [],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": "owner-approved replacement (reroll1); original rejected: drawn as binoculars; near-duplicate of 017"
   },
   {
    "stable_id": "pack09_145_wing_shaped_officers_rank_brooch",
@@ -1703,6 +1728,16 @@
    "review_note": ""
   },
   {
+   "stable_id": "pack09_184_airship_master_engine_ignition_key",
+   "raw_flags": [],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": "owner-approved replacement (reroll1); original rejected: drawn as an airship; near-duplicate of 024"
+  },
+  {
    "stable_id": "pack09_185_sealed_captains_order_tube_with_wing_clasp",
    "raw_flags": [
     "margin<4"
@@ -1831,6 +1866,14 @@
    "fixes": [],
    "review": "accepted",
    "review_note": ""
+  },
+  {
+   "stable_id": "pack09_200_final_flight_log_sealed_by_a_brass_propeller",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": "owner-approved replacement (reroll1); original rejected: drawn as a small plane; near-duplicate of 048"
   }
  ]
 }

@@ -1,0 +1,46 @@
+{
+ "packs": [
+  {
+   "pack": "08_haunted_manor_ghost_investigation",
+   "title": "Haunted Manor & Ghost Investigation",
+   "icons": 200,
+   "zip": "08_haunted_manor_ghost_investigation/Haunted_Manor_Ghost_Investigation_200.zip",
+   "renamed": 21,
+   "replacements": 0,
+   "manual_free_fixes": 3,
+   "missing": []
+  },
+  {
+   "pack": "09_sky_pirates_floating_isles",
+   "title": "Sky Pirates & Floating Isles",
+   "icons": 200,
+   "zip": "09_sky_pirates_floating_isles/Sky_Pirates_Floating_Isles_200.zip",
+   "renamed": 28,
+   "replacements": 12,
+   "manual_free_fixes": 3,
+   "missing": []
+  },
+  {
+   "pack": "10_royal_court_arcane_library",
+   "title": "Royal Court & Arcane Library",
+   "icons": 200,
+   "zip": "10_royal_court_arcane_library/Royal_Court_Arcane_Library_200.zip",
+   "renamed": 15,
+   "replacements": 15,
+   "manual_free_fixes": 0,
+   "missing": []
+  }
+ ],
+ "spend": {
+  "planned_slots": 600,
+  "paid_attempts": 600,
+  "confirmed_charged": 600,
+  "held": 0,
+  "ambiguous": 0,
+  "owner_approved_replacements": 28,
+  "replacement_charged": 28,
+  "total_generations_charged": 628
+ },
+ "cross_pack_exact_duplicates": [],
+ "icons": 600
+}

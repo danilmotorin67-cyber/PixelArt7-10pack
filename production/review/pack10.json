@@ -20,16 +20,19 @@
   "drawn_as": "Leaf-edged botanical medallion"
  },
  "pack10_049_triptych_hinged_map_book_with_blue_panels": {
-  "decision": "problem",
-  "note": "closed navy-gold tome; near-duplicate of 045 (triptych construction missing)"
+  "decision": "accepted",
+  "source": "reroll",
+  "note": "owner-approved replacement (reroll1); original rejected: closed navy-gold tome; near-duplicate of 045 (triptych construction missing)"
  },
  "pack10_051_fan_folded_court_etiquette_booklet": {
-  "decision": "problem",
-  "note": "drawn as a hand fan; near-duplicate of 115"
+  "decision": "accepted",
+  "source": "reroll",
+  "note": "owner-approved replacement (reroll1); original rejected: drawn as a hand fan; near-duplicate of 115"
  },
  "pack10_053_pearl_inlaid_music_score_codex_without_text": {
-  "decision": "problem",
-  "note": "closed navy-gold tome; near-duplicate of 045"
+  "decision": "accepted",
+  "source": "reroll",
+  "note": "owner-approved replacement (reroll1); original rejected: closed navy-gold tome; near-duplicate of 045"
  },
  "pack10_058_braided_cord_bound_court_poetry_anthology": {
   "decision": "renamed",
@@ -37,16 +40,19 @@
   "drawn_as": "Braided-cord bound scroll case"
  },
  "pack10_068_locking_metal_deed_storage_box": {
-  "decision": "problem",
-  "note": "domed chest; near-duplicate of 065"
+  "decision": "accepted",
+  "source": "reroll",
+  "note": "owner-approved replacement (reroll1); original rejected: domed chest; near-duplicate of 065"
  },
  "pack10_080_cloth_lined_crown_jewel_record_casket": {
-  "decision": "problem",
-  "note": "drawn as a crown; near-duplicate of 020"
+  "decision": "accepted",
+  "source": "reroll",
+  "note": "owner-approved replacement (reroll1); original rejected: drawn as a crown; near-duplicate of 020"
  },
  "pack10_085_geared_mechanical_orrery_miniature": {
-  "decision": "problem",
-  "note": "armillary-like sphere; near-duplicate of 081"
+  "decision": "accepted",
+  "source": "reroll",
+  "note": "owner-approved replacement (reroll1); original rejected: armillary-like sphere; near-duplicate of 081"
  },
  "pack10_087_golden_sand_flow_study_timer": {
   "decision": "renamed",
@@ -54,8 +60,9 @@
   "drawn_as": "Gilded study timer cabinet"
  },
  "pack10_095_ivory_perspective_drawing_frame": {
-  "decision": "problem",
-  "note": "ornate gold-navy cube; near-duplicate of 087"
+  "decision": "accepted",
+  "source": "reroll",
+  "note": "owner-approved replacement (reroll1); original rejected: ornate gold-navy cube; near-duplicate of 087"
  },
  "pack10_098_folding_gold_angle_measuring_sector": {
   "decision": "renamed",
@@ -63,16 +70,19 @@
   "drawn_as": "Gold jeweled angle-measuring arc"
  },
  "pack10_099_library_light_intensity_lens_meter": {
-  "decision": "problem",
-  "note": "brass cylinder device; near-duplicate of 096"
+  "decision": "accepted",
+  "source": "reroll",
+  "note": "owner-approved replacement (reroll1); original rejected: brass cylinder device; near-duplicate of 096"
  },
  "pack10_108_silver_folded_napkin_holder_shaped_as_crown": {
-  "decision": "problem",
-  "note": "drawn as a crown; near-duplicate of 020/001"
+  "decision": "accepted",
+  "source": "reroll",
+  "note": "owner-approved replacement (reroll1); original rejected: drawn as a crown; near-duplicate of 020/001"
  },
  "pack10_127_silver_classroom_chime_on_walnut_stand": {
-  "decision": "problem",
-  "note": "silver bell; near-duplicate of 112"
+  "decision": "accepted",
+  "source": "reroll",
+  "note": "owner-approved replacement (reroll1); original rejected: silver bell; near-duplicate of 112"
  },
  "pack10_130_royal_academy_admission_token_with_open_book": {
   "decision": "renamed",
@@ -80,8 +90,9 @@
   "drawn_as": "Academy admission box with an open book"
  },
  "pack10_137_mechanical_teaching_balance_with_star_pans": {
-  "decision": "problem",
-  "note": "twin-pan scales; near-duplicate of 093"
+  "decision": "accepted",
+  "source": "reroll",
+  "note": "owner-approved replacement (reroll1); original rejected: twin-pan scales; near-duplicate of 093"
  },
  "pack10_139_folded_scholars_reading_shawl_with_blue_trim": {
   "decision": "renamed",
@@ -89,8 +100,9 @@
   "drawn_as": "Folded scholar's shawls with blue trim"
  },
  "pack10_145_gold_tasseled_appointment_document_tube": {
-  "decision": "problem",
-  "note": "document tube; near-duplicate of 064"
+  "decision": "accepted",
+  "source": "reroll",
+  "note": "owner-approved replacement (reroll2); original rejected: document tube; near-duplicate of 064"
  },
  "pack10_153_ribbon_threading_needle_for_royal_documents": {
   "decision": "renamed",
@@ -108,8 +120,9 @@
   "drawn_as": "Small locked diplomatic coffer"
  },
  "pack10_160_book_shaped_archive_permission_token": {
-  "decision": "problem",
-  "note": "closed navy-gold tome; near-duplicate of 045"
+  "decision": "accepted",
+  "source": "reroll",
+  "note": "owner-approved replacement (reroll1); original rejected: closed navy-gold tome; near-duplicate of 045"
  },
  "pack10_163_crystal_chess_king_with_ivory_crown": {
   "decision": "renamed",
@@ -117,12 +130,14 @@
   "drawn_as": "Crystal chess knight with ivory crown"
  },
  "pack10_178_miniature_crystal_crown_under_glass": {
-  "decision": "problem",
-  "note": "crown without the glass; near-duplicate of 020"
+  "decision": "accepted",
+  "source": "reroll",
+  "note": "owner-approved replacement (reroll1); original rejected: crown without the glass; near-duplicate of 020"
  },
  "pack10_185_sealed_forbidden_shelf_latch_with_sapphire_eye": {
-  "decision": "problem",
-  "note": "drawn as a domed chest; near-duplicate of 065"
+  "decision": "accepted",
+  "source": "reroll",
+  "note": "owner-approved replacement (reroll1); original rejected: drawn as a domed chest; near-duplicate of 065"
  },
  "pack10_199_sun_and_moon_page_clasp_pair_connected_by_chain": {
   "decision": "renamed",

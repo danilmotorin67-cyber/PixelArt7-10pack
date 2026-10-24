@@ -1,0 +1,1816 @@
+{
+ "meta": {
+  "image": "pack_64.png",
+  "size": {
+   "w": 1024,
+   "h": 1024
+  },
+  "cell": 68,
+  "padding": 2,
+  "columns": 14,
+  "sprite": 64,
+  "count": 200
+ },
+ "frames": {
+  "pack10_001_gold_crown_with_tall_sapphire_leaf_points": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "royal_insignia"
+  },
+  "pack10_002_ivory_handled_royal_scepter_with_sun_orb": {
+   "frame": {
+    "x": 70,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "royal_insignia"
+  },
+  "pack10_003_deep_red_velvet_coronation_mantle_folded": {
+   "frame": {
+    "x": 138,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "royal_insignia"
+  },
+  "pack10_004_enamel_heraldic_brooch_with_original_geometric_crest": {
+   "frame": {
+    "x": 206,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "royal_insignia"
+  },
+  "pack10_005_gold_ceremonial_chain_with_diamond_pendant": {
+   "frame": {
+    "x": 274,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "royal_insignia"
+  },
+  "pack10_006_purple_silk_royal_sash_with_fringed_end": {
+   "frame": {
+    "x": 342,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "royal_insignia"
+  },
+  "pack10_007_silver_seal_ring_with_star_shaped_face": {
+   "frame": {
+    "x": 410,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "royal_insignia"
+  },
+  "pack10_008_small_jeweled_ceremonial_orb_on_velvet_stand": {
+   "frame": {
+    "x": 478,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "royal_insignia"
+  },
+  "pack10_009_lapis_royal_hair_comb_with_pearl_drops": {
+   "frame": {
+    "x": 546,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "royal_insignia"
+  },
+  "pack10_010_gold_laurel_circlet_with_ruby_knot": {
+   "frame": {
+    "x": 614,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "royal_insignia"
+  },
+  "pack10_011_gilded_court_badge_shaped_as_open_book": {
+   "frame": {
+    "x": 682,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "royal_insignia"
+  },
+  "pack10_012_ivory_coronation_glove_pair_with_gold_cuffs": {
+   "frame": {
+    "x": 750,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "royal_insignia"
+  },
+  "pack10_013_royal_treasury_key_with_crown_shaped_bow": {
+   "frame": {
+    "x": 818,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "royal_insignia"
+  },
+  "pack10_014_blue_enamel_medal_on_silk_ribbon": {
+   "frame": {
+    "x": 886,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "royal_insignia"
+  },
+  "pack10_015_gold_staff_finial_shaped_as_a_stylized_lion": {
+   "frame": {
+    "x": 2,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "royal_insignia"
+  },
+  "pack10_016_pearl_embroidered_ceremonial_collar_folded": {
+   "frame": {
+    "x": 70,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "royal_insignia"
+  },
+  "pack10_017_royal_document_seal_matrix_in_silver_case": {
+   "frame": {
+    "x": 138,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "royal_insignia"
+  },
+  "pack10_018_gem_studded_belt_clasp_shaped_as_twin_leaves": {
+   "frame": {
+    "x": 206,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "royal_insignia"
+  },
+  "pack10_019_folded_navy_banner_with_original_sun_emblem": {
+   "frame": {
+    "x": 274,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "royal_insignia"
+  },
+  "pack10_020_crystal_crown_display_stand_with_gold_feet": {
+   "frame": {
+    "x": 342,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "royal_insignia"
+  },
+  "pack10_021_swan_feather_quill_with_gold_nib_guard": {
+   "frame": {
+    "x": 410,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "writing_tools"
+  },
+  "pack10_022_bronze_inkpot_shaped_as_curled_leaf": {
+   "frame": {
+    "x": 478,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "writing_tools"
+  },
+  "pack10_023_ivory_handled_parchment_scraping_knife": {
+   "frame": {
+    "x": 546,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "writing_tools"
+  },
+  "pack10_024_crystal_glass_dip_pen_with_spiral_tip": {
+   "frame": {
+    "x": 614,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "writing_tools"
+  },
+  "pack10_025_golden_sand_shaker_with_pierced_lid": {
+   "frame": {
+    "x": 682,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "writing_tools"
+  },
+  "pack10_026_silver_reed_pen_case_with_sliding_cap": {
+   "frame": {
+    "x": 750,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "writing_tools"
+  },
+  "pack10_027_wooden_ruling_board_with_ivory_edge": {
+   "frame": {
+    "x": 818,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "writing_tools"
+  },
+  "pack10_028_royal_scribes_wax_tablet_in_hinged_frame": {
+   "frame": {
+    "x": 886,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "writing_tools"
+  },
+  "pack10_029_small_porcelain_brush_washing_bowl": {
+   "frame": {
+    "x": 2,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "writing_tools"
+  },
+  "pack10_030_leather_pen_roll_holding_three_different_nibs": {
+   "frame": {
+    "x": 70,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "writing_tools"
+  },
+  "pack10_031_brass_nib_polishing_stone_holder": {
+   "frame": {
+    "x": 138,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "writing_tools"
+  },
+  "pack10_032_calligraphers_elbow_rest_in_velvet": {
+   "frame": {
+    "x": 206,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "writing_tools"
+  },
+  "pack10_033_gold_leaf_application_brush_in_tube": {
+   "frame": {
+    "x": 274,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "writing_tools"
+  },
+  "pack10_034_parchment_edge_trimming_wheel": {
+   "frame": {
+    "x": 342,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "writing_tools"
+  },
+  "pack10_035_folded_blotting_paper_fan_with_clasp": {
+   "frame": {
+    "x": 410,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "writing_tools"
+  },
+  "pack10_036_ceramic_ink_mixing_palette_with_three_wells": {
+   "frame": {
+    "x": 478,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "writing_tools"
+  },
+  "pack10_037_quill_cutting_pocket_knife_with_short_blade": {
+   "frame": {
+    "x": 546,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "writing_tools"
+  },
+  "pack10_038_pearl_handled_paper_piercing_awl": {
+   "frame": {
+    "x": 614,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "writing_tools"
+  },
+  "pack10_039_compact_royal_writing_slope_closed": {
+   "frame": {
+    "x": 682,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "writing_tools"
+  },
+  "pack10_040_spiral_metal_pen_rest_with_sapphire_inset": {
+   "frame": {
+    "x": 750,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "writing_tools"
+  },
+  "pack10_041_chain_bound_atlas_with_brass_corner_guards": {
+   "frame": {
+    "x": 818,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "book_designs"
+  },
+  "pack10_042_foldout_accordion_astronomy_codex": {
+   "frame": {
+    "x": 886,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "book_designs"
+  },
+  "pack10_043_round_rotating_wheel_book_of_seasons": {
+   "frame": {
+    "x": 2,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "book_designs"
+  },
+  "pack10_044_velvet_genealogy_tome_with_ivory_clasp": {
+   "frame": {
+    "x": 70,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "book_designs"
+  },
+  "pack10_045_crystal_covered_book_showing_abstract_star_dots": {
+   "frame": {
+    "x": 138,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "book_designs"
+  },
+  "pack10_046_leaf_edged_botanical_folio_with_pressed_insert": {
+   "frame": {
+    "x": 206,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "book_designs"
+  },
+  "pack10_047_giant_miniature_royal_law_tome_on_pedestal": {
+   "frame": {
+    "x": 274,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "book_designs"
+  },
+  "pack10_048_narrow_leather_pocket_bestiary_with_scale_clasp": {
+   "frame": {
+    "x": 342,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "book_designs"
+  },
+  "pack10_049_triptych_hinged_map_book_with_blue_panels": {
+   "frame": {
+    "x": 410,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "book_designs"
+  },
+  "pack10_050_scroll_bound_between_two_gold_batons": {
+   "frame": {
+    "x": 478,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "book_designs"
+  },
+  "pack10_051_fan_folded_court_etiquette_booklet": {
+   "frame": {
+    "x": 546,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "book_designs"
+  },
+  "pack10_052_wooden_cover_book_with_interlocking_puzzle_latch": {
+   "frame": {
+    "x": 614,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "book_designs"
+  },
+  "pack10_053_pearl_inlaid_music_score_codex_without_text": {
+   "frame": {
+    "x": 682,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "book_designs"
+  },
+  "pack10_054_open_illuminated_manuscript_with_abstract_ornament": {
+   "frame": {
+    "x": 750,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "book_designs"
+  },
+  "pack10_055_black_lacquer_diplomatic_ledger_with_ribbon_tabs": {
+   "frame": {
+    "x": 818,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "book_designs"
+  },
+  "pack10_056_glass_page_memory_book_in_silver_spine": {
+   "frame": {
+    "x": 886,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "book_designs"
+  },
+  "pack10_057_book_shaped_mechanical_calendar_with_blank_discs": {
+   "frame": {
+    "x": 2,
+    "y": 274,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "book_designs"
+  },
+  "pack10_058_braided_cord_bound_court_poetry_anthology": {
+   "frame": {
+    "x": 70,
+    "y": 274,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "book_designs"
+  },
+  "pack10_059_metal_plated_royal_treasury_inventory_book": {
+   "frame": {
+    "x": 138,
+    "y": 274,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "book_designs"
+  },
+  "pack10_060_tiny_nested_book_box_with_a_hidden_compartment": {
+   "frame": {
+    "x": 206,
+    "y": 274,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "book_designs"
+  },
+  "pack10_061_hexagonal_scroll_pigeonhole_cabinet_miniature": {
+   "frame": {
+    "x": 274,
+    "y": 274,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "archive_storage"
+  },
+  "pack10_062_gilded_leather_document_folio_with_straps": {
+   "frame": {
+    "x": 342,
+    "y": 274,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "archive_storage"
+  },
+  "pack10_063_transparent_crystal_manuscript_display_case": {
+   "frame": {
+    "x": 410,
+    "y": 274,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "archive_storage"
+  },
+  "pack10_064_long_royal_charter_tube_with_seal_cradle": {
+   "frame": {
+    "x": 478,
+    "y": 274,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "archive_storage"
+  },
+  "pack10_065_velvet_padded_rare_book_transport_chest": {
+   "frame": {
+    "x": 546,
+    "y": 274,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "archive_storage"
+  },
+  "pack10_066_wooden_archival_drawer_with_brass_pull": {
+   "frame": {
+    "x": 614,
+    "y": 274,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "archive_storage"
+  },
+  "pack10_067_fan_shaped_parchment_sorting_rack": {
+   "frame": {
+    "x": 682,
+    "y": 274,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "archive_storage"
+  },
+  "pack10_068_locking_metal_deed_storage_box": {
+   "frame": {
+    "x": 750,
+    "y": 274,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "archive_storage"
+  },
+  "pack10_069_woven_silk_manuscript_dust_cover_folded": {
+   "frame": {
+    "x": 818,
+    "y": 274,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "archive_storage"
+  },
+  "pack10_070_stone_tablet_carrying_frame_with_leather_handles": {
+   "frame": {
+    "x": 886,
+    "y": 274,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "archive_storage"
+  },
+  "pack10_071_brass_bookmark_catalog_card_carousel": {
+   "frame": {
+    "x": 2,
+    "y": 342,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "archive_storage"
+  },
+  "pack10_072_book_spine_support_cradle_in_carved_walnut": {
+   "frame": {
+    "x": 70,
+    "y": 342,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "archive_storage"
+  },
+  "pack10_073_hanging_royal_banner_storage_cylinder": {
+   "frame": {
+    "x": 138,
+    "y": 342,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "archive_storage"
+  },
+  "pack10_074_silver_archival_clip_with_leaf_jaws": {
+   "frame": {
+    "x": 206,
+    "y": 342,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "archive_storage"
+  },
+  "pack10_075_sealed_humidity_control_cedar_capsule": {
+   "frame": {
+    "x": 274,
+    "y": 342,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "archive_storage"
+  },
+  "pack10_076_stackable_parchment_document_tray": {
+   "frame": {
+    "x": 342,
+    "y": 342,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "archive_storage"
+  },
+  "pack10_077_small_ladder_shaped_desktop_book_display": {
+   "frame": {
+    "x": 410,
+    "y": 342,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "archive_storage"
+  },
+  "pack10_078_circular_rotating_seal_stamp_organizer": {
+   "frame": {
+    "x": 478,
+    "y": 342,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "archive_storage"
+  },
+  "pack10_079_royal_map_storage_drum_with_side_crank": {
+   "frame": {
+    "x": 546,
+    "y": 342,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "archive_storage"
+  },
+  "pack10_080_cloth_lined_crown_jewel_record_casket": {
+   "frame": {
+    "x": 614,
+    "y": 342,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "archive_storage"
+  },
+  "pack10_081_gold_armillary_sphere_with_lapis_base": {
+   "frame": {
+    "x": 682,
+    "y": 342,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "knowledge_instruments"
+  },
+  "pack10_082_crystal_reading_lens_on_articulated_stand": {
+   "frame": {
+    "x": 750,
+    "y": 342,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "knowledge_instruments"
+  },
+  "pack10_083_ivory_celestial_globe_with_star_pinpoints": {
+   "frame": {
+    "x": 818,
+    "y": 342,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "knowledge_instruments"
+  },
+  "pack10_084_brass_library_humidity_balance_instrument": {
+   "frame": {
+    "x": 886,
+    "y": 342,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "knowledge_instruments"
+  },
+  "pack10_085_geared_mechanical_orrery_miniature": {
+   "frame": {
+    "x": 2,
+    "y": 410,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "knowledge_instruments"
+  },
+  "pack10_086_silver_optical_prism_comparison_stand": {
+   "frame": {
+    "x": 70,
+    "y": 410,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "knowledge_instruments"
+  },
+  "pack10_087_golden_sand_flow_study_timer": {
+   "frame": {
+    "x": 138,
+    "y": 410,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "knowledge_instruments"
+  },
+  "pack10_088_geometric_solids_study_set_in_velvet_tray": {
+   "frame": {
+    "x": 206,
+    "y": 410,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "knowledge_instruments"
+  },
+  "pack10_089_court_astronomers_quadrant_with_sapphire_sight": {
+   "frame": {
+    "x": 274,
+    "y": 410,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "knowledge_instruments"
+  },
+  "pack10_090_handheld_crystal_spectrum_fan": {
+   "frame": {
+    "x": 342,
+    "y": 410,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "knowledge_instruments"
+  },
+  "pack10_091_bronze_sound_resonance_tuning_disk": {
+   "frame": {
+    "x": 410,
+    "y": 410,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "knowledge_instruments"
+  },
+  "pack10_092_mechanical_arithmetic_wheel_with_blank_sectors": {
+   "frame": {
+    "x": 478,
+    "y": 410,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "knowledge_instruments"
+  },
+  "pack10_093_paired_balance_beams_for_measuring_tiny_objects": {
+   "frame": {
+    "x": 546,
+    "y": 410,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "knowledge_instruments"
+  },
+  "pack10_094_magnifying_crystal_book_page_weight": {
+   "frame": {
+    "x": 614,
+    "y": 410,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "knowledge_instruments"
+  },
+  "pack10_095_ivory_perspective_drawing_frame": {
+   "frame": {
+    "x": 682,
+    "y": 410,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "knowledge_instruments"
+  },
+  "pack10_096_small_brass_camera_obscura_chamber": {
+   "frame": {
+    "x": 750,
+    "y": 410,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "knowledge_instruments"
+  },
+  "pack10_097_porcelain_sphere_holding_a_magnetic_needle": {
+   "frame": {
+    "x": 818,
+    "y": 410,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "knowledge_instruments"
+  },
+  "pack10_098_folding_gold_angle_measuring_sector": {
+   "frame": {
+    "x": 886,
+    "y": 410,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "knowledge_instruments"
+  },
+  "pack10_099_library_light_intensity_lens_meter": {
+   "frame": {
+    "x": 2,
+    "y": 478,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "knowledge_instruments"
+  },
+  "pack10_100_crystal_fractal_specimen_in_a_gold_gimbal": {
+   "frame": {
+    "x": 70,
+    "y": 478,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "knowledge_instruments"
+  },
+  "pack10_101_gold_footed_royal_drinking_chalice": {
+   "frame": {
+    "x": 138,
+    "y": 478,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "court_tableware"
+  },
+  "pack10_102_silver_covered_serving_dish_with_acorn_handle": {
+   "frame": {
+    "x": 206,
+    "y": 478,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "court_tableware"
+  },
+  "pack10_103_blue_porcelain_court_tea_service_for_one": {
+   "frame": {
+    "x": 274,
+    "y": 478,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "court_tableware"
+  },
+  "pack10_104_crystal_fruit_bowl_on_gilded_claws": {
+   "frame": {
+    "x": 342,
+    "y": 478,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "court_tableware"
+  },
+  "pack10_105_ivory_handled_ceremonial_cake_server": {
+   "frame": {
+    "x": 410,
+    "y": 478,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "court_tableware"
+  },
+  "pack10_106_enamel_wine_ewer_with_pearl_neck": {
+   "frame": {
+    "x": 478,
+    "y": 478,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "court_tableware"
+  },
+  "pack10_107_gold_lattice_salt_cellar_with_sapphire_lid": {
+   "frame": {
+    "x": 546,
+    "y": 478,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "court_tableware"
+  },
+  "pack10_108_silver_folded_napkin_holder_shaped_as_crown": {
+   "frame": {
+    "x": 614,
+    "y": 478,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "court_tableware"
+  },
+  "pack10_109_navy_velvet_ceremonial_cushion_with_tassels": {
+   "frame": {
+    "x": 682,
+    "y": 478,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "court_tableware"
+  },
+  "pack10_110_crystal_honey_pot_with_gold_dipping_wand": {
+   "frame": {
+    "x": 750,
+    "y": 478,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "court_tableware"
+  },
+  "pack10_111_small_rose_patterned_porcelain_soup_tureen": {
+   "frame": {
+    "x": 818,
+    "y": 478,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "court_tableware"
+  },
+  "pack10_112_silver_court_herald_hand_bell": {
+   "frame": {
+    "x": 886,
+    "y": 478,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "court_tableware"
+  },
+  "pack10_113_twin_candle_royal_table_centerpiece": {
+   "frame": {
+    "x": 2,
+    "y": 546,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "court_tableware"
+  },
+  "pack10_114_gold_rimmed_carved_agate_dessert_plate": {
+   "frame": {
+    "x": 70,
+    "y": 546,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "court_tableware"
+  },
+  "pack10_115_pearl_inlaid_folding_ceremonial_fan": {
+   "frame": {
+    "x": 138,
+    "y": 546,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "court_tableware"
+  },
+  "pack10_116_gilded_glass_ceremonial_hour_vessel": {
+   "frame": {
+    "x": 206,
+    "y": 546,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "court_tableware"
+  },
+  "pack10_117_velvet_lined_silver_presentation_tray": {
+   "frame": {
+    "x": 274,
+    "y": 546,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "court_tableware"
+  },
+  "pack10_118_gold_footed_engraved_rosewater_bowl": {
+   "frame": {
+    "x": 342,
+    "y": 546,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "court_tableware"
+  },
+  "pack10_119_crystal_decanter_with_crown_shaped_stopper": {
+   "frame": {
+    "x": 410,
+    "y": 546,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "court_tableware"
+  },
+  "pack10_120_folded_embroidered_royal_table_runner": {
+   "frame": {
+    "x": 478,
+    "y": 546,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "court_tableware"
+  },
+  "pack10_121_ivory_lecture_pointer_with_star_tip": {
+   "frame": {
+    "x": 546,
+    "y": 546,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "academy_tools"
+  },
+  "pack10_122_gold_rimmed_teaching_slate_with_blank_grid": {
+   "frame": {
+    "x": 614,
+    "y": 546,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "academy_tools"
+  },
+  "pack10_123_mechanical_demonstration_sun_wheel": {
+   "frame": {
+    "x": 682,
+    "y": 546,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "academy_tools"
+  },
+  "pack10_124_brass_specimen_pinning_frame_without_specimen": {
+   "frame": {
+    "x": 750,
+    "y": 546,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "academy_tools"
+  },
+  "pack10_125_crystal_geometric_puzzle_cube_in_holder": {
+   "frame": {
+    "x": 818,
+    "y": 546,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "academy_tools"
+  },
+  "pack10_126_blue_velvet_academic_cap_folded": {
+   "frame": {
+    "x": 886,
+    "y": 546,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "academy_tools"
+  },
+  "pack10_127_silver_classroom_chime_on_walnut_stand": {
+   "frame": {
+    "x": 2,
+    "y": 614,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "academy_tools"
+  },
+  "pack10_128_foldable_lecture_note_holding_easel": {
+   "frame": {
+    "x": 70,
+    "y": 614,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "academy_tools"
+  },
+  "pack10_129_porcelain_pigment_mixing_mortar_with_gold_rim": {
+   "frame": {
+    "x": 138,
+    "y": 614,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "academy_tools"
+  },
+  "pack10_130_royal_academy_admission_token_with_open_book": {
+   "frame": {
+    "x": 206,
+    "y": 614,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "academy_tools"
+  },
+  "pack10_131_wooden_anatomical_articulation_model_hand": {
+   "frame": {
+    "x": 274,
+    "y": 614,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "academy_tools"
+  },
+  "pack10_132_brass_lens_cleaning_brush_in_capped_tube": {
+   "frame": {
+    "x": 342,
+    "y": 614,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "academy_tools"
+  },
+  "pack10_133_silk_sample_of_woven_mathematical_knot": {
+   "frame": {
+    "x": 410,
+    "y": 614,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "academy_tools"
+  },
+  "pack10_134_gold_capped_library_silence_reminder_bell": {
+   "frame": {
+    "x": 478,
+    "y": 614,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "academy_tools"
+  },
+  "pack10_135_crystal_light_refraction_pyramid": {
+   "frame": {
+    "x": 546,
+    "y": 614,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "academy_tools"
+  },
+  "pack10_136_miniature_royal_academy_observatory_dome_model": {
+   "frame": {
+    "x": 614,
+    "y": 614,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "academy_tools"
+  },
+  "pack10_137_mechanical_teaching_balance_with_star_pans": {
+   "frame": {
+    "x": 682,
+    "y": 614,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "academy_tools"
+  },
+  "pack10_138_ivory_book_page_turning_finger_tool": {
+   "frame": {
+    "x": 750,
+    "y": 614,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "academy_tools"
+  },
+  "pack10_139_folded_scholars_reading_shawl_with_blue_trim": {
+   "frame": {
+    "x": 818,
+    "y": 614,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "academy_tools"
+  },
+  "pack10_140_silver_geometric_stencil_set_on_ring": {
+   "frame": {
+    "x": 886,
+    "y": 614,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "academy_tools"
+  },
+  "pack10_141_crimson_wax_royal_seal_on_folded_parchment": {
+   "frame": {
+    "x": 2,
+    "y": 682,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "seals_documents"
+  },
+  "pack10_142_silver_handled_diplomatic_seal_stamp": {
+   "frame": {
+    "x": 70,
+    "y": 682,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "seals_documents"
+  },
+  "pack10_143_blue_ribbon_treaty_scroll_with_twin_cases": {
+   "frame": {
+    "x": 138,
+    "y": 682,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "seals_documents"
+  },
+  "pack10_144_ivory_witness_seal_cylinder_with_star_pattern": {
+   "frame": {
+    "x": 206,
+    "y": 682,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "seals_documents"
+  },
+  "pack10_145_gold_tasseled_appointment_document_tube": {
+   "frame": {
+    "x": 274,
+    "y": 682,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "seals_documents"
+  },
+  "pack10_146_folded_navy_envelope_with_pearl_clasp": {
+   "frame": {
+    "x": 342,
+    "y": 682,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "seals_documents"
+  },
+  "pack10_147_royal_warrant_plaque_with_abstract_raised_marks": {
+   "frame": {
+    "x": 410,
+    "y": 682,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "seals_documents"
+  },
+  "pack10_148_velvet_pouch_containing_three_different_seal_tokens": {
+   "frame": {
+    "x": 478,
+    "y": 682,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "seals_documents"
+  },
+  "pack10_149_gilded_blank_certificate_frame_miniature": {
+   "frame": {
+    "x": 546,
+    "y": 682,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "seals_documents"
+  },
+  "pack10_150_wax_bead_melting_spoon_with_long_handle": {
+   "frame": {
+    "x": 614,
+    "y": 682,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "seals_documents"
+  },
+  "pack10_151_two_color_wax_stick_bundle_with_ivory_tie": {
+   "frame": {
+    "x": 682,
+    "y": 682,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "seals_documents"
+  },
+  "pack10_152_brass_seal_cooling_plate_with_carved_rim": {
+   "frame": {
+    "x": 750,
+    "y": 682,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "seals_documents"
+  },
+  "pack10_153_ribbon_threading_needle_for_royal_documents": {
+   "frame": {
+    "x": 818,
+    "y": 682,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "seals_documents"
+  },
+  "pack10_154_embossed_parchment_invitation_with_sunburst_edge": {
+   "frame": {
+    "x": 886,
+    "y": 682,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "seals_documents"
+  },
+  "pack10_155_golden_notary_clasp_joining_two_sheets": {
+   "frame": {
+    "x": 2,
+    "y": 750,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "seals_documents"
+  },
+  "pack10_156_small_locked_diplomatic_dispatch_cylinder": {
+   "frame": {
+    "x": 70,
+    "y": 750,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "seals_documents"
+  },
+  "pack10_157_crystal_authenticity_lens_in_silver_ring": {
+   "frame": {
+    "x": 138,
+    "y": 750,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "seals_documents"
+  },
+  "pack10_158_silver_paper_corner_binding_clip": {
+   "frame": {
+    "x": 206,
+    "y": 750,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "seals_documents"
+  },
+  "pack10_159_rolled_royal_decree_with_ceremonial_baton": {
+   "frame": {
+    "x": 274,
+    "y": 750,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "seals_documents"
+  },
+  "pack10_160_book_shaped_archive_permission_token": {
+   "frame": {
+    "x": 342,
+    "y": 750,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "seals_documents"
+  },
+  "pack10_161_carved_jade_lion_miniature_on_gold_base": {
+   "frame": {
+    "x": 410,
+    "y": 750,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "court_collections"
+  },
+  "pack10_162_enamel_mechanical_peacock_ornament": {
+   "frame": {
+    "x": 478,
+    "y": 750,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "court_collections"
+  },
+  "pack10_163_crystal_chess_king_with_ivory_crown": {
+   "frame": {
+    "x": 546,
+    "y": 750,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "court_collections"
+  },
+  "pack10_164_gold_framed_miniature_landscape_with_abstract_shapes": {
+   "frame": {
+    "x": 614,
+    "y": 750,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "court_collections"
+  },
+  "pack10_165_pearl_celestial_sphere_keepsake": {
+   "frame": {
+    "x": 682,
+    "y": 750,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "court_collections"
+  },
+  "pack10_166_lapis_carved_royal_garden_fountain_model": {
+   "frame": {
+    "x": 750,
+    "y": 750,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "court_collections"
+  },
+  "pack10_167_silver_articulated_dragonfly_brooch_on_stand": {
+   "frame": {
+    "x": 818,
+    "y": 750,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "court_collections"
+  },
+  "pack10_168_ivory_labyrinth_puzzle_ball_in_cradle": {
+   "frame": {
+    "x": 886,
+    "y": 750,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "court_collections"
+  },
+  "pack10_169_gilt_framed_pressed_golden_leaf_specimen": {
+   "frame": {
+    "x": 2,
+    "y": 818,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "court_collections"
+  },
+  "pack10_170_crystal_rose_inside_a_silver_display_dome": {
+   "frame": {
+    "x": 70,
+    "y": 818,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "court_collections"
+  },
+  "pack10_171_tiny_jeweled_court_carriage_model": {
+   "frame": {
+    "x": 138,
+    "y": 818,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "court_collections"
+  },
+  "pack10_172_bronze_miniature_royal_theater_mask": {
+   "frame": {
+    "x": 206,
+    "y": 818,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "court_collections"
+  },
+  "pack10_173_agate_cameo_medallion_with_generic_profile": {
+   "frame": {
+    "x": 274,
+    "y": 818,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "court_collections"
+  },
+  "pack10_174_porcelain_songbird_on_gilded_branch": {
+   "frame": {
+    "x": 342,
+    "y": 818,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "court_collections"
+  },
+  "pack10_175_gold_leaf_model_of_an_ancient_observatory": {
+   "frame": {
+    "x": 410,
+    "y": 818,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "court_collections"
+  },
+  "pack10_176_silver_shell_shaped_music_casket": {
+   "frame": {
+    "x": 478,
+    "y": 818,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "court_collections"
+  },
+  "pack10_177_enamel_heraldic_board_game_piece_tray": {
+   "frame": {
+    "x": 546,
+    "y": 818,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "court_collections"
+  },
+  "pack10_178_miniature_crystal_crown_under_glass": {
+   "frame": {
+    "x": 614,
+    "y": 818,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "court_collections"
+  },
+  "pack10_179_carved_walnut_astrolabe_shaped_keepsake_box": {
+   "frame": {
+    "x": 682,
+    "y": 818,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "court_collections"
+  },
+  "pack10_180_pearl_inlaid_mechanical_flower_ornament": {
+   "frame": {
+    "x": 750,
+    "y": 818,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "court_collections"
+  },
+  "pack10_181_floating_silver_page_held_by_two_gold_clasps": {
+   "frame": {
+    "x": 818,
+    "y": 818,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "arcane_quest"
+  },
+  "pack10_182_library_master_key_shaped_as_open_wings": {
+   "frame": {
+    "x": 886,
+    "y": 818,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "arcane_quest"
+  },
+  "pack10_183_crystal_bookmark_projecting_tiny_star_sparks": {
+   "frame": {
+    "x": 2,
+    "y": 886,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "arcane_quest"
+  },
+  "pack10_184_royal_pact_ring_enclosing_a_glowing_letterless_scroll": {
+   "frame": {
+    "x": 70,
+    "y": 886,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "arcane_quest"
+  },
+  "pack10_185_sealed_forbidden_shelf_latch_with_sapphire_eye": {
+   "frame": {
+    "x": 138,
+    "y": 886,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "arcane_quest"
+  },
+  "pack10_186_book_spine_containing_a_miniature_turning_galaxy": {
+   "frame": {
+    "x": 206,
+    "y": 886,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "arcane_quest"
+  },
+  "pack10_187_golden_index_wheel_with_one_missing_leaf": {
+   "frame": {
+    "x": 274,
+    "y": 886,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "arcane_quest"
+  },
+  "pack10_188_ivory_truth_mirror_shaped_as_an_open_book": {
+   "frame": {
+    "x": 342,
+    "y": 886,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "arcane_quest"
+  },
+  "pack10_189_inkless_quill_suspended_over_a_crystal_tablet": {
+   "frame": {
+    "x": 410,
+    "y": 886,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "arcane_quest"
+  },
+  "pack10_190_lost_royal_storybook_with_a_golden_door_cover": {
+   "frame": {
+    "x": 478,
+    "y": 886,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "arcane_quest"
+  },
+  "pack10_191_moon_dial_library_vault_activation_disc": {
+   "frame": {
+    "x": 546,
+    "y": 886,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "arcane_quest"
+  },
+  "pack10_192_silver_reader_mask_with_translucent_crystal_lenses": {
+   "frame": {
+    "x": 614,
+    "y": 886,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "arcane_quest"
+  },
+  "pack10_193_living_ribbon_bookmark_coiled_around_a_pearl": {
+   "frame": {
+    "x": 682,
+    "y": 886,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "arcane_quest"
+  },
+  "pack10_194_keyless_book_lock_formed_by_interwoven_gold_roots": {
+   "frame": {
+    "x": 750,
+    "y": 886,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "arcane_quest"
+  },
+  "pack10_195_crystalline_royal_memory_shard_in_velvet_frame": {
+   "frame": {
+    "x": 818,
+    "y": 886,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "arcane_quest"
+  },
+  "pack10_196_ancient_archive_bell_with_a_silent_blue_flame": {
+   "frame": {
+    "x": 886,
+    "y": 886,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "arcane_quest"
+  },
+  "pack10_197_two_joined_treaty_seals_suspended_in_crystal": {
+   "frame": {
+    "x": 2,
+    "y": 954,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "arcane_quest"
+  },
+  "pack10_198_library_guardian_mechanical_owl_key_component": {
+   "frame": {
+    "x": 70,
+    "y": 954,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "arcane_quest"
+  },
+  "pack10_199_sun_and_moon_page_clasp_pair_connected_by_chain": {
+   "frame": {
+    "x": 138,
+    "y": 954,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "arcane_quest"
+  },
+  "pack10_200_crown_shaped_folio_holding_a_floating_blank_page": {
+   "frame": {
+    "x": 206,
+    "y": 954,
+    "w": 64,
+    "h": 64
+   },
+   "category_id": "arcane_quest"
+  }
+ }
+}

@@ -131,7 +131,7 @@
     "h": 64
    }
   },
-  "pack09_097_sealed_floating_island_soil_sample_pot": {
+  "pack09_096_windproof_treasure_satchel_with_double_buckles": {
    "frame": {
     "x": 2,
     "y": 206,
@@ -139,9 +139,33 @@
     "h": 64
    }
   },
-  "pack09_099_merchant_weighing_pan_with_feather_counterweight": {
+  "pack09_097_sealed_floating_island_soil_sample_pot": {
    "frame": {
     "x": 70,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack09_098_padded_bird_egg_shaped_navigation_cargo_pod": {
+   "frame": {
+    "x": 138,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack09_099_merchant_weighing_pan_with_feather_counterweight": {
+   "frame": {
+    "x": 206,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack09_100_airship_freight_seal_made_of_blue_wax": {
+   "frame": {
+    "x": 274,
     "y": 206,
     "w": 64,
     "h": 64

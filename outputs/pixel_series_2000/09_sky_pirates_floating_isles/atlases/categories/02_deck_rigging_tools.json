@@ -115,7 +115,7 @@
     "h": 64
    }
   },
-  "pack09_035_bronze_pulley_axle_removal_punch": {
+  "pack09_034_small_airship_hull_tapping_hammer": {
    "frame": {
     "x": 206,
     "y": 138,
@@ -123,7 +123,7 @@
     "h": 64
    }
   },
-  "pack09_036_telescoping_mast_inspection_mirror": {
+  "pack09_035_bronze_pulley_axle_removal_punch": {
    "frame": {
     "x": 274,
     "y": 138,
@@ -131,7 +131,7 @@
     "h": 64
    }
   },
-  "pack09_037_balloon_envelope_patching_brush": {
+  "pack09_036_telescoping_mast_inspection_mirror": {
    "frame": {
     "x": 2,
     "y": 206,
@@ -139,7 +139,7 @@
     "h": 64
    }
   },
-  "pack09_038_split_brass_cable_joining_ferrule_press": {
+  "pack09_037_balloon_envelope_patching_brush": {
    "frame": {
     "x": 70,
     "y": 206,
@@ -147,7 +147,7 @@
     "h": 64
    }
   },
-  "pack09_039_hooked_propeller_cleaning_scraper": {
+  "pack09_038_split_brass_cable_joining_ferrule_press": {
    "frame": {
     "x": 138,
     "y": 206,
@@ -155,9 +155,17 @@
     "h": 64
    }
   },
-  "pack09_040_portable_deck_work_vise_with_wing_nut": {
+  "pack09_039_hooked_propeller_cleaning_scraper": {
    "frame": {
     "x": 206,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack09_040_portable_deck_work_vise_with_wing_nut": {
+   "frame": {
+    "x": 274,
     "y": 206,
     "w": 64,
     "h": 64

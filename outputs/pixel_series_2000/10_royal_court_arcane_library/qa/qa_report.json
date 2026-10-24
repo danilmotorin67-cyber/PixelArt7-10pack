@@ -1,0 +1,1947 @@
+{
+ "accepted": 200,
+ "planned": 200,
+ "missing": [],
+ "exact_duplicates": [],
+ "exports_pixel_exact": true,
+ "atlas_regions_exact": true,
+ "per_asset": [
+  {
+   "stable_id": "pack10_001_gold_crown_with_tall_sapphire_leaf_points",
+   "raw_flags": [
+    "margin<4",
+    "colors>48"
+   ],
+   "final_flags": [
+    "margin<4",
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_002_ivory_handled_royal_scepter_with_sun_orb",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_003_deep_red_velvet_coronation_mantle_folded",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_004_enamel_heraldic_brooch_with_original_geometric_crest",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_005_gold_ceremonial_chain_with_diamond_pendant",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_006_purple_silk_royal_sash_with_fringed_end",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_007_silver_seal_ring_with_star_shaped_face",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_008_small_jeweled_ceremonial_orb_on_velvet_stand",
+   "raw_flags": [
+    "margin<4"
+   ],
+   "final_flags": [
+    "margin<4"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_009_lapis_royal_hair_comb_with_pearl_drops",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_010_gold_laurel_circlet_with_ruby_knot",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_011_gilded_court_badge_shaped_as_open_book",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_012_ivory_coronation_glove_pair_with_gold_cuffs",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_013_royal_treasury_key_with_crown_shaped_bow",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_014_blue_enamel_medal_on_silk_ribbon",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_015_gold_staff_finial_shaped_as_a_stylized_lion",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_016_pearl_embroidered_ceremonial_collar_folded",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_017_royal_document_seal_matrix_in_silver_case",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_018_gem_studded_belt_clasp_shaped_as_twin_leaves",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_019_folded_navy_banner_with_original_sun_emblem",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_020_crystal_crown_display_stand_with_gold_feet",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "renamed",
+   "review_note": "crown instead of a display stand; distinct shape from 001"
+  },
+  {
+   "stable_id": "pack10_021_swan_feather_quill_with_gold_nib_guard",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_022_bronze_inkpot_shaped_as_curled_leaf",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "renamed",
+   "review_note": "jug rather than an inkpot"
+  },
+  {
+   "stable_id": "pack10_023_ivory_handled_parchment_scraping_knife",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_024_crystal_glass_dip_pen_with_spiral_tip",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_025_golden_sand_shaker_with_pierced_lid",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_026_silver_reed_pen_case_with_sliding_cap",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_027_wooden_ruling_board_with_ivory_edge",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_028_royal_scribes_wax_tablet_in_hinged_frame",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_029_small_porcelain_brush_washing_bowl",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_030_leather_pen_roll_holding_three_different_nibs",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_031_brass_nib_polishing_stone_holder",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_032_calligraphers_elbow_rest_in_velvet",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_033_gold_leaf_application_brush_in_tube",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_034_parchment_edge_trimming_wheel",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_035_folded_blotting_paper_fan_with_clasp",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_036_ceramic_ink_mixing_palette_with_three_wells",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_037_quill_cutting_pocket_knife_with_short_blade",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_038_pearl_handled_paper_piercing_awl",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_039_compact_royal_writing_slope_closed",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_040_spiral_metal_pen_rest_with_sapphire_inset",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_041_chain_bound_atlas_with_brass_corner_guards",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_042_foldout_accordion_astronomy_codex",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_043_round_rotating_wheel_book_of_seasons",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "renamed",
+   "review_note": "wheel without book body"
+  },
+  {
+   "stable_id": "pack10_044_velvet_genealogy_tome_with_ivory_clasp",
+   "raw_flags": [
+    "margin<4"
+   ],
+   "final_flags": [
+    "margin<4"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_045_crystal_covered_book_showing_abstract_star_dots",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_046_leaf_edged_botanical_folio_with_pressed_insert",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "renamed",
+   "review_note": "medallion rather than a folio"
+  },
+  {
+   "stable_id": "pack10_047_giant_miniature_royal_law_tome_on_pedestal",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_048_narrow_leather_pocket_bestiary_with_scale_clasp",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_049_triptych_hinged_map_book_with_blue_panels",
+   "raw_flags": [],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": "owner-approved replacement (reroll1); original rejected: closed navy-gold tome; near-duplicate of 045 (triptych construction missing)"
+  },
+  {
+   "stable_id": "pack10_050_scroll_bound_between_two_gold_batons",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_051_fan_folded_court_etiquette_booklet",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": "owner-approved replacement (reroll1); original rejected: drawn as a hand fan; near-duplicate of 115"
+  },
+  {
+   "stable_id": "pack10_052_wooden_cover_book_with_interlocking_puzzle_latch",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_053_pearl_inlaid_music_score_codex_without_text",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [
+    "object shifted by (0,1) to balance margins"
+   ],
+   "review": "accepted",
+   "review_note": "owner-approved replacement (reroll1); original rejected: closed navy-gold tome; near-duplicate of 045"
+  },
+  {
+   "stable_id": "pack10_054_open_illuminated_manuscript_with_abstract_ornament",
+   "raw_flags": [
+    "margin<4",
+    "colors>48"
+   ],
+   "final_flags": [
+    "margin<4",
+    "colors>48"
+   ],
+   "fixes": [
+    "object shifted by (-1,0) to balance margins"
+   ],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_055_black_lacquer_diplomatic_ledger_with_ribbon_tabs",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_056_glass_page_memory_book_in_silver_spine",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_057_book_shaped_mechanical_calendar_with_blank_discs",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_058_braided_cord_bound_court_poetry_anthology",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "renamed",
+   "review_note": "cylinder case rather than a book"
+  },
+  {
+   "stable_id": "pack10_059_metal_plated_royal_treasury_inventory_book",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_060_tiny_nested_book_box_with_a_hidden_compartment",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_061_hexagonal_scroll_pigeonhole_cabinet_miniature",
+   "raw_flags": [
+    "margin<4"
+   ],
+   "final_flags": [
+    "margin<4"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_062_gilded_leather_document_folio_with_straps",
+   "raw_flags": [
+    "margin<4"
+   ],
+   "final_flags": [
+    "margin<4"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_063_transparent_crystal_manuscript_display_case",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_064_long_royal_charter_tube_with_seal_cradle",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_065_velvet_padded_rare_book_transport_chest",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_066_wooden_archival_drawer_with_brass_pull",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_067_fan_shaped_parchment_sorting_rack",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_068_locking_metal_deed_storage_box",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": "owner-approved replacement (reroll1); original rejected: domed chest; near-duplicate of 065"
+  },
+  {
+   "stable_id": "pack10_069_woven_silk_manuscript_dust_cover_folded",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_070_stone_tablet_carrying_frame_with_leather_handles",
+   "raw_flags": [
+    "margin<4"
+   ],
+   "final_flags": [
+    "margin<4"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_071_brass_bookmark_catalog_card_carousel",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_072_book_spine_support_cradle_in_carved_walnut",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_073_hanging_royal_banner_storage_cylinder",
+   "raw_flags": [
+    "margin<4"
+   ],
+   "final_flags": [],
+   "fixes": [
+    "object shifted by (0,3) to balance margins"
+   ],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_074_silver_archival_clip_with_leaf_jaws",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_075_sealed_humidity_control_cedar_capsule",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_076_stackable_parchment_document_tray",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_077_small_ladder_shaped_desktop_book_display",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_078_circular_rotating_seal_stamp_organizer",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_079_royal_map_storage_drum_with_side_crank",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_080_cloth_lined_crown_jewel_record_casket",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": "owner-approved replacement (reroll1); original rejected: drawn as a crown; near-duplicate of 020"
+  },
+  {
+   "stable_id": "pack10_081_gold_armillary_sphere_with_lapis_base",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_082_crystal_reading_lens_on_articulated_stand",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_083_ivory_celestial_globe_with_star_pinpoints",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_084_brass_library_humidity_balance_instrument",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_085_geared_mechanical_orrery_miniature",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": "owner-approved replacement (reroll1); original rejected: armillary-like sphere; near-duplicate of 081"
+  },
+  {
+   "stable_id": "pack10_086_silver_optical_prism_comparison_stand",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_087_golden_sand_flow_study_timer",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "renamed",
+   "review_note": "cube cabinet, sand not visible"
+  },
+  {
+   "stable_id": "pack10_088_geometric_solids_study_set_in_velvet_tray",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_089_court_astronomers_quadrant_with_sapphire_sight",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_090_handheld_crystal_spectrum_fan",
+   "raw_flags": [
+    "margin<4"
+   ],
+   "final_flags": [
+    "margin<4"
+   ],
+   "fixes": [
+    "object shifted by (0,1) to balance margins"
+   ],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_091_bronze_sound_resonance_tuning_disk",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_092_mechanical_arithmetic_wheel_with_blank_sectors",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_093_paired_balance_beams_for_measuring_tiny_objects",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_094_magnifying_crystal_book_page_weight",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_095_ivory_perspective_drawing_frame",
+   "raw_flags": [],
+   "final_flags": [
+    "margin<4"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": "owner-approved replacement (reroll1); original rejected: ornate gold-navy cube; near-duplicate of 087"
+  },
+  {
+   "stable_id": "pack10_096_small_brass_camera_obscura_chamber",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_097_porcelain_sphere_holding_a_magnetic_needle",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_098_folding_gold_angle_measuring_sector",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "renamed",
+   "review_note": "arc with gems"
+  },
+  {
+   "stable_id": "pack10_099_library_light_intensity_lens_meter",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": "owner-approved replacement (reroll1); original rejected: brass cylinder device; near-duplicate of 096"
+  },
+  {
+   "stable_id": "pack10_100_crystal_fractal_specimen_in_a_gold_gimbal",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_101_gold_footed_royal_drinking_chalice",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_102_silver_covered_serving_dish_with_acorn_handle",
+   "raw_flags": [
+    "margin<4"
+   ],
+   "final_flags": [
+    "margin<4"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_103_blue_porcelain_court_tea_service_for_one",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_104_crystal_fruit_bowl_on_gilded_claws",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_105_ivory_handled_ceremonial_cake_server",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_106_enamel_wine_ewer_with_pearl_neck",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_107_gold_lattice_salt_cellar_with_sapphire_lid",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_108_silver_folded_napkin_holder_shaped_as_crown",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": "owner-approved replacement (reroll1); original rejected: drawn as a crown; near-duplicate of 020/001"
+  },
+  {
+   "stable_id": "pack10_109_navy_velvet_ceremonial_cushion_with_tassels",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_110_crystal_honey_pot_with_gold_dipping_wand",
+   "raw_flags": [
+    "margin<4"
+   ],
+   "final_flags": [],
+   "fixes": [
+    "object shifted by (0,1) to balance margins"
+   ],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_111_small_rose_patterned_porcelain_soup_tureen",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_112_silver_court_herald_hand_bell",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_113_twin_candle_royal_table_centerpiece",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_114_gold_rimmed_carved_agate_dessert_plate",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_115_pearl_inlaid_folding_ceremonial_fan",
+   "raw_flags": [
+    "margin<4"
+   ],
+   "final_flags": [
+    "margin<4"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_116_gilded_glass_ceremonial_hour_vessel",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_117_velvet_lined_silver_presentation_tray",
+   "raw_flags": [
+    "margin<4"
+   ],
+   "final_flags": [
+    "margin<4"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_118_gold_footed_engraved_rosewater_bowl",
+   "raw_flags": [
+    "margin<4"
+   ],
+   "final_flags": [
+    "margin<4"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_119_crystal_decanter_with_crown_shaped_stopper",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_120_folded_embroidered_royal_table_runner",
+   "raw_flags": [
+    "margin<4"
+   ],
+   "final_flags": [
+    "margin<4"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_121_ivory_lecture_pointer_with_star_tip",
+   "raw_flags": [
+    "margin<4"
+   ],
+   "final_flags": [
+    "margin<4"
+   ],
+   "fixes": [
+    "object shifted by (0,1) to balance margins"
+   ],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_122_gold_rimmed_teaching_slate_with_blank_grid",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_123_mechanical_demonstration_sun_wheel",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_124_brass_specimen_pinning_frame_without_specimen",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_125_crystal_geometric_puzzle_cube_in_holder",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_126_blue_velvet_academic_cap_folded",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_127_silver_classroom_chime_on_walnut_stand",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "margin<4"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": "owner-approved replacement (reroll1); original rejected: silver bell; near-duplicate of 112"
+  },
+  {
+   "stable_id": "pack10_128_foldable_lecture_note_holding_easel",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_129_porcelain_pigment_mixing_mortar_with_gold_rim",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_130_royal_academy_admission_token_with_open_book",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "renamed",
+   "review_note": "box with book rather than a token"
+  },
+  {
+   "stable_id": "pack10_131_wooden_anatomical_articulation_model_hand",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_132_brass_lens_cleaning_brush_in_capped_tube",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_133_silk_sample_of_woven_mathematical_knot",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_134_gold_capped_library_silence_reminder_bell",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_135_crystal_light_refraction_pyramid",
+   "raw_flags": [
+    "margin<4"
+   ],
+   "final_flags": [
+    "margin<4"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_136_miniature_royal_academy_observatory_dome_model",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_137_mechanical_teaching_balance_with_star_pans",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": "owner-approved replacement (reroll1); original rejected: twin-pan scales; near-duplicate of 093"
+  },
+  {
+   "stable_id": "pack10_138_ivory_book_page_turning_finger_tool",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_139_folded_scholars_reading_shawl_with_blue_trim",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "renamed",
+   "review_note": "stack of folded cloth"
+  },
+  {
+   "stable_id": "pack10_140_silver_geometric_stencil_set_on_ring",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_141_crimson_wax_royal_seal_on_folded_parchment",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_142_silver_handled_diplomatic_seal_stamp",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_143_blue_ribbon_treaty_scroll_with_twin_cases",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_144_ivory_witness_seal_cylinder_with_star_pattern",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_145_gold_tasseled_appointment_document_tube",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": "owner-approved replacement (reroll2); original rejected: document tube; near-duplicate of 064"
+  },
+  {
+   "stable_id": "pack10_146_folded_navy_envelope_with_pearl_clasp",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_147_royal_warrant_plaque_with_abstract_raised_marks",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_148_velvet_pouch_containing_three_different_seal_tokens",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_149_gilded_blank_certificate_frame_miniature",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_150_wax_bead_melting_spoon_with_long_handle",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_151_two_color_wax_stick_bundle_with_ivory_tie",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_152_brass_seal_cooling_plate_with_carved_rim",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_153_ribbon_threading_needle_for_royal_documents",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "renamed",
+   "review_note": "tassel ornament rather than a needle"
+  },
+  {
+   "stable_id": "pack10_154_embossed_parchment_invitation_with_sunburst_edge",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "renamed",
+   "review_note": "medallion rather than an invitation"
+  },
+  {
+   "stable_id": "pack10_155_golden_notary_clasp_joining_two_sheets",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_156_small_locked_diplomatic_dispatch_cylinder",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "renamed",
+   "review_note": "coffer rather than a cylinder"
+  },
+  {
+   "stable_id": "pack10_157_crystal_authenticity_lens_in_silver_ring",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_158_silver_paper_corner_binding_clip",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_159_rolled_royal_decree_with_ceremonial_baton",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_160_book_shaped_archive_permission_token",
+   "raw_flags": [
+    "margin<4",
+    "colors>48"
+   ],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": "owner-approved replacement (reroll1); original rejected: closed navy-gold tome; near-duplicate of 045"
+  },
+  {
+   "stable_id": "pack10_161_carved_jade_lion_miniature_on_gold_base",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_162_enamel_mechanical_peacock_ornament",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_163_crystal_chess_king_with_ivory_crown",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "renamed",
+   "review_note": "knight piece rather than king"
+  },
+  {
+   "stable_id": "pack10_164_gold_framed_miniature_landscape_with_abstract_shapes",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_165_pearl_celestial_sphere_keepsake",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_166_lapis_carved_royal_garden_fountain_model",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_167_silver_articulated_dragonfly_brooch_on_stand",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_168_ivory_labyrinth_puzzle_ball_in_cradle",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_169_gilt_framed_pressed_golden_leaf_specimen",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_170_crystal_rose_inside_a_silver_display_dome",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_171_tiny_jeweled_court_carriage_model",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_172_bronze_miniature_royal_theater_mask",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_173_agate_cameo_medallion_with_generic_profile",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_174_porcelain_songbird_on_gilded_branch",
+   "raw_flags": [
+    "margin<4"
+   ],
+   "final_flags": [],
+   "fixes": [
+    "object shifted by (3,0) to balance margins"
+   ],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_175_gold_leaf_model_of_an_ancient_observatory",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_176_silver_shell_shaped_music_casket",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_177_enamel_heraldic_board_game_piece_tray",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_178_miniature_crystal_crown_under_glass",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "margin<4"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": "owner-approved replacement (reroll1); original rejected: crown without the glass; near-duplicate of 020"
+  },
+  {
+   "stable_id": "pack10_179_carved_walnut_astrolabe_shaped_keepsake_box",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_180_pearl_inlaid_mechanical_flower_ornament",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_181_floating_silver_page_held_by_two_gold_clasps",
+   "raw_flags": [
+    "margin<4"
+   ],
+   "final_flags": [
+    "margin<4"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_182_library_master_key_shaped_as_open_wings",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_183_crystal_bookmark_projecting_tiny_star_sparks",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_184_royal_pact_ring_enclosing_a_glowing_letterless_scroll",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_185_sealed_forbidden_shelf_latch_with_sapphire_eye",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": "owner-approved replacement (reroll1); original rejected: drawn as a domed chest; near-duplicate of 065"
+  },
+  {
+   "stable_id": "pack10_186_book_spine_containing_a_miniature_turning_galaxy",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_187_golden_index_wheel_with_one_missing_leaf",
+   "raw_flags": [
+    "margin<4",
+    "colors>48"
+   ],
+   "final_flags": [
+    "margin<4",
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_188_ivory_truth_mirror_shaped_as_an_open_book",
+   "raw_flags": [
+    "margin<4"
+   ],
+   "final_flags": [
+    "margin<4"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_189_inkless_quill_suspended_over_a_crystal_tablet",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_190_lost_royal_storybook_with_a_golden_door_cover",
+   "raw_flags": [
+    "margin<4",
+    "colors>48"
+   ],
+   "final_flags": [
+    "margin<4",
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_191_moon_dial_library_vault_activation_disc",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_192_silver_reader_mask_with_translucent_crystal_lenses",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_193_living_ribbon_bookmark_coiled_around_a_pearl",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_194_keyless_book_lock_formed_by_interwoven_gold_roots",
+   "raw_flags": [
+    "margin<4",
+    "colors>48"
+   ],
+   "final_flags": [
+    "margin<4",
+    "colors>48"
+   ],
+   "fixes": [
+    "object shifted by (1,0) to balance margins"
+   ],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_195_crystalline_royal_memory_shard_in_velvet_frame",
+   "raw_flags": [
+    "colors>48"
+   ],
+   "final_flags": [
+    "colors>48"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_196_ancient_archive_bell_with_a_silent_blue_flame",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_197_two_joined_treaty_seals_suspended_in_crystal",
+   "raw_flags": [
+    "margin<4"
+   ],
+   "final_flags": [],
+   "fixes": [
+    "object shifted by (0,1) to balance margins"
+   ],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_198_library_guardian_mechanical_owl_key_component",
+   "raw_flags": [
+    "margin<4"
+   ],
+   "final_flags": [
+    "margin<4"
+   ],
+   "fixes": [],
+   "review": "accepted",
+   "review_note": ""
+  },
+  {
+   "stable_id": "pack10_199_sun_and_moon_page_clasp_pair_connected_by_chain",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "renamed",
+   "review_note": "book with clasp chain"
+  },
+  {
+   "stable_id": "pack10_200_crown_shaped_folio_holding_a_floating_blank_page",
+   "raw_flags": [],
+   "final_flags": [],
+   "fixes": [],
+   "review": "renamed",
+   "review_note": "crown on folio, page not floating"
+  }
+ ]
+}

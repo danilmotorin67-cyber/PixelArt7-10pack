@@ -99,9 +99,17 @@
     "h": 64
    }
   },
-  "pack09_133_silver_wind_chime_from_a_lost_tower": {
+  "pack09_132_transparent_sky_coral_branching_relic": {
    "frame": {
     "x": 70,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack09_133_silver_wind_chime_from_a_lost_tower": {
+   "frame": {
+    "x": 138,
     "y": 138,
     "w": 64,
     "h": 64
@@ -109,7 +117,7 @@
   },
   "pack09_134_ancient_feather_shaped_stone_key": {
    "frame": {
-    "x": 138,
+    "x": 206,
     "y": 138,
     "w": 64,
     "h": 64
@@ -117,7 +125,7 @@
   },
   "pack09_135_winged_bronze_sundial_with_cracked_face": {
    "frame": {
-    "x": 206,
+    "x": 274,
     "y": 138,
     "w": 64,
     "h": 64
@@ -125,21 +133,13 @@
   },
   "pack09_136_floating_island_crystal_anchor_shard": {
    "frame": {
-    "x": 274,
-    "y": 138,
-    "w": 64,
-    "h": 64
-   }
-  },
-  "pack09_137_stone_bird_nest_holding_opal_eggs": {
-   "frame": {
     "x": 2,
     "y": 206,
     "w": 64,
     "h": 64
    }
   },
-  "pack09_138_blue_glass_roof_finial_from_a_sky_palace": {
+  "pack09_137_stone_bird_nest_holding_opal_eggs": {
    "frame": {
     "x": 70,
     "y": 206,
@@ -147,7 +147,7 @@
     "h": 64
    }
   },
-  "pack09_139_suspended_rain_droplet_inside_stone_ring": {
+  "pack09_138_blue_glass_roof_finial_from_a_sky_palace": {
    "frame": {
     "x": 138,
     "y": 206,
@@ -155,9 +155,17 @@
     "h": 64
    }
   },
-  "pack09_140_cloud_gate_plaque_with_original_geometric_crest": {
+  "pack09_139_suspended_rain_droplet_inside_stone_ring": {
    "frame": {
     "x": 206,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack09_140_cloud_gate_plaque_with_original_geometric_crest": {
+   "frame": {
+    "x": 274,
     "y": 206,
     "w": 64,
     "h": 64

@@ -51,9 +51,17 @@
     "h": 64
    }
   },
-  "pack09_047_finned_copper_condenser_radiator": {
+  "pack09_046_twin_cylinder_airship_engine_miniature": {
    "frame": {
     "x": 2,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack09_047_finned_copper_condenser_radiator": {
+   "frame": {
+    "x": 70,
     "y": 70,
     "w": 64,
     "h": 64
@@ -61,7 +69,7 @@
   },
   "pack09_048_rotating_wing_pitch_control_linkage": {
    "frame": {
-    "x": 70,
+    "x": 138,
     "y": 70,
     "w": 64,
     "h": 64
@@ -69,7 +77,7 @@
   },
   "pack09_049_pressure_sealed_lift_gas_capsule": {
    "frame": {
-    "x": 138,
+    "x": 206,
     "y": 70,
     "w": 64,
     "h": 64
@@ -77,7 +85,7 @@
   },
   "pack09_050_steam_driven_counter_rotating_gear_pair": {
    "frame": {
-    "x": 206,
+    "x": 274,
     "y": 70,
     "w": 64,
     "h": 64
@@ -85,15 +93,15 @@
   },
   "pack09_051_airship_fuel_injector_with_ceramic_tip": {
    "frame": {
-    "x": 274,
-    "y": 70,
+    "x": 2,
+    "y": 138,
     "w": 64,
     "h": 64
    }
   },
   "pack09_052_gyroscopic_stabilizer_flywheel_housing": {
    "frame": {
-    "x": 2,
+    "x": 70,
     "y": 138,
     "w": 64,
     "h": 64
@@ -101,21 +109,13 @@
   },
   "pack09_053_small_brass_chimney_exhaust_separator": {
    "frame": {
-    "x": 70,
-    "y": 138,
-    "w": 64,
-    "h": 64
-   }
-  },
-  "pack09_056_compact_mechanical_throttle_lever_quadrant": {
-   "frame": {
     "x": 138,
     "y": 138,
     "w": 64,
     "h": 64
    }
   },
-  "pack09_057_oil_drip_engine_lubrication_cup": {
+  "pack09_054_crystal_energized_propeller_shaft_coupler": {
    "frame": {
     "x": 206,
     "y": 138,
@@ -123,7 +123,7 @@
     "h": 64
    }
   },
-  "pack09_058_helium_circulation_pump_with_glass_window": {
+  "pack09_055_balloon_pressure_relief_spring_valve": {
    "frame": {
     "x": 274,
     "y": 138,
@@ -131,7 +131,7 @@
     "h": 64
    }
   },
-  "pack09_059_thermal_lift_coil_inside_copper_cage": {
+  "pack09_056_compact_mechanical_throttle_lever_quadrant": {
    "frame": {
     "x": 2,
     "y": 206,
@@ -139,9 +139,33 @@
     "h": 64
    }
   },
-  "pack09_060_clockwork_auxiliary_propulsion_fan": {
+  "pack09_057_oil_drip_engine_lubrication_cup": {
    "frame": {
     "x": 70,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack09_058_helium_circulation_pump_with_glass_window": {
+   "frame": {
+    "x": 138,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack09_059_thermal_lift_coil_inside_copper_cage": {
+   "frame": {
+    "x": 206,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack09_060_clockwork_auxiliary_propulsion_fan": {
+   "frame": {
+    "x": 274,
     "y": 206,
     "w": 64,
     "h": 64

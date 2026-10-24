@@ -1,0 +1,175 @@
+{
+ "meta": {
+  "image": "08_seals_documents.png",
+  "size": {
+   "w": 340,
+   "h": 272
+  },
+  "cell": 68,
+  "padding": 2,
+  "columns": 5,
+  "rows": 4
+ },
+ "frames": {
+  "pack10_141_crimson_wax_royal_seal_on_folded_parchment": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_142_silver_handled_diplomatic_seal_stamp": {
+   "frame": {
+    "x": 70,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_143_blue_ribbon_treaty_scroll_with_twin_cases": {
+   "frame": {
+    "x": 138,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_144_ivory_witness_seal_cylinder_with_star_pattern": {
+   "frame": {
+    "x": 206,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_145_gold_tasseled_appointment_document_tube": {
+   "frame": {
+    "x": 274,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_146_folded_navy_envelope_with_pearl_clasp": {
+   "frame": {
+    "x": 2,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_147_royal_warrant_plaque_with_abstract_raised_marks": {
+   "frame": {
+    "x": 70,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_148_velvet_pouch_containing_three_different_seal_tokens": {
+   "frame": {
+    "x": 138,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_149_gilded_blank_certificate_frame_miniature": {
+   "frame": {
+    "x": 206,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_150_wax_bead_melting_spoon_with_long_handle": {
+   "frame": {
+    "x": 274,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_151_two_color_wax_stick_bundle_with_ivory_tie": {
+   "frame": {
+    "x": 2,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_152_brass_seal_cooling_plate_with_carved_rim": {
+   "frame": {
+    "x": 70,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_153_ribbon_threading_needle_for_royal_documents": {
+   "frame": {
+    "x": 138,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_154_embossed_parchment_invitation_with_sunburst_edge": {
+   "frame": {
+    "x": 206,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_155_golden_notary_clasp_joining_two_sheets": {
+   "frame": {
+    "x": 274,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_156_small_locked_diplomatic_dispatch_cylinder": {
+   "frame": {
+    "x": 2,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_157_crystal_authenticity_lens_in_silver_ring": {
+   "frame": {
+    "x": 70,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_158_silver_paper_corner_binding_clip": {
+   "frame": {
+    "x": 138,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_159_rolled_royal_decree_with_ceremonial_baton": {
+   "frame": {
+    "x": 206,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_160_book_shaped_archive_permission_token": {
+   "frame": {
+    "x": 274,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   }
+  }
+ }
+}

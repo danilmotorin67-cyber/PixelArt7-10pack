@@ -1,0 +1,175 @@
+{
+ "meta": {
+  "image": "02_writing_tools.png",
+  "size": {
+   "w": 340,
+   "h": 272
+  },
+  "cell": 68,
+  "padding": 2,
+  "columns": 5,
+  "rows": 4
+ },
+ "frames": {
+  "pack10_021_swan_feather_quill_with_gold_nib_guard": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_022_bronze_inkpot_shaped_as_curled_leaf": {
+   "frame": {
+    "x": 70,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_023_ivory_handled_parchment_scraping_knife": {
+   "frame": {
+    "x": 138,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_024_crystal_glass_dip_pen_with_spiral_tip": {
+   "frame": {
+    "x": 206,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_025_golden_sand_shaker_with_pierced_lid": {
+   "frame": {
+    "x": 274,
+    "y": 2,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_026_silver_reed_pen_case_with_sliding_cap": {
+   "frame": {
+    "x": 2,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_027_wooden_ruling_board_with_ivory_edge": {
+   "frame": {
+    "x": 70,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_028_royal_scribes_wax_tablet_in_hinged_frame": {
+   "frame": {
+    "x": 138,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_029_small_porcelain_brush_washing_bowl": {
+   "frame": {
+    "x": 206,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_030_leather_pen_roll_holding_three_different_nibs": {
+   "frame": {
+    "x": 274,
+    "y": 70,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_031_brass_nib_polishing_stone_holder": {
+   "frame": {
+    "x": 2,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_032_calligraphers_elbow_rest_in_velvet": {
+   "frame": {
+    "x": 70,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_033_gold_leaf_application_brush_in_tube": {
+   "frame": {
+    "x": 138,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_034_parchment_edge_trimming_wheel": {
+   "frame": {
+    "x": 206,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_035_folded_blotting_paper_fan_with_clasp": {
+   "frame": {
+    "x": 274,
+    "y": 138,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_036_ceramic_ink_mixing_palette_with_three_wells": {
+   "frame": {
+    "x": 2,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_037_quill_cutting_pocket_knife_with_short_blade": {
+   "frame": {
+    "x": 70,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_038_pearl_handled_paper_piercing_awl": {
+   "frame": {
+    "x": 138,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_039_compact_royal_writing_slope_closed": {
+   "frame": {
+    "x": 206,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack10_040_spiral_metal_pen_rest_with_sapphire_inset": {
+   "frame": {
+    "x": 274,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   }
+  }
+ }
+}

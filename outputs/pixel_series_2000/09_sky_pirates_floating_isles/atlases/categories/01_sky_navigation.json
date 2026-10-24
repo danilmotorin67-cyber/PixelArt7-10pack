@@ -123,7 +123,7 @@
     "h": 64
    }
   },
-  "pack09_016_distance_counting_air_log_propeller_instrument": {
+  "pack09_015_ship_mounted_navigation_lamp_miniature": {
    "frame": {
     "x": 274,
     "y": 138,
@@ -131,7 +131,7 @@
     "h": 64
    }
   },
-  "pack09_017_twin_lens_cloud_gap_scouting_binoculars": {
+  "pack09_016_distance_counting_air_log_propeller_instrument": {
    "frame": {
     "x": 2,
     "y": 206,
@@ -139,7 +139,7 @@
     "h": 64
    }
   },
-  "pack09_018_pocket_sky_island_silhouette_reference_fan": {
+  "pack09_017_twin_lens_cloud_gap_scouting_binoculars": {
    "frame": {
     "x": 70,
     "y": 206,
@@ -147,7 +147,7 @@
     "h": 64
    }
   },
-  "pack09_019_compass_rose_shaped_plotting_divider": {
+  "pack09_018_pocket_sky_island_silhouette_reference_fan": {
    "frame": {
     "x": 138,
     "y": 206,
@@ -155,9 +155,17 @@
     "h": 64
    }
   },
-  "pack09_020_glass_storm_globe_inside_a_leather_yoke": {
+  "pack09_019_compass_rose_shaped_plotting_divider": {
    "frame": {
     "x": 206,
+    "y": 206,
+    "w": 64,
+    "h": 64
+   }
+  },
+  "pack09_020_glass_storm_globe_inside_a_leather_yoke": {
+   "frame": {
+    "x": 274,
     "y": 206,
     "w": 64,
     "h": 64

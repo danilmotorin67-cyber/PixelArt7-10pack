@@ -13,6 +13,7 @@ import datetime as dt
 import hashlib
 import json
 import os
+import re
 import sqlite3
 import sys
 import time
@@ -55,6 +56,12 @@ REROLLS = {
 }
 
 
+ROUND = int(os.environ.get("REROLL_ROUND", "1"))
+ROUND2 = {  # second replacement where round 1 still came out as a near-duplicate
+    "pack10_145_gold_tasseled_appointment_document_tube": "Rolled appointment scroll tied with a navy ribbon, a gold tassel hanging from the ribbon, lying diagonally",
+}
+
+
 def now():
     return dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")
 
@@ -71,7 +78,8 @@ def poll_once(c, plan, jobs):
         imgs = mcp.images_of(result)
         if status == "completed" and imgs:
             png = base64.b64decode(imgs[0]["data"])
-            out = os.path.join(PROD, "rerolls", plan[asset]["filename"])
+            sub = "rerolls" if aid.startswith("reroll1_") else os.path.join("rerolls", aid.split("_")[0])
+            out = os.path.join(PROD, sub, plan[asset]["filename"])
             os.makedirs(os.path.dirname(out), exist_ok=True)
             with open(out, "wb") as f:
                 f.write(png)
@@ -99,20 +107,21 @@ def main():
         receipt_path TEXT, charged_units INTEGER, local_file TEXT, approval TEXT NOT NULL)""")
     jobs = {}
     only = int(sys.argv[1]) if len(sys.argv) > 1 else None
-    for asset, text in REROLLS.items():
+    todo = REROLLS if ROUND == 1 else ROUND2
+    for asset, text in todo.items():
         if only and plan[asset]["pack_number"] != only:
             continue
-        if c.execute("SELECT 1 FROM reroll_attempts WHERE asset_id=?", (asset,)).fetchone():
+        if c.execute("SELECT 1 FROM reroll_attempts WHERE attempt_id=?", ("reroll%d_%s" % (ROUND, asset),)).fetchone():
             continue
         while len(jobs) >= 8:  # at most 8 own jobs in flight
             poll_once(c, plan, jobs)
             time.sleep(5)
         e = dict(plan[asset], name_en=text)
         build = prompt_v4 if e["pack_number"] == 9 else prompt_v2
-        args = dict(e["args"], description=build(e), seed=e["args"]["seed"] + 1000000)
+        args = dict(e["args"], description=build(e), seed=e["args"]["seed"] + 1000000 * ROUND)
         sha = hashlib.sha256(json.dumps(args, sort_keys=True, separators=(",", ":")).encode()).hexdigest()
         rid = str(uuid.uuid4())
-        aid = "reroll1_" + asset
+        aid = "reroll%d_%s" % (ROUND, asset)
         c.execute("INSERT INTO reroll_attempts(attempt_id,asset_id,request_id,request_sha256,item_text,state,"
                   "submitted_at,approval) VALUES(?,?,?,?,?,'submitting',?,?)",
                   (aid, asset, rid, sha, text, now(), "user: доделай пак до 200 артов / и пак 10 тоже доделай до 200"))
@@ -123,12 +132,15 @@ def main():
             c.execute("UPDATE reroll_attempts SET state='ambiguous' WHERE attempt_id=?", (aid,))
             print("AMBIGUOUS", asset, repr(ex)[:200])
             break
-        rpath = os.path.join(PROD, "receipts", asset + ".reroll.json")
+        rpath = os.path.join(PROD, "receipts", asset + (".reroll.json" if ROUND == 1 else ".reroll%d.json" % ROUND))
         with open(rpath + ".tmp", "w", encoding="utf-8") as f:
             json.dump({"attempt_id": aid, "request_id": rid, "request_sha256": sha, "arguments": args,
                        "received_at": now(), "result": result}, f, ensure_ascii=False)
         os.replace(rpath + ".tmp", rpath)
         job = (result.get("structuredContent") or {}).get("job_id")
+        if not job:
+            m = re.search(r"job_id:\s*([0-9a-f-]{36})", mcp.text_of(result))
+            job = m.group(1) if m else None
         if not job:
             c.execute("UPDATE reroll_attempts SET state='ambiguous', receipt_path=? WHERE attempt_id=?",
                       (os.path.relpath(rpath, ROOT), aid))
