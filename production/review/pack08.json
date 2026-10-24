@@ -93,5 +93,10 @@
   "decision": "renamed",
   "note": "whole doll rather than an arm",
   "drawn_as": "Small porcelain doll in a repair tray"
+ },
+ "pack08_180_mirror_shutter_spirit_observation_box": {
+  "decision": "renamed",
+  "note": "chest without a visible mirror shutter",
+  "drawn_as": "Velvet-lidded spirit observation chest"
  }
 }
