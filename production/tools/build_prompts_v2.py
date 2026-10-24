@@ -29,13 +29,14 @@ def prompt(e):
             "plain transparent background.")
 
 
-with open(V1, encoding="utf-8") as f, open(V2 + ".tmp", "w", encoding="utf-8") as out:
-    for e in map(json.loads, f):
-        e = dict(e)
-        e["prompt_version"] = 2
-        e["prompt"] = prompt(e)
-        e["args"] = dict(e["args"], description=e["prompt"])
-        e["request_sha256"] = hashlib.sha256(
-            json.dumps(e["args"], sort_keys=True, separators=(",", ":")).encode()).hexdigest()
-        out.write(json.dumps(e, ensure_ascii=False) + "\n")
-os.replace(V2 + ".tmp", V2)
+if __name__ == "__main__":
+    with open(V1, encoding="utf-8") as f, open(V2 + ".tmp", "w", encoding="utf-8") as out:
+        for e in map(json.loads, f):
+            e = dict(e)
+            e["prompt_version"] = 2
+            e["prompt"] = prompt(e)
+            e["args"] = dict(e["args"], description=e["prompt"])
+            e["request_sha256"] = hashlib.sha256(
+                json.dumps(e["args"], sort_keys=True, separators=(",", ":")).encode()).hexdigest()
+            out.write(json.dumps(e, ensure_ascii=False) + "\n")
+    os.replace(V2 + ".tmp", V2)

@@ -3,9 +3,10 @@
 "доделай пак до 200 артов"). Outside the method's one-attempt-per-slot plan, so they are
 kept in their own ledger table `reroll_attempts`, with receipts as <id>.reroll.json.
 
-Each replacement uses prompt v4 (pack 09) with an adjusted item text that avoids the words
-that turned items into vehicles, and a new seed. Same reserve -> one call -> receipt flow.
-Usage: reroll.py   (processes the REROLLS list below; skips ones already attempted)
+Each replacement uses the pack's latest prompt (v4 for pack 09, v2 for pack 10) with an
+adjusted item text (pack 09: without the words that turned items into vehicles; pack 10:
+naming the book construction) and a new seed. Same reserve -> one call -> receipt flow.
+Usage: reroll.py [PACK]   (processes REROLLS, optionally one pack; skips ones already attempted)
 """
 import base64
 import datetime as dt
@@ -13,10 +14,12 @@ import hashlib
 import json
 import os
 import sqlite3
+import sys
 import time
 import uuid
 
 import pixellab_mcp as mcp
+from build_prompts_v2 import prompt as prompt_v2
 from build_prompts_v4_pack09 import prompt as prompt_v4
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
@@ -34,6 +37,10 @@ REROLLS = {
     "pack09_144_brass_pocket_sky_telescope_with_shoulder_strap": "Single tube brass pocket telescope with a shoulder strap",
     "pack09_184_airship_master_engine_ignition_key": "Master engine ignition key with a brass bow",
     "pack09_200_final_flight_log_sealed_by_a_brass_propeller": "Final flight logbook sealed with a brass propeller emblem",
+    "pack10_049_triptych_hinged_map_book_with_blue_panels": "Triptych map book standing open as three hinged blue panels",
+    "pack10_053_pearl_inlaid_music_score_codex_without_text": "Tall narrow music score codex standing upright, pearl inlay on the spine, ribbon bookmarks hanging",
+    "pack10_068_locking_metal_deed_storage_box": "Flat rectangular metal deed box with a hinged lid and a padlock hasp",
+    "pack10_080_cloth_lined_crown_jewel_record_casket": "Low open casket lined with navy cloth, a velvet tray inside",
 }
 
 
@@ -53,17 +60,21 @@ def main():
         state TEXT NOT NULL, submitted_at TEXT, job_id TEXT UNIQUE, gallery_id TEXT,
         receipt_path TEXT, charged_units INTEGER, local_file TEXT, approval TEXT NOT NULL)""")
     jobs = {}
+    only = int(sys.argv[1]) if len(sys.argv) > 1 else None
     for asset, text in REROLLS.items():
+        if only and plan[asset]["pack_number"] != only:
+            continue
         if c.execute("SELECT 1 FROM reroll_attempts WHERE asset_id=?", (asset,)).fetchone():
             continue
         e = dict(plan[asset], name_en=text)
-        args = dict(e["args"], description=prompt_v4(e), seed=e["args"]["seed"] + 1000000)
+        build = prompt_v4 if e["pack_number"] == 9 else prompt_v2
+        args = dict(e["args"], description=build(e), seed=e["args"]["seed"] + 1000000)
         sha = hashlib.sha256(json.dumps(args, sort_keys=True, separators=(",", ":")).encode()).hexdigest()
         rid = str(uuid.uuid4())
         aid = "reroll1_" + asset
         c.execute("INSERT INTO reroll_attempts(attempt_id,asset_id,request_id,request_sha256,item_text,state,"
                   "submitted_at,approval) VALUES(?,?,?,?,?,'submitting',?,?)",
-                  (aid, asset, rid, sha, text, now(), "user: доделай пак до 200 артов"))
+                  (aid, asset, rid, sha, text, now(), "user: доделай пак до 200 артов / и пак 10 тоже доделай до 200"))
         keys = ("description", "width", "height", "no_background", "view", "direction", "outline", "detail", "seed")
         try:
             result, _ = mcp.call("create_image_pixen", {k: args[k] for k in keys}, timeout=90)

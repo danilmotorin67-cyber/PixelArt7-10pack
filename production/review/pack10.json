@@ -31,5 +31,13 @@
   "decision": "renamed",
   "note": "cylinder case rather than a book",
   "drawn_as": "Braided-cord bound scroll case"
+ },
+ "pack10_068_locking_metal_deed_storage_box": {
+  "decision": "problem",
+  "note": "domed chest; near-duplicate of 065"
+ },
+ "pack10_080_cloth_lined_crown_jewel_record_casket": {
+  "decision": "problem",
+  "note": "drawn as a crown; near-duplicate of 020"
  }
 }
