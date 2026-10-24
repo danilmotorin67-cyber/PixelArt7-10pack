@@ -64,6 +64,16 @@
   "note": "square casket rather than urn",
   "drawn_as": "Ivy-wrapped ceramic funeral casket"
  },
+ "pack08_105_brass_clock_escapement_assembly": {
+  "decision": "renamed",
+  "note": "escapement reads as watch movement",
+  "drawn_as": "Brass clock movement on a walnut tray"
+ },
+ "pack08_120_bronze_coffin_latch_with_rose_rivets": {
+  "decision": "renamed",
+  "note": "whole chest instead of a latch",
+  "drawn_as": "Bronze-banded coffer with rose rivets"
+ },
  "pack08_121_porcelain_doll_with_stitched_cloth_torso": {
   "decision": "accepted",
   "note": "v1 pilot added crystal horns",
